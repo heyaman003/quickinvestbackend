@@ -1,0 +1,196 @@
+@import "../../responsive/breakpoints";
+@import "../../abstract/variables";
+@import "../UserContainer/updatePassword";
+
+.blocked_menber {
+  color: rgb(93, 164, 93);
+}
+
+// @mixin title {
+//   text-align: start;
+//   margin-bottom: 20px;
+//   h2 {
+//     font-size: 18px;
+//     text-transform: capitalize;
+//     color: $text-p-color;
+//     transition: all 0.3s ease-in-out;
+//   }
+// }
+// @mixin card {
+//   padding: 25px;
+//   min-height: 250px;
+// }
+
+.tp_updatepassword_page_wrapper {
+  margin-top: 20px;
+  .tp_accountpassword_card {
+    @include card();
+    .tp_accountpassword_title {
+      @include title();
+    }
+    .tp_accountpassword_field {
+      display: grid;
+      grid-template-columns: repeat(2, 1fr);
+      form {
+        @include form();
+        .left {
+          margin-right: 33px !important;
+          @include breakpoints(portraitTablet) {
+            margin-right: 16px !important;
+          }
+        }
+        .input_group {
+          width: 50%;
+          @include breakpoints(portraitTablet) {
+            width: auto;
+            margin: 10px 0;
+          }
+        }
+        .show_password {
+          input[type="checkbox" i] {
+            width: 15px;
+            height: 14px;
+          }
+          label {
+            font-size: 13px;
+            margin-left: 10px;
+            text-transform: capitalize;
+            color: $text-p-color;
+            transition: all 0.3s ease-in-out;
+          }
+        }
+      }
+    }
+    .team_over_view {
+      h2 {
+        color: $text-black;
+        font-size: 22px;
+        margin-bottom: -15px !important;
+      }
+      .tp_dash_content_item {
+        width: 100%;
+        .tp_dash_content {
+          display: grid;
+          grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+          margin-top: 20px;
+          grid-gap: 15px;
+          .ss-trade_dash_card_wrapper {
+            background-image: url("../../../assets/Admin/cardimg.jpg");
+            background-position: center center;
+            background-repeat: no-repeat;
+            background-size: 100% 100%;
+            position: relative;
+            padding: 44px 22px;
+            background-color: $bg-white;
+            box-shadow: $box-shadow-1;
+            transition: all 0.3s ease-in-out;
+            border: $border-1;
+            border-radius: 10px;
+            .ss-trade_content {
+              display: flex;
+              align-items: center;
+              transition: all 0.3s ease-in-out;
+              justify-content: space-between;
+              @include breakpoints(largeLaptop) {
+                justify-content: space-between;
+              }
+              .ss-trade_widget_info {
+                p {
+                  font-size: 32px;
+                  color: $text-p-color;
+                  // white-space: nowrap;
+                  -webkit-text-stroke: 0.1px black;
+                  color: white;
+                  text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000,
+                    -1px 1px 0 #000, 1px 1px 0 #000;
+                }
+                .ss-trade_widget_info_text {
+                  font-size: 25px;
+                  color: $text-p-color;
+                  // white-space: nowrap;
+                  -webkit-text-stroke: 0.1px black;
+                  color: white;
+                  text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000,
+                    -1px 1px 0 #000, 1px 1px 0 #000;
+                }
+                button {
+                  background-color: transparent;
+                  border: none;
+                  outline: none;
+                  text-align: left;
+                  cursor: pointer;
+                }
+                h2 {
+                  font-size: 24px;
+                  color: #fff;
+                  margin-bottom: 10px !important;
+                }
+                a {
+                  color: $text-black;
+                  font-size: 13px;
+                  text-transform: capitalize;
+                  font-weight: 500;
+                  &:hover {
+                    color: $text-menu-active-color;
+                  }
+                }
+              }
+              .ss-trade_widget_icon {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 50%;
+                padding: 0px;
+                order: 2;
+                margin-right: 0px;
+                svg {
+                  color: #fff;
+                  font-size: 30px;
+                  border-radius: 50px;
+                  padding: 10px;
+                }
+              }
+            }
+            .cardBottom {
+              margin-top: 0px;
+              .bottom_content {
+                ul {
+                  list-style: none;
+                  margin: 0px;
+                  padding: 0px;
+                  margin-left: 11px;
+                  display: flex;
+                  flex-wrap: wrap;
+                  li {
+                    position: relative;
+                    margin-right: 20px;
+                    font-size: 16px;
+                    color: $text-p-color;
+                    &::before {
+                      position: absolute;
+                      content: "";
+                      width: 5px;
+                      height: 5px;
+                      background: #38cab3;
+                      border-radius: 50%;
+                      top: 38%;
+                      left: -11px;
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+        .ss-trade_dashboard_chart {
+          margin-top: 20px !important;
+          // margin-right: 10px !important;
+          padding-top: 10px !important;
+          @include breakpoints(largeLaptop) {
+            margin-right: 0px !important;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,333 @@
+@import "../abstract/variables";
+@import "../responsive/breakpoints";
+.modal {
+  position: fixed;
+  top: -100vh; // -100vh
+  left: 0px;
+  width: 100%;
+  height: 100%;
+  transition: top 0ms ease-in-out 300ms;
+  .overlay {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    opacity: 0;
+    transition: opacity 100ms ease-in-out 200ms;
+    user-select: none;
+    z-index: 999;
+  }
+  .modal__body {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%) scale(1.15); // added scale(1.15)
+    opacity: 0; // adding
+    width: 95%;
+    max-width: 80%;
+    background-color: $bg-white;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 2px 2px 5px rgba(0, 0, 0, 0.05);
+    transition: all 300ms ease-in-out;
+    z-index: 99999999999999999;
+    .modal__title {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-bottom: $border-1;
+      padding-bottom: 5px;
+      h2 {
+        font-size: 20px;
+        font-weight: 900 !important;
+        color: $text-black;
+      }
+      .modal__close {
+        font-size: 20px;
+        font-weight: 900 !important;
+        color: $text-black;
+        cursor: pointer;
+        user-select: none;
+      }
+    }
+    .modal__content {
+      color: $text-black;
+      margin-top: 10px;
+      .modal__footer__area {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        gap: 10px;
+        margin-top: 10px;
+        button {
+          padding: 5px 10px;
+          border: $border-1;
+          outline: none;
+          cursor: pointer;
+          background: $tb-text-dark-color;
+          color: $text-white;
+          font-size: 17px;
+          font-family: $font-family;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+.modal.active {
+  top: 0px;
+  transition: top 0ms ease-in-out 0ms;
+  z-index: 9999;
+}
+.modal.active .overlay {
+  opacity: 1;
+  transition: all 300ms ease-in-out;
+  z-index: 9999;
+}
+.modal.active .modal__body {
+  transform: translate(-50%, -50%) scale(1);
+  opacity: 1;
+}
+// set custom modal
+
+.custom_modal {
+  position: fixed;
+  background: $bg-white;
+  border: 1px solid hsla(0deg, 0%, 88%, 0.38) !important;
+  padding: 15px;
+  width: 30%;
+  height: 450px;
+  overflow: auto;
+  margin: 0 auto;
+  top: 50%;
+  left: 0;
+  right: 0;
+  transform: translateY(-50%);
+  transform-origin: center;
+  z-index: 9999;
+  @include breakpoints(largeLaptop) {
+    width: 40%;
+  }
+  @include breakpoints(tablet) {
+    width: 60%;
+  }
+  @include breakpoints(largeMobile) {
+    width: 80%;
+  }
+  .title {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h2 {
+      font-size: 18px;
+      font-weight: 600;
+      color: $text-p-color;
+      @include breakpoints(semiPortraitTablet) {
+        font-size: 18px;
+      }
+    }
+    span {
+      font-size: 25px;
+      cursor: pointer;
+      user-select: none;
+      color: $text-p-color;
+    }
+  }
+}
+// backdrop effect
+.backdrop_effect {
+  position: fixed;
+  background: rgb(0 0 0 / 71%);
+  width: 100%;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  z-index: 999;
+  cursor: pointer;
+}
+.ss-trade_commol_modal_field {
+  // modal input field
+  color: $text-black;
+  h2 {
+    color: $text-black;
+    font-size: 22px;
+    margin-bottom: -15px !important;
+  }
+  .form_group {
+    // display: flex;
+    margin: 15px 0;
+    @include breakpoints(portraitTablet) {
+      display: inherit;
+      margin: 0px;
+    }
+    .input_group {
+      //   width: 45%;
+      margin-top: 4px !important;
+      @include breakpoints(portraitTablet) {
+        width: auto;
+        margin: 10px 0;
+      }
+    }
+    .left {
+      margin-right: 18px !important;
+      // @include breakpoints(portraitTablet) {
+      //   margin-right: 16px !important;
+      // }
+    }
+    .right {
+      margin-right: 15px !important;
+    }
+    .select_group {
+      margin-right: 0px;
+      margin-top: 10px;
+      @include breakpoints(portraitTablet) {
+        margin-right: 0px;
+        margin: 10px 0;
+      }
+    }
+    select {
+      width: 100%;
+      padding: 10px 8px;
+      border: $border-header;
+      outline: none;
+      border-radius: 5px;
+      color: $text-p-color;
+      background: $bg-body;
+    }
+    label {
+      width: 100%;
+      font-weight: 500;
+      font-size: 13px;
+      margin-bottom: 15px !important;
+      color: $text-p-color;
+      transition: all 0.3s ease-in-out;
+    }
+    input {
+      width: 100%;
+      padding: 8px 8px;
+      border: $border-header;
+      outline: none;
+      border-radius: 5px;
+      color: $text-p-color;
+      background: $bg-body;
+      transition: all 0.3s ease-in-out;
+      margin-top: 3px;
+    }
+    input:disabled {
+      background-color: $bg-body;
+      border: none;
+      cursor: no-drop;
+      color: $text-p-color !important;
+    }
+  }
+  .submit_button {
+    button {
+      margin-top: 10px;
+      width: 130px;
+      padding: 10px 8px;
+      background: $bg-thin-green;
+      box-shadow: $box-shadow-sidebar-menu;
+      color: #fff;
+      border: none;
+      font-size: 14px;
+      font-weight: 500;
+      text-transform: capitalize;
+      border-radius: 3px;
+      cursor: pointer;
+      transition: all 0.3s ease-in-out;
+      &:hover {
+        opacity: 0.8;
+      }
+      @include breakpoints(portraitTablet) {
+        width: 100%;
+      }
+    }
+  }
+  // transactio details
+  .transaction_details {
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      tr,
+      th,
+      td {
+        border: $border-1;
+        padding: 5px;
+        color: $text-black;
+      }
+      th {
+        padding-top: 5px;
+        padding-bottom: 5px;
+        text-align: left;
+        background-color: $bg-body;
+        color: $text-black;
+        font-size: 15px !important;
+      }
+      td {
+        font-size: 13px !important;
+      }
+    }
+    .trans__row {
+      display: flex;
+      align-items: center;
+      strong {
+        font-weight: 500 !important;
+        color: $text-black;
+        flex-basis: 28%;
+      }
+      span {
+        font-weight: 200 !important;
+        color: $text-black;
+        font-size: 15px;
+      }
+    }
+    .group {
+      margin-top: 10px;
+      p {
+        color: $text-p-color;
+        margin-top: 15px;
+        strong {
+          color: $text-p-color;
+          font-size: 13px;
+        }
+        span {
+          font-size: 13px;
+          color: $text-p-color;
+          padding: 2px 8px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+.buy_package {
+  padding: 10px;
+  text-align: center;
+  font-size: 20px;
+  color: $text-black;
+  button {
+    margin-top: 10px;
+    width: 130px;
+    padding: 10px 8px;
+    background: $bg-thin-green;
+    box-shadow: $box-shadow-sidebar-menu;
+    color: #fff;
+    border: none;
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: capitalize;
+    border-radius: 3px;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out;
+    &:hover {
+      opacity: 0.8;
+    }
+    @include breakpoints(portraitTablet) {
+      width: 100%;
+    }
+  }
+}

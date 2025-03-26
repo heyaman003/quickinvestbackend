@@ -1,0 +1,105 @@
+@import "../abstract/variables";
+@import "../responsive/breakpoints";
+
+.tb__layout {
+  position: relative;
+  .user__container {
+    .tb__landingPage__container {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      height: 100vh;
+      .tb__landingPage__content {
+        padding: 10px;
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        gap: 50px;
+        overflow: hidden;
+        .tb__custom__slider {
+          position: relative;
+          width: 100%;
+          max-width: 425px;
+          overflow: hidden;
+          margin: 0 auto;
+          .tb__slider__container {
+            display: flex;
+            width: 100%;
+            transition: transform 0.5s ease-in-out;
+            .tb__slide {
+              box-sizing: border-box;
+              opacity: 0;
+              transition: opacity 0.5s ease-in-out;
+              max-width: 425px;
+              margin: 0 auto;
+              height: 460px;
+              .tb__landingPage__logo {
+                img {
+                  width: 100%;
+                }
+              }
+              .tb__landingPage__title {
+                margin-top: 20px;
+                h2 {
+                  font-family: $font-family;
+                  font-size: 30px;
+                  color: $tb-text-dark-color;
+                  text-align: center;
+                  letter-spacing: 2px;
+                  text-transform: capitalize;
+                  font-weight: 600 !important;
+                }
+              }
+              .tb__landingPage__desc {
+                margin-top: 20px;
+                text-align: center;
+                p {
+                  font-size: 18px;
+                  color: $tb-text-dark-color;
+                  font-weight: 500 !important;
+                  text-transform: capitalize;
+                  opacity: 0.7;
+                }
+              }
+            }
+            .tb__slide.active {
+              opacity: 1;
+              position: absolute;
+            }
+          }
+          .dot-nav {
+            display: flex;
+            justify-content: center;
+            margin-top: 10px;
+          }
+
+          .dot {
+            width: 10px;
+            height: 10px;
+            background-color: #bbb;
+            border-radius: 50%;
+            margin: 0 5px;
+            cursor: pointer;
+          }
+
+          .dot.active {
+            background-color: #555;
+          }
+        }
+        .tb__landingPage__button {
+          margin-top: 20px;
+          text-align: center;
+          a {
+            text-decoration: none;
+            font-size: 20px;
+            text-transform: capitalize;
+            color: $text-white;
+            background: $tb-text-dark-color;
+            padding: 10px 80px;
+            border-radius: 5px;
+          }
+        }
+      }
+    }
+  }
+}

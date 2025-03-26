@@ -1,0 +1,1574 @@
+[{
+  "_id": "65b3cfcc78e759c3f89f2cc1",
+  "userId": "OOX605",
+  "holderName": "Suraj kumar yadav ",
+  "branchName": "Noida ",
+  "accountNumber": 916204078651,
+  "IFSCCode": "PYTM0123456",
+  "createdAt": "2024-01-26T15:29:16.357Z",
+  "updatedAt": "2024-01-26T15:29:16.357Z",
+  "__v": 0
+},
+{
+  "_id": "65b67b87547bf423eec05a6a",
+  "userId": "JDS893",
+  "holderName": "Aman kumar ",
+  "branchName": "Chhota govindpur jharkhand ",
+  "accountNumber": "44060100009976",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-01-28T16:06:31.700Z",
+  "updatedAt": "2024-03-27T08:19:43.955Z",
+  "__v": 0
+},
+{
+  "_id": "65ba0a2baf317c5ec3c26fdf",
+  "userId": "EYP195",
+  "holderName": "Kumar subham ",
+  "branchName": "State Bank Chhota govindpur jamshedpur ",
+  "accountNumber": 20308454731,
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-01-31T08:51:55.342Z",
+  "updatedAt": "2024-01-31T08:51:55.342Z",
+  "__v": 0
+},
+{
+  "_id": "65ba95fdaf317c5ec3c279e1",
+  "userId": "JIS593",
+  "holderName": "Pawan Kumar",
+  "branchName": "Bawal Haryana ",
+  "accountNumber": "014191800020808",
+  "IFSCCode": "YESB0000141",
+  "createdAt": "2024-01-31T18:48:29.524Z",
+  "updatedAt": "2024-02-06T07:25:07.513Z",
+  "__v": 0
+},
+{
+  "_id": "65bbe8caaf317c5ec3c29638",
+  "userId": "JBC733",
+  "holderName": "Ankit Singh ",
+  "branchName": "Chhota govindpur ",
+  "accountNumber": "44060100006001",
+  "IFSCCode": "BARB0CHHGOB ",
+  "createdAt": "2024-02-01T18:54:02.388Z",
+  "updatedAt": "2024-08-10T07:00:16.980Z",
+  "__v": 0
+},
+{
+  "_id": "65bc744baf317c5ec3c29b39",
+  "userId": "ERS530",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": 6404000100187032,
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-02-02T04:49:15.318Z",
+  "updatedAt": "2024-02-02T04:49:15.318Z",
+  "__v": 0
+},
+{
+  "_id": "65bdf225af317c5ec3c2b369",
+  "userId": "WPB945",
+  "holderName": "Aditya narayan anand",
+  "branchName": "Garh nokha",
+  "accountNumber": 579110110013382,
+  "IFSCCode": "BKID0005791",
+  "createdAt": "2024-02-03T07:58:29.762Z",
+  "updatedAt": "2024-02-05T11:40:41.207Z",
+  "__v": 0
+},
+{
+  "_id": "65be0023af317c5ec3c2b3e7",
+  "userId": "KEF736",
+  "holderName": "Ashok Prasad ",
+  "branchName": "Sasaram ",
+  "accountNumber": "32442232001",
+  "IFSCCode": "SBIN0000177",
+  "createdAt": "2024-02-03T08:58:11.700Z",
+  "updatedAt": "2024-02-19T01:19:24.223Z",
+  "__v": 0
+},
+{
+  "_id": "65c06452af317c5ec3c2d958",
+  "userId": "IKE768",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": 6404000100187032,
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-02-05T04:30:10.972Z",
+  "updatedAt": "2024-02-05T04:30:10.972Z",
+  "__v": 0
+},
+{
+  "_id": "65c0cd23af317c5ec3c2e7c8",
+  "userId": "SNP796",
+  "holderName": "Bharat kumar ",
+  "branchName": "6712",
+  "accountNumber": 38047457789,
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-02-05T11:57:23.793Z",
+  "updatedAt": "2024-02-05T11:57:23.793Z",
+  "__v": 0
+},
+{
+  "_id": "65c0d226af317c5ec3c2e813",
+  "userId": "PUS169",
+  "holderName": "Gourav Kumar ",
+  "branchName": "Telco ",
+  "accountNumber": "0903104000465182",
+  "IFSCCode": "IBKL0000903",
+  "createdAt": "2024-02-05T12:18:46.318Z",
+  "updatedAt": "2024-02-07T05:26:28.971Z",
+  "__v": 0
+},
+{
+  "_id": "65c11c86af317c5ec3c2f31c",
+  "userId": "UIR086",
+  "holderName": "iuhhg",
+  "branchName": "ggt",
+  "accountNumber": "002144445577",
+  "IFSCCode": "vbbggvv",
+  "createdAt": "2024-02-05T17:36:06.234Z",
+  "updatedAt": "2024-06-04T07:02:13.780Z",
+  "__v": 0
+},
+{
+  "_id": "65c31d0d34706a414e06295f",
+  "userId": "EXP627",
+  "holderName": "Shantanu vats",
+  "branchName": "Union bank of india ",
+  "accountNumber": "727002010002641",
+  "IFSCCode": "UBIN0572705",
+  "createdAt": "2024-02-07T06:02:53.309Z",
+  "updatedAt": "2024-07-21T14:35:31.535Z",
+  "__v": 0
+},
+{
+  "_id": "65c3936a34706a414e062f60",
+  "userId": "FSS782",
+  "holderName": "20352362675",
+  "branchName": "CHHOTA GOVINDPUR",
+  "accountNumber": "20352362675",
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-02-07T14:27:54.071Z",
+  "updatedAt": "2024-02-07T14:27:54.071Z",
+  "__v": 0
+},
+{
+  "_id": "65c46c2c34706a414e06370d",
+  "userId": "EMI038",
+  "holderName": "Rajiv Ranjan",
+  "branchName": "Nokha Bihar",
+  "accountNumber": "6484000100040672",
+  "IFSCCode": "PUNB0648400",
+  "createdAt": "2024-02-08T05:52:44.279Z",
+  "updatedAt": "2024-02-08T05:52:44.279Z",
+  "__v": 0
+},
+{
+  "_id": "65c4ae7934706a414e063ae6",
+  "userId": "JDO295",
+  "holderName": "Shashank shekhar",
+  "branchName": "Chhota govindpur",
+  "accountNumber": "44060100004277",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-02-08T10:35:37.663Z",
+  "updatedAt": "2024-02-08T10:35:37.663Z",
+  "__v": 0
+},
+{
+  "_id": "65c59d8834706a414e06445c",
+  "userId": "REV489",
+  "holderName": "ABHISHEK KUMAR",
+  "branchName": "Telco campus",
+  "accountNumber": "39135185693",
+  "IFSCCode": "SBIN0005301",
+  "createdAt": "2024-02-09T03:35:36.203Z",
+  "updatedAt": "2024-02-09T03:35:36.203Z",
+  "__v": 0
+},
+{
+  "_id": "65c5cf5f34706a414e0646b2",
+  "userId": "MOC782",
+  "holderName": "Avinash Kumar ",
+  "branchName": "CHHOTA GOBINDPUR ",
+  "accountNumber": "44060100003806",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-02-09T07:08:15.798Z",
+  "updatedAt": "2024-02-12T03:04:55.447Z",
+  "__v": 0
+},
+{
+  "_id": "65c5e50834706a414e06475e",
+  "userId": "MDP252",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-02-09T08:40:40.632Z",
+  "updatedAt": "2024-02-09T08:40:40.632Z",
+  "__v": 0
+},
+{
+  "_id": "65c5f58534706a414e064849",
+  "userId": "EYJ048",
+  "holderName": "Roshan Ranjan",
+  "branchName": "Baroda gujrat ",
+  "accountNumber": "000991800016939",
+  "IFSCCode": "YESB0000009",
+  "createdAt": "2024-02-09T09:51:01.680Z",
+  "updatedAt": "2024-05-07T12:18:22.681Z",
+  "__v": 0
+},
+{
+  "_id": "65c8904634706a414e066709",
+  "userId": "TMJ289",
+  "holderName": "Aditya Kumar ",
+  "branchName": "Bikram ",
+  "accountNumber": "710302010006369",
+  "IFSCCode": "UBIN0571032",
+  "createdAt": "2024-02-11T09:15:50.772Z",
+  "updatedAt": "2024-02-11T09:15:50.772Z",
+  "__v": 0
+},
+{
+  "_id": "65ccb34b34706a414e068dd8",
+  "userId": "ICW143",
+  "holderName": "Sita Kumari ",
+  "branchName": "Nokha  Bihar ",
+  "accountNumber": "579118210007307",
+  "IFSCCode": "BKID0005791",
+  "createdAt": "2024-02-14T12:34:19.772Z",
+  "updatedAt": "2024-02-15T03:09:15.977Z",
+  "__v": 0
+},
+{
+  "_id": "65cf7586e293eb7892b5a558",
+  "userId": "WOP044",
+  "holderName": "Sujeet Kumar ",
+  "branchName": "Bodhgaya ",
+  "accountNumber": "34336630177",
+  "IFSCCode": "SBIN0002739",
+  "createdAt": "2024-02-16T14:47:34.557Z",
+  "updatedAt": "2024-02-16T14:47:34.557Z",
+  "__v": 0
+},
+{
+  "_id": "65d0a55bdb2b3a278dfb0282",
+  "userId": "BSV429",
+  "holderName": "Anshu kumari",
+  "branchName": "Nokha",
+  "accountNumber": "36713664003",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-02-17T12:23:55.136Z",
+  "updatedAt": "2024-03-02T08:44:55.514Z",
+  "__v": 0
+},
+{
+  "_id": "65d0d83fdb2b3a278dfb04cf",
+  "userId": "SYP474",
+  "holderName": "Abhishek Keshari ",
+  "branchName": "IDBI BANK ",
+  "accountNumber": "1863104000055958",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": "2024-02-17T16:01:03.281Z",
+  "updatedAt": "2024-02-24T12:42:08.299Z",
+  "__v": 0
+},
+{
+  "_id": "65d4bb97ef662375772779e3",
+  "userId": "VPQ693",
+  "holderName": "Pooja kumari singh",
+  "branchName": "TELCO COLONY",
+  "accountNumber": "20429829181",
+  "IFSCCode": "SBIN0005301",
+  "createdAt": "2024-02-20T14:47:51.259Z",
+  "updatedAt": "2024-02-20T14:47:51.259Z",
+  "__v": 0
+},
+{
+  "_id": "65d9e72a666e87919719f5b9",
+  "userId": "QSS054",
+  "holderName": "ANIKET KUMAR ",
+  "branchName": "NOKHA ",
+  "accountNumber": "1863104000066556",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": "2024-02-24T12:55:06.937Z",
+  "updatedAt": "2024-07-10T15:11:05.991Z",
+  "__v": 0
+},
+{
+  "_id": "65dae73e666e87919719ff81",
+  "userId": "EKS759",
+  "holderName": "Prakash kumar singh ",
+  "branchName": "Dumraon ",
+  "accountNumber": "916010003197184",
+  "IFSCCode": "UTIB0003453",
+  "createdAt": "2024-02-25T07:07:42.441Z",
+  "updatedAt": "2024-02-25T07:07:42.441Z",
+  "__v": 0
+},
+{
+  "_id": "65dc6ddc666e8791971a339e",
+  "userId": "WAA193",
+  "holderName": "Nishi prasad",
+  "branchName": "Chotta govindpur",
+  "accountNumber": "44060100000785",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-02-26T10:54:20.539Z",
+  "updatedAt": "2024-02-26T10:54:20.539Z",
+  "__v": 0
+},
+{
+  "_id": "65e2040278808d1da4ac75fe",
+  "userId": "TSJ672",
+  "holderName": "Kumar subham",
+  "branchName": "Chhota govindpur",
+  "accountNumber": "20308454731",
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-03-01T16:36:18.046Z",
+  "updatedAt": "2024-05-09T03:24:29.662Z",
+  "__v": 0
+},
+{
+  "_id": "65e577a478808d1da4acb28e",
+  "userId": "KSD310",
+  "holderName": "Vijay Kumar Singh ",
+  "branchName": "Chhota govindpur ",
+  "accountNumber": "5795101000044",
+  "IFSCCode": "CNRB0005795",
+  "createdAt": "2024-03-04T07:26:28.990Z",
+  "updatedAt": "2024-03-04T07:26:28.990Z",
+  "__v": 0
+},
+{
+  "_id": "65e5b93778808d1da4acba66",
+  "userId": "BOR598",
+  "holderName": "RIYA CHAUDHARI",
+  "branchName": "HAZIRA",
+  "accountNumber": "50100322628130",
+  "IFSCCode": "HDFC0000904",
+  "createdAt": "2024-03-04T12:06:15.040Z",
+  "updatedAt": "2024-03-04T12:06:15.040Z",
+  "__v": 0
+},
+{
+  "_id": "65e8255f78808d1da4acfd57",
+  "userId": "SUR314",
+  "holderName": "Ajit Kumar Singh ",
+  "branchName": "Adityapur ",
+  "accountNumber": "50327350736",
+  "IFSCCode": "IDIB000J558",
+  "createdAt": "2024-03-06T08:12:15.772Z",
+  "updatedAt": "2024-03-06T08:12:15.772Z",
+  "__v": 0
+},
+{
+  "_id": "65ee8ec278808d1da4ad3834",
+  "userId": "EBE027",
+  "holderName": "Kumar subham",
+  "branchName": "CHHOTA GOVINDPUR JAMSHEDPUR",
+  "accountNumber": "20308454731",
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-03-11T04:55:30.989Z",
+  "updatedAt": "2024-03-11T04:55:30.989Z",
+  "__v": 0
+},
+{
+  "_id": "65ef4d5478808d1da4ad4870",
+  "userId": "AFG435",
+  "holderName": "Sonali kumari",
+  "branchName": "Noida",
+  "accountNumber": "1314176900",
+  "IFSCCode": "KKBK0005029",
+  "createdAt": "2024-03-11T18:28:36.776Z",
+  "updatedAt": "2024-03-11T18:28:36.776Z",
+  "__v": 0
+},
+{
+  "_id": "65f2aef478808d1da4ad7901",
+  "userId": "TFW965",
+  "holderName": "Pragya Kumari ",
+  "branchName": "Chaibasa ",
+  "accountNumber": "24400110033067",
+  "IFSCCode": "UCBA0002440",
+  "createdAt": "2024-03-14T08:01:56.270Z",
+  "updatedAt": "2024-05-23T06:02:27.410Z",
+  "__v": 0
+},
+{
+  "_id": "65f3af2d78808d1da4ad839e",
+  "userId": "VRF133",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-03-15T02:15:09.287Z",
+  "updatedAt": "2024-03-15T02:15:09.287Z",
+  "__v": 0
+},
+{
+  "_id": "65f4392178808d1da4ad8d48",
+  "userId": "SCI254",
+  "holderName": "Dipa Kumari ",
+  "branchName": "Nokha",
+  "accountNumber": "009610190043",
+  "IFSCCode": "IPOS0000001",
+  "createdAt": "2024-03-15T12:03:45.971Z",
+  "updatedAt": {
+    "$date": "2024-12-28T06:04:23.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "65f7adbe78808d1da4adc10c",
+  "userId": "EJS884",
+  "holderName": "NITU KUMARI ",
+  "branchName": "Chhota govindpur ",
+  "accountNumber": "5795101000082",
+  "IFSCCode": "CNRB0005795",
+  "createdAt": "2024-03-18T02:58:06.584Z",
+  "updatedAt": "2024-03-18T02:58:06.584Z",
+  "__v": 0
+},
+{
+  "_id": "65f8197c78808d1da4add17e",
+  "userId": "QET050",
+  "holderName": "Sharmila devi ",
+  "branchName": "Adityapur ",
+  "accountNumber": "450310110017472",
+  "IFSCCode": "BKID0004503",
+  "createdAt": "2024-03-18T10:37:48.009Z",
+  "updatedAt": "2024-03-18T10:37:48.009Z",
+  "__v": 0
+},
+{
+  "_id": "65f81f5078808d1da4add1ec",
+  "userId": "EOK805",
+  "holderName": "Priyansu kumari",
+  "branchName": "Nokha",
+  "accountNumber": "579110110014543",
+  "IFSCCode": "BKID0005791",
+  "createdAt": "2024-03-18T11:02:40.784Z",
+  "updatedAt": "2024-03-18T11:02:40.784Z",
+  "__v": 0
+},
+{
+  "_id": "65f85e2278808d1da4add527",
+  "userId": "MAJ064",
+  "holderName": "Aniket Ranjan",
+  "branchName": "GOVINDPUR",
+  "accountNumber": "0048653466",
+  "IFSCCode": "KKBK0005703",
+  "createdAt": "2024-03-18T15:30:42.189Z",
+  "updatedAt": "2024-03-18T15:30:42.189Z",
+  "__v": 0
+},
+{
+  "_id": "65f9924eee6391c252b36565",
+  "userId": "MYS125",
+  "holderName": "Riya ",
+  "branchName": "Hazira",
+  "accountNumber": "50100322628130",
+  "IFSCCode": "Hdfc0000904",
+  "createdAt": "2024-03-19T13:25:34.497Z",
+  "updatedAt": "2024-06-28T15:38:14.654Z",
+  "__v": 0
+},
+{
+  "_id": "65ffcac7ee6391c252b39d9f",
+  "userId": "YFK949",
+  "holderName": "Praveen kumar",
+  "branchName": "Doctor colony lohia nagar kankarbagh patna",
+  "accountNumber": "4949753317",
+  "IFSCCode": "KKBK0005658",
+  "createdAt": "2024-03-24T06:40:07.277Z",
+  "updatedAt": "2024-08-22T09:07:19.812Z",
+  "__v": 0
+},
+{
+  "_id": "66030f56ee6391c252b3bea0",
+  "userId": "BTG651",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-03-26T18:09:26.168Z",
+  "updatedAt": "2024-03-26T18:09:26.168Z",
+  "__v": 0
+},
+{
+  "_id": "6603cac7ee6391c252b3ce0e",
+  "userId": "YMD177",
+  "holderName": "Anshu Singh ",
+  "branchName": "Sakchi",
+  "accountNumber": "41308613301",
+  "IFSCCode": "SBIN0001877",
+  "createdAt": "2024-03-27T07:29:11.754Z",
+  "updatedAt": "2024-03-27T07:29:11.754Z",
+  "__v": 0
+},
+{
+  "_id": "6603d6a9ee6391c252b3d0c2",
+  "userId": "TSS121",
+  "holderName": "RAHUL MURMU",
+  "branchName": "CHHOTA GOBINDPUR,JHARKHAND",
+  "accountNumber": "44060100008498",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-03-27T08:19:53.444Z",
+  "updatedAt": "2024-03-27T08:19:53.444Z",
+  "__v": 0
+},
+{
+  "_id": "6606bcffee6391c252b40083",
+  "userId": "AEW864",
+  "holderName": "Vijay Kumar singh",
+  "branchName": "Federal bank  Bistupur jamshedapur jhrkhand",
+  "accountNumber": "11970100087973",
+  "IFSCCode": "FDRL0001197",
+  "createdAt": "2024-03-29T13:07:11.221Z",
+  "updatedAt": "2024-03-29T13:07:11.221Z",
+  "__v": 0
+},
+{
+  "_id": "6607d2abee6391c252b40e86",
+  "userId": "OVX509",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-03-30T08:51:55.518Z",
+  "updatedAt": "2024-03-30T08:51:55.518Z",
+  "__v": 0
+},
+{
+  "_id": "6607d30dee6391c252b40e9b",
+  "userId": "NSY942",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-03-30T08:53:33.194Z",
+  "updatedAt": "2024-03-30T08:53:33.964Z",
+  "__v": 0
+},
+{
+  "_id": "6607d401ee6391c252b40ebc",
+  "userId": "PSJ260",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-03-30T08:57:37.636Z",
+  "updatedAt": "2024-03-30T08:57:39.357Z",
+  "__v": 0
+},
+{
+  "_id": "6609464ecf2474abf84d8958",
+  "userId": "KOO277",
+  "holderName": "NITU KUMARI ",
+  "branchName": "Chhota govindpur ",
+  "accountNumber": "5795101000082",
+  "IFSCCode": "CNRB0005795",
+  "createdAt": "2024-03-31T11:17:34.615Z",
+  "updatedAt": "2024-04-02T12:19:30.502Z",
+  "__v": 0
+},
+{
+  "_id": "66121272cf2474abf84dff20",
+  "userId": "DTR480",
+  "holderName": "Jitendra Kumar ",
+  "branchName": "Godhra",
+  "accountNumber": "6542000100065489",
+  "IFSCCode": "PUNB0654200",
+  "createdAt": "2024-04-07T03:26:42.115Z",
+  "updatedAt": "2024-04-07T03:35:22.493Z",
+  "__v": 0
+},
+{
+  "_id": "6614dd2c379d08e1b508421d",
+  "userId": "IIG734",
+  "holderName": "Mohit Raj Singh ",
+  "branchName": "Chhota govindpur Jharkhand ",
+  "accountNumber": "44060100010694",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-04-09T06:16:12.600Z",
+  "updatedAt": "2024-06-05T06:55:29.258Z",
+  "__v": 0
+},
+{
+  "_id": "661d6885379d08e1b508b5b3",
+  "userId": "GSE352",
+  "holderName": "Kajal Kumari",
+  "branchName": "BIRSA CHOWK, JD",
+  "accountNumber": "12390100019952",
+  "IFSCCode": "BARB0BIRSAC",
+  "createdAt": "2024-04-15T17:48:53.936Z",
+  "updatedAt": "2024-04-15T17:48:53.936Z",
+  "__v": 0
+},
+{
+  "_id": "6622a919379d08e1b508fcc9",
+  "userId": "DSA185",
+  "holderName": "Suman kumari yadav",
+  "branchName": "ICIC BANK",
+  "accountNumber": "008901035431",
+  "IFSCCode": "ICIC0000089",
+  "createdAt": "2024-04-19T17:25:45.446Z",
+  "updatedAt": "2024-04-20T05:40:51.332Z",
+  "__v": 0
+},
+{
+  "_id": "6624bdbd379d08e1b5090949",
+  "userId": "MSS558",
+  "holderName": "Ritika kumari ",
+  "branchName": "Nokha ",
+  "accountNumber": "38556722182",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-04-21T07:18:21.656Z",
+  "updatedAt": "2024-07-28T13:23:27.424Z",
+  "__v": 0
+},
+{
+  "_id": "662646d8379d08e1b5091eaf",
+  "userId": "MFO048",
+  "holderName": "SWETA RANJAN",
+  "branchName": "BHURAVAV  ROAD, GJ",
+  "accountNumber": "56560100005259",
+  "IFSCCode": "BARBOBHURAV",
+  "createdAt": "2024-04-22T11:15:36.668Z",
+  "updatedAt": "2024-04-22T11:15:36.668Z",
+  "__v": 0
+},
+{
+  "_id": "6627da83379d08e1b5093076",
+  "userId": "FYU030",
+  "holderName": "SAURABH SAGAR",
+  "branchName": "NOKHA",
+  "accountNumber": "34924622318",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-04-23T15:57:55.472Z",
+  "updatedAt": "2024-04-23T15:57:55.472Z",
+  "__v": 0
+},
+{
+  "_id": "662afbcd379d08e1b50953db",
+  "userId": "VQT972",
+  "holderName": "Vijay kumar singh",
+  "branchName": "Bistupur ",
+  "accountNumber": "30811729427",
+  "IFSCCode": "SBIN0000096",
+  "createdAt": "2024-04-26T00:56:45.573Z",
+  "updatedAt": "2024-04-29T16:21:01.009Z",
+  "__v": 0
+},
+{
+  "_id": "662b5bf6379d08e1b50958af",
+  "userId": "YSE246",
+  "holderName": "Aparna bajpai",
+  "branchName": "Chakradharpur ",
+  "accountNumber": "30397191747",
+  "IFSCCode": "SBIN0002924",
+  "createdAt": "2024-04-26T07:47:02.070Z",
+  "updatedAt": "2024-04-26T07:50:28.399Z",
+  "__v": 0
+},
+{
+  "_id": "662b671c379d08e1b5095aa0",
+  "userId": "JKJ896",
+  "holderName": "Usha Devi",
+  "branchName": "Federal bank bistupur jamshedpur jharkhand",
+  "accountNumber": "11970100087973",
+  "IFSCCode": "FDRL0001197",
+  "createdAt": "2024-04-26T08:34:36.195Z",
+  "updatedAt": "2024-04-26T08:34:36.195Z",
+  "__v": 0
+},
+{
+  "_id": "662e0841379d08e1b5096bb7",
+  "userId": "UQS557",
+  "holderName": "Moh Salman ",
+  "branchName": "Deoria ",
+  "accountNumber": "3412786159",
+  "IFSCCode": "KKBK0005310",
+  "createdAt": "2024-04-28T08:26:41.836Z",
+  "updatedAt": "2024-04-28T08:26:41.836Z",
+  "__v": 0
+},
+{
+  "_id": "6631aac2379d08e1b509c806",
+  "userId": "QSM869",
+  "holderName": "Neetu Kumari",
+  "branchName": "Nokha",
+  "accountNumber": "00080100028846",
+  "IFSCCode": "BARB0NOKHAX",
+  "createdAt": "2024-05-01T02:36:50.468Z",
+  "updatedAt": "2024-05-31T04:54:28.153Z",
+  "__v": 0
+},
+{
+  "_id": "6631bef6379d08e1b509c8f5",
+  "userId": "UEJ481",
+  "holderName": "SAURABH SAGAR",
+  "branchName": "NOKHA",
+  "accountNumber": "34924622318",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-05-01T04:03:02.445Z",
+  "updatedAt": {
+    "$date": "2024-10-02T13:59:46.456Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "663251af379d08e1b509d553",
+  "userId": "BDS454",
+  "holderName": "Aditya narayan anand",
+  "branchName": "Nokha",
+  "accountNumber": "579110110013382",
+  "IFSCCode": "BKID0005791",
+  "createdAt": "2024-05-01T14:29:03.294Z",
+  "updatedAt": "2024-05-01T14:29:03.294Z",
+  "__v": 0
+},
+{
+  "_id": "66392236379d08e1b50a5a22",
+  "userId": "FGV845",
+  "holderName": "Ritu Kumari ",
+  "branchName": "Bahadurpur ",
+  "accountNumber": "48040100003155",
+  "IFSCCode": "BARB0BAHPAT",
+  "createdAt": "2024-05-06T18:32:22.763Z",
+  "updatedAt": "2024-08-21T03:58:49.772Z",
+  "__v": 0
+},
+{
+  "_id": "663a45a4bbe4de94661043ac",
+  "userId": "GIN683",
+  "holderName": "YASH",
+  "branchName": "Telco",
+  "accountNumber": "318301506728",
+  "IFSCCode": "ICIC0004381",
+  "createdAt": "2024-05-07T15:15:48.723Z",
+  "updatedAt": "2024-05-07T15:16:06.967Z",
+  "__v": 0
+},
+{
+  "_id": "6642277951e816a5c238bb49",
+  "userId": "OBF812",
+  "holderName": "Taniya Kumari ",
+  "branchName": "Chhota govindpur Jharkhand ",
+  "accountNumber": "5795108000177",
+  "IFSCCode": "CNRBOOO5795",
+  "createdAt": "2024-05-13T14:45:13.924Z",
+  "updatedAt": "2024-08-10T15:19:54.020Z",
+  "__v": 0
+},
+{
+  "_id": "6645b47b51e816a5c238f0c9",
+  "userId": "DEY516",
+  "holderName": "44068100005916",
+  "branchName": "Chotta govindpur ",
+  "accountNumber": "44068100005916",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-05-16T07:23:39.468Z",
+  "updatedAt": "2024-05-16T07:23:39.468Z",
+  "__v": 0
+},
+{
+  "_id": "6646414551e816a5c2390ce6",
+  "userId": "SKS869",
+  "holderName": "Dhananjay prasad",
+  "branchName": "Sbi bistupur",
+  "accountNumber": "34593554846",
+  "IFSCCode": "SBIN0000096",
+  "createdAt": "2024-05-16T17:24:21.997Z",
+  "updatedAt": "2024-05-16T17:24:21.997Z",
+  "__v": 0
+},
+{
+  "_id": "6646515551e816a5c23911d0",
+  "userId": "ARS441",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-05-16T18:32:53.252Z",
+  "updatedAt": "2024-05-16T18:32:53.252Z",
+  "__v": 0
+},
+{
+  "_id": "6648b0f851e816a5c2393c7a",
+  "userId": "FDC624",
+  "holderName": "Manju kumari",
+  "branchName": "Nokha",
+  "accountNumber": "36486956272",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-05-18T13:45:28.257Z",
+  "updatedAt": "2024-05-27T01:42:01.460Z",
+  "__v": 0
+},
+{
+  "_id": "664d45cb51e816a5c2398ad6",
+  "userId": "POO920",
+  "holderName": "Shailendra Kumar choudhary ",
+  "branchName": "Khapparsai ",
+  "accountNumber": "594710310000098",
+  "IFSCCode": "Bkid0005947",
+  "createdAt": "2024-05-22T01:09:31.412Z",
+  "updatedAt": "2024-05-22T01:09:31.412Z",
+  "__v": 0
+},
+{
+  "_id": "664d955551e816a5c23997d3",
+  "userId": "GEE064",
+  "holderName": "Bina Devi",
+  "branchName": "Hinoo, Ranchi",
+  "accountNumber": "39819867216",
+  "IFSCCode": "SBIN0030527",
+  "createdAt": "2024-05-22T06:48:53.106Z",
+  "updatedAt": "2024-05-22T06:48:53.106Z",
+  "__v": 0
+},
+{
+  "_id": "664db15051e816a5c2399d48",
+  "userId": "CCQ995",
+  "holderName": "Shalini kumari",
+  "branchName": "Adityapur",
+  "accountNumber": "39001549484",
+  "IFSCCode": "SBIN0011831",
+  "createdAt": "2024-05-22T08:48:16.987Z",
+  "updatedAt": "2024-05-22T08:48:16.987Z",
+  "__v": 0
+},
+{
+  "_id": "664de15951e816a5c239a7a8",
+  "userId": "TXV312",
+  "holderName": "Mohit Raj Singh ",
+  "branchName": "Chhota govindpur jamshedpur ",
+  "accountNumber": "44060100010694",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-05-22T12:13:13.625Z",
+  "updatedAt": "2024-07-16T17:46:33.083Z",
+  "__v": 0
+},
+{
+  "_id": "664ecedf51e816a5c239b46e",
+  "userId": "WAT263",
+  "holderName": "RAJIV RANJAN",
+  "branchName": "NOKHA BIHAR",
+  "accountNumber": "6484000100040672",
+  "IFSCCode": "PUNB0648400",
+  "createdAt": "2024-05-23T05:06:39.804Z",
+  "updatedAt": "2024-05-23T05:06:39.804Z",
+  "__v": 0
+},
+{
+  "_id": "665099f151e816a5c239d9ef",
+  "userId": "JER604",
+  "holderName": "PAWAN KUMAR",
+  "branchName": "Bank of Baroda",
+  "accountNumber": "00080100035248",
+  "IFSCCode": "BARB0NOKHAX",
+  "createdAt": "2024-05-24T13:45:21.748Z",
+  "updatedAt": "2024-05-24T13:45:21.748Z",
+  "__v": 0
+},
+{
+  "_id": "6653dc1651e816a5c23a04af",
+  "userId": "VQP656",
+  "holderName": "Sunil chaudhary",
+  "branchName": "Nokha",
+  "accountNumber": "41987803307",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-05-27T01:04:22.645Z",
+  "updatedAt": "2024-05-27T01:04:22.645Z",
+  "__v": 0
+},
+{
+  "_id": "6654272b51e816a5c23a0bef",
+  "userId": "WFS213",
+  "holderName": "SAURABH CHAUDHARI ",
+  "branchName": "NOKHA",
+  "accountNumber": "00080100023567",
+  "IFSCCode": "BARB0NOKHAX ",
+  "createdAt": "2024-05-27T06:24:43.014Z",
+  "updatedAt": "2024-05-27T06:24:43.014Z",
+  "__v": 0
+},
+{
+  "_id": "66557e5151e816a5c23a2090",
+  "userId": "SPA129",
+  "holderName": "Aman kumar",
+  "branchName": "Govindpur ",
+  "accountNumber": "44068100008529 ",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-05-28T06:48:49.268Z",
+  "updatedAt": "2024-05-28T06:48:49.268Z",
+  "__v": 0
+},
+{
+  "_id": "66576e2abd32c653616aab67",
+  "userId": "TOP300",
+  "holderName": "Riya choudhary ",
+  "branchName": "Hazira",
+  "accountNumber": "50100322628130",
+  "IFSCCode": "Hdfc0000904",
+  "createdAt": "2024-05-29T18:04:26.634Z",
+  "updatedAt": "2024-06-28T15:35:44.654Z",
+  "__v": 0
+},
+{
+  "_id": "6657fef0bd32c653616ae297",
+  "userId": "DAR308",
+  "holderName": "VADANA SHARMA",
+  "branchName": "MP NAGAR KORBA",
+  "accountNumber": "20419737836",
+  "IFSCCode": "SBIN0030420",
+  "createdAt": "2024-05-30T04:22:08.251Z",
+  "updatedAt": "2024-05-30T05:12:04.570Z",
+  "__v": 0
+},
+{
+  "_id": "665de2668fcb0caf53a750c2",
+  "userId": "ARK657",
+  "holderName": "Charan",
+  "branchName": "Hazira",
+  "accountNumber": "0904100001855",
+  "IFSCCode": "HDFC0000904",
+  "createdAt": "2024-06-03T15:33:58.941Z",
+  "updatedAt": {
+    "$date": "2024-11-01T03:58:57.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "666010558fcb0caf53a796b8",
+  "userId": "OJT177",
+  "holderName": "Mohit Raj Singh ",
+  "branchName": "Chhota govindpur, jamshedpur ",
+  "accountNumber": "44060100010694",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-06-05T07:14:29.462Z",
+  "updatedAt": "2024-07-16T17:48:50.956Z",
+  "__v": 0
+},
+{
+  "_id": "6662a94c8fcb0caf53a80b94",
+  "userId": "DSS265",
+  "holderName": "44068100005916",
+  "branchName": "Chotta govindpur ",
+  "accountNumber": "44068100005916",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-06-07T06:31:40.518Z",
+  "updatedAt": "2024-06-07T06:31:40.518Z",
+  "__v": 0
+},
+{
+  "_id": "6666aa3b8fcb0caf53a87d80",
+  "userId": "RFF671",
+  "holderName": "jytiul",
+  "branchName": "hhkthk",
+  "accountNumber": "jhhzqy",
+  "IFSCCode": "vijomc",
+  "createdAt": "2024-06-10T07:24:43.642Z",
+  "updatedAt": "2024-08-17T07:13:49.997Z",
+  "__v": 0
+},
+{
+  "_id": "6666bd548fcb0caf53a87e4a",
+  "userId": "SNS658",
+  "holderName": "Raj Singh ",
+  "branchName": "Kandra Branch",
+  "accountNumber": "0800000100128284",
+  "IFSCCode": "0080000",
+  "createdAt": "2024-06-10T08:46:12.285Z",
+  "updatedAt": "2024-06-10T08:46:12.285Z",
+  "__v": 0
+},
+{
+  "_id": "66681c678fcb0caf53a8cbcb",
+  "userId": "NEB738",
+  "holderName": "Vijay bahadur anand ",
+  "branchName": "Nokha",
+  "accountNumber": "1863102000007788",
+  "IFSCCode": "Ibkl0001863",
+  "createdAt": "2024-06-11T09:44:07.271Z",
+  "updatedAt": {
+    "$date": "2024-10-25T02:16:54.353Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "666933d28fcb0caf53a8e571",
+  "userId": "DET151",
+  "holderName": "Romika kumari",
+  "branchName": "Jugsalai",
+  "accountNumber": "39807016574",
+  "IFSCCode": "SBIN0001864",
+  "createdAt": "2024-06-12T05:36:18.509Z",
+  "updatedAt": "2024-06-24T06:26:52.487Z",
+  "__v": 0
+},
+{
+  "_id": "666a72bc8fcb0caf53a91c27",
+  "userId": "IUB259",
+  "holderName": "Rameshwar Singh",
+  "branchName": "Sidcul ",
+  "accountNumber": "1496001300005102",
+  "IFSCCode": "PUNB0124210",
+  "createdAt": "2024-06-13T04:17:00.285Z",
+  "updatedAt": "2024-06-13T04:17:00.285Z",
+  "__v": 0
+},
+{
+  "_id": "66719a078fcb0caf53aab44d",
+  "userId": "UAJ815",
+  "holderName": "Sunil kumar",
+  "branchName": "Baridih",
+  "accountNumber": "20015607000",
+  "IFSCCode": "SBIN0009009",
+  "createdAt": "2024-06-18T14:30:31.945Z",
+  "updatedAt": "2024-06-18T14:30:31.945Z",
+  "__v": 0
+},
+{
+  "_id": "667295328fcb0caf53aaed79",
+  "userId": "MPT766",
+  "holderName": "Bharat Kumar ",
+  "branchName": "Chotta govindpur ",
+  "accountNumber": "38047457789",
+  "IFSCCode": "SBIN0006712",
+  "createdAt": "2024-06-19T08:22:10.693Z",
+  "updatedAt": "2024-06-19T08:22:10.693Z",
+  "__v": 0
+},
+{
+  "_id": "6674d5c88fcb0caf53ab44bc",
+  "userId": "GWX877",
+  "holderName": "Ankit Kumar Singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-06-21T01:22:16.560Z",
+  "updatedAt": "2024-06-21T01:22:16.560Z",
+  "__v": 0
+},
+{
+  "_id": "66768c1d8fcb0caf53ab7cfe",
+  "userId": "ATU386",
+  "holderName": "Avinash Kumar Singh ",
+  "branchName": "Jamshedpur, Adityapur ",
+  "accountNumber": "2894000400076138",
+  "IFSCCode": "PUNB0289400",
+  "createdAt": "2024-06-22T08:32:29.118Z",
+  "updatedAt": "2024-06-22T08:46:40.749Z",
+  "__v": 0
+},
+{
+  "_id": "667b951f8fcb0caf53ac7965",
+  "userId": "VNK385",
+  "holderName": "Chandra Bhushan Singh ",
+  "branchName": "Chhota Gobindpur, Jamshedpur,Jharkhand- 831015",
+  "accountNumber": "44060100004922",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-06-26T04:12:15.088Z",
+  "updatedAt": "2024-06-26T04:21:37.802Z",
+  "__v": 0
+},
+{
+  "_id": "667dfa86613b873bed8e5b00",
+  "userId": "JRQ429",
+  "holderName": "Ankit kumar singh ",
+  "branchName": "Dalsinghsarai ",
+  "accountNumber": "6404000100187032",
+  "IFSCCode": "PUNB0640400",
+  "createdAt": "2024-06-27T23:49:26.609Z",
+  "updatedAt": "2024-06-27T23:49:26.609Z",
+  "__v": 0
+},
+{
+  "_id": "667f9c18613b873bed8e9a2d",
+  "userId": "SPE728",
+  "holderName": "Anshu Singh",
+  "branchName": "Sakchi",
+  "accountNumber": "41308613301",
+  "IFSCCode": "SBIN0001877",
+  "createdAt": "2024-06-29T05:31:04.112Z",
+  "updatedAt": "2024-06-29T05:31:04.112Z",
+  "__v": 0
+},
+{
+  "_id": "66827592469c7157822dd421",
+  "userId": "TOO334",
+  "holderName": "SAURABH SAGAR",
+  "branchName": "NOKHA",
+  "accountNumber": "34924622318",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-07-01T09:23:30.398Z",
+  "updatedAt": "2024-07-21T03:49:21.592Z",
+  "__v": 0
+},
+{
+  "_id": "66840526469c7157822e2206",
+  "userId": "CJX213",
+  "holderName": "Manish Singh ",
+  "branchName": "Hajira ",
+  "accountNumber": "50100500165618",
+  "IFSCCode": "HDFC0000904",
+  "createdAt": "2024-07-02T13:48:22.803Z",
+  "updatedAt": "2024-07-12T06:11:24.228Z",
+  "__v": 0
+},
+{
+  "_id": "6685475e469c7157822e50aa",
+  "userId": "SSK930",
+  "holderName": "KUMARI ANAMIKA SINGH",
+  "branchName": "CHHOTA GOVINDPUR ",
+  "accountNumber": "20200052167768",
+  "IFSCCode": "BDBL0002470",
+  "createdAt": "2024-07-03T12:43:10.652Z",
+  "updatedAt": "2024-07-03T12:43:10.652Z",
+  "__v": 0
+},
+{
+  "_id": "66878d56469c7157822ed1be",
+  "userId": "EGO180",
+  "holderName": "Abhishek ",
+  "branchName": "Nokha",
+  "accountNumber": "1863104000055958",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": "2024-07-05T06:06:14.506Z",
+  "updatedAt": "2024-07-11T18:38:59.804Z",
+  "__v": 0
+},
+{
+  "_id": "668f8baf469c7157822fe067",
+  "userId": "KJM223",
+  "holderName": "Mata Rani enterprises ",
+  "branchName": "Golmuri ",
+  "accountNumber": "921020053256018",
+  "IFSCCode": "UTIB0001484",
+  "createdAt": "2024-07-11T07:37:19.918Z",
+  "updatedAt": "2024-08-01T17:59:35.777Z",
+  "__v": 0
+},
+{
+  "_id": "6690eb8d469c715782306a68",
+  "userId": "OSD393",
+  "holderName": "Ankit kumar singh",
+  "branchName": "Narghogi",
+  "accountNumber": "902802130000001",
+  "IFSCCode": "USBIN059282",
+  "createdAt": "2024-07-12T08:38:37.303Z",
+  "updatedAt": "2024-08-02T08:42:12.858Z",
+  "__v": 0
+},
+{
+  "_id": "66940f10469c71578230cd3f",
+  "userId": "SER458",
+  "holderName": "Sumit shekhar",
+  "branchName": "Bistupur",
+  "accountNumber": "50100272043828",
+  "IFSCCode": "HDFC0000087",
+  "createdAt": "2024-07-14T17:46:56.052Z",
+  "updatedAt": "2024-07-14T18:54:45.596Z",
+  "__v": 0
+},
+{
+  "_id": "6698898c4ac8bba2e4c869f2",
+  "userId": "JYC635",
+  "holderName": "Sumit shekhar ",
+  "branchName": "BISTUPUR ",
+  "accountNumber": "50100272043828",
+  "IFSCCode": "HDFC0000087",
+  "createdAt": "2024-07-18T03:18:36.259Z",
+  "updatedAt": "2024-07-18T03:18:36.259Z",
+  "__v": 0
+},
+{
+  "_id": "6698a1414ac8bba2e4c86a8b",
+  "userId": "PWT945",
+  "holderName": "Niraj Kumar singh",
+  "branchName": "Bodhgaya ",
+  "accountNumber": "50100137034686",
+  "IFSCCode": "HDFC 0002698",
+  "createdAt": "2024-07-18T04:59:45.247Z",
+  "updatedAt": "2024-07-18T04:59:45.247Z",
+  "__v": 0
+},
+{
+  "_id": "669c9a214ac8bba2e4c8f509",
+  "userId": "KOO849",
+  "holderName": "Niraj Kumar singh",
+  "branchName": "Bodh gaya",
+  "accountNumber": "50200032906770",
+  "IFSCCode": "HDFC0002698",
+  "createdAt": "2024-07-21T05:18:25.125Z",
+  "updatedAt": "2024-07-21T05:18:25.125Z",
+  "__v": 0
+},
+{
+  "_id": "66a20a4c4ac8bba2e4c9a9d4",
+  "userId": "EUG962",
+  "holderName": "Sanjeev Kumar",
+  "branchName": "CHHOTA GOBINDPUR, JHARKHAND ",
+  "accountNumber": "44060100006599",
+  "IFSCCode": "BARB0CHHGOB",
+  "createdAt": "2024-07-25T08:18:20.705Z",
+  "updatedAt": "2024-07-25T08:18:20.705Z",
+  "__v": 0
+},
+{
+  "_id": "66a366264ac8bba2e4c9f5f5",
+  "userId": "JCQ622",
+  "holderName": "Asha Sharma",
+  "branchName": "Bagbera ",
+  "accountNumber": "593918210001126",
+  "IFSCCode": "BKID0005939",
+  "createdAt": "2024-07-26T09:02:30.089Z",
+  "updatedAt": "2024-07-26T09:02:30.089Z",
+  "__v": 0
+},
+{
+  "_id": "66a4e0f64ac8bba2e4ca3561",
+  "userId": "QDJ083",
+  "holderName": "Sanoj Kumar singh",
+  "branchName": "Chhota govindpur",
+  "accountNumber": "110181020941",
+  "IFSCCode": "CNRB0005795",
+  "createdAt": "2024-07-27T11:58:46.510Z",
+  "updatedAt": {
+    "$date": "2025-01-05T10:30:12.767Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66a5ca3e4ac8bba2e4ca56b4",
+  "userId": "KYS142",
+  "holderName": "PRAVIN KUMAR",
+  "branchName": "GAURAKSHANI SASARAM",
+  "accountNumber": "32074025749",
+  "IFSCCode": "SBIN0012578",
+  "createdAt": "2024-07-28T04:34:06.059Z",
+  "updatedAt": "2024-07-28T04:34:06.059Z",
+  "__v": 0
+},
+{
+  "_id": "66a92d054ac8bba2e4caca5e",
+  "userId": "RYY009",
+  "holderName": "Mohit Raj ",
+  "branchName": "Gaya ",
+  "accountNumber": "40384727348",
+  "IFSCCode": "SBIN0000079",
+  "createdAt": "2024-07-30T18:12:21.735Z",
+  "updatedAt": "2024-08-02T08:52:54.431Z",
+  "__v": 0
+},
+{
+  "_id": "66aa49334ac8bba2e4caf0d5",
+  "userId": "DEQ312",
+  "holderName": "Nishant watsh",
+  "branchName": "Sector -21 gurgaon ",
+  "accountNumber": "50100561892850",
+  "IFSCCode": "HDFC0003740",
+  "createdAt": "2024-07-31T14:24:51.501Z",
+  "updatedAt": "2024-07-31T14:24:51.501Z",
+  "__v": 0
+},
+{
+  "_id": "66ae795a02ca5f8be68681f7",
+  "userId": "BJG526",
+  "holderName": "Payal Kumari Sharma ",
+  "branchName": "Jamshedpur ",
+  "accountNumber": "4549514622",
+  "IFSCCode": "KKBK0000146",
+  "createdAt": "2024-08-03T18:39:22.924Z",
+  "updatedAt": "2024-08-03T18:39:22.924Z",
+  "__v": 0
+},
+{
+  "_id": "66b6345302ca5f8be68797c8",
+  "userId": "AEY596",
+  "holderName": "Golu Kumar ",
+  "branchName": "State Bank of India Hathidah buzurg ",
+  "accountNumber": "35106425380",
+  "IFSCCode": "SBIN0017168",
+  "createdAt": "2024-08-09T15:22:59.154Z",
+  "updatedAt": "2024-08-09T15:22:59.154Z",
+  "__v": 0
+},
+{
+  "_id": "66c42a850070483c198f8e98",
+  "userId": "BSG655",
+  "holderName": "CHANDAN KUMAR",
+  "branchName": "NOKHA",
+  "accountNumber": "33575410009",
+  "IFSCCode": "SBIN0003646",
+  "createdAt": "2024-08-20T05:32:53.423Z",
+  "updatedAt": "2024-08-20T05:32:53.423Z",
+  "__v": 0
+},
+{
+  "_id": "66c7440b0070483c198fd6c8",
+  "userId": "OQF366",
+  "holderName": "Alok kumar",
+  "branchName": "Ramkrishna nagar",
+  "accountNumber": "456810110002368",
+  "IFSCCode": "Bkid0004568",
+  "createdAt": "2024-08-22T13:58:35.782Z",
+  "updatedAt": "2024-08-22T13:58:35.782Z",
+  "__v": 0
+},
+{
+  "_id": "66d1c3f3050e5fdd8443de47",
+  "userId": "OCA206",
+  "holderName": "Sumit Jha",
+  "branchName": "Kadamkuan branch",
+  "accountNumber": "78990100006374",
+  "IFSCCode": "BARB0VJMKAD",
+  "createdAt": "2024-08-30T13:06:59.824Z",
+  "updatedAt": "2024-09-05T04:32:20.552Z",
+  "__v": 0
+},
+{
+  "_id": "66d58760050e5fdd84445c00",
+  "userId": "DXD246",
+  "holderName": "Sagar kumar",
+  "branchName": "Fadaral bank ",
+  "accountNumber": "55550111552996",
+  "IFSCCode": "FDRL0005555",
+  "createdAt": "2024-09-02T09:37:36.600Z",
+  "updatedAt": {
+    "$date": "2024-11-01T12:23:20.528Z"
+  },
+  "__v": 0
+},
+{
+  "_id": "66d5efc6050e5fdd84446c7f",
+  "userId": "UBW606",
+  "holderName": "Ujjwal Kumar",
+  "branchName": "Fampay ",
+  "accountNumber": "8175971801988704",
+  "IFSCCode": "8597705854@fam",
+  "createdAt": "2024-09-02T17:03:02.424Z",
+  "updatedAt": "2024-09-04T05:00:05.593Z",
+  "__v": 0
+},
+{
+  "_id": "66d6bdadc8fc616704e1e498",
+  "userId": "DMX265",
+  "holderName": "Ajay Kumar Singh",
+  "branchName": "IDBI bank ",
+  "accountNumber": "1863104000080592",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": "2024-09-03T07:41:33.707Z",
+  "updatedAt": "2024-09-03T07:41:33.707Z",
+  "__v": 0
+},
+{
+  "_id": "66d6ce45c8fc616704e1eee2",
+  "userId": "ODI201",
+  "holderName": "KISHAN RAJAK",
+  "branchName": "HULLUNG",
+  "accountNumber": "1477104000051022",
+  "IFSCCode": "IBKL0001477",
+  "createdAt": "2024-09-03T08:52:21.809Z",
+  "updatedAt": "2024-09-03T08:52:21.809Z",
+  "__v": 0
+},
+{
+  "_id": "66d85080f60df19fbfa338e1",
+  "userId": "AFS962",
+  "holderName": "SAURABH KUMAR SINGH ",
+  "branchName": "Nokha",
+  "accountNumber": "579110110011846",
+  "IFSCCode": "BKID0005791",
+  "createdAt": "2024-09-04T12:20:16.168Z",
+  "updatedAt": "2024-09-04T12:20:16.168Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67042355a52723ed195d03f6"
+  },
+  "userId": "SSP716",
+  "holderName": "KRISH KESHRI ",
+  "branchName": "Nokha ",
+  "accountNumber": "579118210013698",
+  "IFSCCode": "BKID0005791",
+  "createdAt": {
+    "$date": "2024-10-07T18:07:17.591Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-07T18:07:17.591Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670fef6da52723ed195df813"
+  },
+  "userId": "ASQ336",
+  "holderName": "Piyush keshri",
+  "branchName": "IDBI BANK ",
+  "accountNumber": "1863104000072353",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": {
+    "$date": "2024-10-16T16:53:01.461Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-16T16:53:01.461Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "671373e4a52723ed195e4703"
+  },
+  "userId": "OSN685",
+  "holderName": "Aasha Devi ",
+  "branchName": "Chaibasa",
+  "accountNumber": "0247101085645",
+  "IFSCCode": "CNRB0000247",
+  "createdAt": {
+    "$date": "2024-10-19T08:55:00.704Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-19T08:55:00.704Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6719e674a52723ed195ec9f4"
+  },
+  "userId": "GDE112",
+  "holderName": "Aniket Kumar ",
+  "branchName": "NOKHA ",
+  "accountNumber": "1863104000066556",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": {
+    "$date": "2024-10-24T06:17:24.275Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-24T06:17:24.275Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67235966b7801880c3dd57c6"
+  },
+  "userId": "ETI532",
+  "holderName": "Abhishek Keshari ",
+  "branchName": "Nokha ",
+  "accountNumber": "1863104000055958",
+  "IFSCCode": "IBKL0001863",
+  "createdAt": {
+    "$date": "2024-10-31T10:18:14.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-31T10:18:14.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c5473cfc48323c2689ef0"
+  },
+  "userId": "PAB648",
+  "holderName": "Anushka Roy ",
+  "branchName": "Bypass mithapur ",
+  "accountNumber": "281412010001834",
+  "IFSCCode": "UBIN0828149",
+  "createdAt": {
+    "$date": "2024-12-13T15:36:19.184Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T15:36:19.184Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67739c3ccfc48323c2694981"
+  },
+  "userId": "QJV083",
+  "holderName": "Amit Ranjan Kumar ",
+  "branchName": "Garh nokha",
+  "accountNumber": "6484001500004552",
+  "IFSCCode": "PUNB0648400",
+  "createdAt": {
+    "$date": "2024-12-31T07:24:44.454Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-31T07:24:44.454Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aabb1cfc48323c269c9b5"
+  },
+  "userId": "YJX890",
+  "holderName": "Rahul kumar singh",
+  "branchName": "Daudnagar",
+  "accountNumber": "00108100020026",
+  "IFSCCode": "BARB0DAUDNA",
+  "createdAt": {
+    "$date": "2025-01-05T15:56:33.839Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-05T15:56:33.839Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aad9fcfc48323c269ca92"
+  },
+  "userId": "EJS226",
+  "holderName": "Rahul kumar singh",
+  "branchName": "Daudnagar",
+  "accountNumber": "00108100020026",
+  "IFSCCode": "BARB0DAUDNA",
+  "createdAt": {
+    "$date": "2025-01-05T16:04:47.730Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-05T16:04:47.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bdb63cfc48323c269e07a"
+  },
+  "userId": "EUC558",
+  "holderName": "ABHYUDAY AMRITANSH ",
+  "branchName": "ANCHHA",
+  "accountNumber": "00108100019857",
+  "IFSCCode": "BARB0ANCHHA",
+  "createdAt": {
+    "$date": "2025-01-06T13:32:19.178Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T13:32:19.178Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6781e4147b201b5e0e0982a1"
+  },
+  "userId": "STA707",
+  "holderName": "Amit Ranjan Kumar",
+  "branchName": "Garh nokha",
+  "accountNumber": "6484001500004552",
+  "IFSCCode": "PUNB0648400",
+  "createdAt": {
+    "$date": "2025-01-11T03:23:00.265Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-11T03:23:00.265Z"
+  },
+  "__v": 0
+}]

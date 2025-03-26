@@ -1,0 +1,61 @@
+@import "../abstract/variables";
+@import "../responsive/breakpoints";
+
+.tb__sectionLayout {
+  padding: 10px;
+  .tb__sectionLayout__title {
+    padding: 10px 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    h2 {
+      font-size: 18px;
+      color: $tb-text-dark-color;
+    }
+    .tb___sectionLayout__right {
+      display: flex;
+      align-items: center;
+      justify-content: flex-end;
+      input {
+        padding: 5px;
+        border: $border-1;
+        outline: none;
+        width: 60%;
+        border-radius: 5px;
+      }
+    }
+  }
+  .tb__teamFilter__row {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap: 5px;
+    margin-bottom: 10px;
+    button {
+      border: none;
+      background: $tb-text-dark-color;
+      color: $text-white;
+      font-size: 15px;
+      border-radius: 5px;
+      padding: 5px 8px;
+    }
+  }
+  .tb__sectionlayout__table {
+    .common_table {
+      .materialTable {
+        transition: all 0.3s ease-in-out;
+        .materialTableHead {
+          .materialTableRow {
+            .materialTableCell {
+              background: $bg-body !important;
+              color: black !important;
+              border-bottom: 1px solid rgb(224 224 224 / 38%) !important;
+              text-align: center !important;
+              font-weight: 600 !important;
+            }
+          }
+        }
+      }
+    }
+  }
+}

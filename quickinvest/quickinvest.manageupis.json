@@ -1,0 +1,15 @@
+[{
+  "_id": "65b3587c9296f16eecc5880e",
+  "Id": "manageUpiId",
+  "__v": 0,
+  "createdAt": "2024-01-26T07:00:12.217Z",
+  "updatedAt": {
+    "$date": "2024-10-04T08:04:39.596Z"
+  },
+  "upi": "6204078651-2@ibl",
+  "upiLink": "upi://pay?pa=6204078651-2@ibl&cu=INR&am=5000&tn=Quickcrest",
+  "qrcode": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1728029079/mk5zgcjxqev4pii3md5w.jpg",
+    "publicUrl": "mk5zgcjxqev4pii3md5w"
+  }
+}]

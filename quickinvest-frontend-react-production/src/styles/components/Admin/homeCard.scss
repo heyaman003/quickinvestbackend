@@ -1,0 +1,67 @@
+.trade-bulls_dash_card_wrapper {
+  background-image: url("../../../assets/Admin/card.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  position: relative;
+  padding: 44px 22px;
+  background-color: $bg-white;
+  display: grid;
+  align-items: center;
+  transition: all 0.3s ease-in-out;
+  border-right: $border-1;
+  border-radius: 10px;
+  .trade-bulls_content {
+    position: relative;
+    z-index: 1;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    transition: all 0.3s ease-in-out;
+    justify-content: space-between;
+    .trade-bulls_widget_info {
+      p {
+        font-size: 32px;
+        color: $text-p-color;
+        // white-space: nowrap;
+        -webkit-text-stroke: 0.1px black;
+        color: white;
+        text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000,
+          -1px 1px 0 #000, 1px 1px 0 #000;
+      }
+      h2 {
+        font-size: 24px;
+        color: #fff;
+        margin-bottom: 10px !important;
+      }
+      a {
+        color: $text-black;
+        font-size: 13px;
+        text-transform: capitalize;
+        font-weight: 500;
+        &:hover {
+          color: $text-menu-active-color;
+        }
+      }
+    }
+    .trade-bulls_widget_icon {
+      margin-right: 20px;
+      // background-color: red;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      border-radius: 50%;
+      padding: 0px;
+      @include breakpoints(largeLaptop) {
+        // order: 2;
+        margin-right: 0px;
+      }
+      svg {
+        color: #fff;
+        font-size: 30px;
+        border-radius: 50px;
+        padding: 10px;
+      }
+    }
+  }
+}

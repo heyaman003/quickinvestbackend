@@ -1,0 +1,124 @@
+@import "../abstract/variables";
+@import "../responsive/breakpoints";
+
+.tb__topTab__layout {
+  position: sticky;
+  top: 0px;
+  background: $bg-white;
+  width: 425px;
+  max-width: 100%;
+  border-bottom: $border-1;
+  .tb__topTab__widgets {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 50px;
+    padding: 20px;
+    .tb__topTab__hamburger {
+      span {
+        user-select: none;
+        svg {
+          font-size: 25px;
+          color: $tb-text-dark-color;
+          font-weight: 600 !important;
+          cursor: pointer;
+          user-select: none;
+        }
+      }
+    }
+    .tb__topTab__logo {
+      img {
+        width: 50px;
+        height: 50px;
+        border-radius: 5px;
+        user-select: none;
+      }
+    }
+    .tb__topTab__userAvatar {
+      position: relative;
+      img {
+        width: 50px;
+        height: 50px;
+        border-radius: 50px;
+        cursor: pointer;
+        user-select: none;
+      }
+      .logout__dropdown {
+        position: absolute;
+        bottom: 0;
+        background: #ffffff;
+        width: 100px;
+        right: 0;
+        top: 50px;
+        height: max-content;
+        border-radius: 5px;
+        color: #000;
+        border: $border-1;
+        .logout__menu {
+          list-style: none;
+          li {
+            padding: 10px;
+          }
+        }
+      }
+    }
+  }
+}
+// Sidebar menu
+.tb__sidebar__menu {
+  width: 250px;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  bottom: 0px;
+  background: $bg-body;
+  height: 100vh;
+  transition: all 300ms ease-in-out 300ms;
+  transform: translateX(-100vh);
+  z-index: 9;
+
+  .tb__sidebar__menu__lists {
+    width: 250px;
+    position: absolute;
+    top: 0px;
+    bottom: 0px;
+    background: $bg-body;
+    height: 100%;
+    transition: all 300ms ease-in-out 300ms;
+    .tb__lists {
+      list-style: none;
+      .tb__list {
+        border-bottom: $border-1;
+        a {
+          color: $tb-text-dark-color;
+          font-size: 16px;
+          padding: 10px;
+          display: block;
+        }
+      }
+    }
+  }
+}
+.tb__sidebar__menu.active {
+  transform: translateX(0px);
+  .tb__sidebar__overlay {
+    opacity: 1;
+  }
+}
+.tb__sidebar__overlay {
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.5);
+  transition: opacity 200ms ease-in-out 400ms;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  opacity: 0;
+  transform: translateX(-100vh);
+}
+.tb__sidebar__overlay.active {
+  transform: translateX(0px);
+  opacity: 1;
+}

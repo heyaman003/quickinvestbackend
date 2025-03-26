@@ -1,0 +1,6802 @@
+[{
+  "_id": {
+    "$oid": "65b3a36bc20693905fca5e19"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lrum1x7krbs9w9ahli",
+  "paidDays": 271,
+  "leftDays": 94,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "5:49:55 PM"
+  },
+  "transactionId": "ifQAmJSq54",
+  "createdAt": {
+    "$date": "2024-01-26T12:19:55.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.433Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b3a822c20693905fca5ef5"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lrumrql2cn79unyelgu",
+  "paidDays": 270,
+  "leftDays": 94,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "6:10:02 PM"
+  },
+  "transactionId": "402699225991",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1706272801/lj1cvmjdjzcb0vx7c6da.jpg",
+    "publicUrl": "lj1cvmjdjzcb0vx7c6da"
+  },
+  "createdAt": {
+    "$date": "2024-01-26T12:40:02.465Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.693Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b3b76b78e759c3f89f2187"
+  },
+  "userId": "KEF736",
+  "fullName": "Ashok Prasad",
+  "mobile": "9801666161",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lrup3nl8lyvy80azczg",
+  "paidDays": 271,
+  "leftDays": 94,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "7:15:15 PM"
+  },
+  "transactionId": "FjDfjr5Sbf",
+  "createdAt": {
+    "$date": "2024-01-26T13:45:15.367Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.457Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b67d05547bf423eec05b82"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lrxp97ro7z6aqeg5692",
+  "paidDays": 271,
+  "leftDays": 94,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jan 28 2024",
+    "time": "9:42:53 PM"
+  },
+  "transactionId": "LCMekKUb0n",
+  "createdAt": {
+    "$date": "2024-01-28T16:12:53.335Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.517Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b6b4f8547bf423eec060c9"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC2",
+  "rechargeId": "lrxxs65hkc1p15se43",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Mon Jan 29 2024",
+    "time": "1:41:36 AM"
+  },
+  "transactionId": "402699225991",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1706472696/kpzyzz3kurjdo6d4eigl.jpg",
+    "publicUrl": "kpzyzz3kurjdo6d4eigl"
+  },
+  "createdAt": {
+    "$date": "2024-01-28T20:11:36.966Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:26.029Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b8ed74af317c5ec3c263f9"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "mobile": "8002706204",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls0cfgxrh191gwkovpl",
+  "paidDays": 269,
+  "leftDays": 96,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Jan 30 2024",
+    "time": "6:07:08 PM"
+  },
+  "transactionId": "Gne5P0Qxew",
+  "createdAt": {
+    "$date": "2024-01-30T12:37:08.653Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.786Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65b91a95af317c5ec3c265aa"
+  },
+  "userId": "EMI038",
+  "fullName": "Rajiv ranjan",
+  "mobile": "9430228419",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls0jb3915fkgvwoh5hn",
+  "paidDays": 269,
+  "leftDays": 96,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Jan 30 2024",
+    "time": "9:19:41 PM"
+  },
+  "transactionId": "NGc4ZgkE04",
+  "createdAt": {
+    "$date": "2024-01-30T15:49:41.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.865Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ba77beaf317c5ec3c27390"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "mobile": "6205009341",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls20iumcg2wo8jhv5zl",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Jan 31 2024",
+    "time": "10:09:26 PM"
+  },
+  "transactionId": "T2401312208053788347376",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1706719165/k9mz7pjuraroluv8krok.jpg",
+    "publicUrl": "k9mz7pjuraroluv8krok"
+  },
+  "createdAt": {
+    "$date": "2024-01-31T16:39:26.021Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:27.344Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ba7819af317c5ec3c2744d"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "mobile": "6205009341",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC2",
+  "rechargeId": "ls20kvcr0h8pwqtqxl5",
+  "paidDays": 268,
+  "leftDays": 97,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Jan 31 2024",
+    "time": "10:10:57 PM"
+  },
+  "transactionId": "kKZD3Kb6wB",
+  "createdAt": {
+    "$date": "2024-01-31T16:40:57.585Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.903Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ba8f29af317c5ec3c2761c"
+  },
+  "userId": "FSS782",
+  "fullName": "Mantu kumar",
+  "mobile": "7209468638",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls243evsw1cxsggesy",
+  "paidDays": 268,
+  "leftDays": 97,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Jan 31 2024",
+    "time": "11:49:21 PM"
+  },
+  "transactionId": "ahQRIoC569",
+  "createdAt": {
+    "$date": "2024-01-31T18:19:21.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.977Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65bbad8faf317c5ec3c28bf0"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls3bqswm1nq5d5xl9rz",
+  "paidDays": 267,
+  "leftDays": 98,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Feb 01 2024",
+    "time": "8:11:19 PM"
+  },
+  "transactionId": "T2402012009348700507023",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1706798478/ow4mlgrqaergrwi3ttyt.jpg",
+    "publicUrl": "ow4mlgrqaergrwi3ttyt"
+  },
+  "createdAt": {
+    "$date": "2024-02-01T14:41:19.128Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.107Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65bfc2c9af317c5ec3c2c6d5"
+  },
+  "userId": "IKE768",
+  "fullName": "Gaurav Kumar",
+  "mobile": "8507919189",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls7r1xnvwmhro85sr8",
+  "paidDays": 266,
+  "leftDays": 99,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Feb 04 2024",
+    "time": "10:30:57 PM"
+  },
+  "transactionId": "T2402042229478783818334",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1707066056/c6eb92u0quyap9ldzoda.jpg",
+    "publicUrl": "c6eb92u0quyap9ldzoda"
+  },
+  "createdAt": {
+    "$date": "2024-02-04T17:00:57.236Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.185Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65bfcfb3af317c5ec3c2d1e4"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "mobile": "9709288031",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls7t0siiltq1ye6i4q",
+  "paidDays": 266,
+  "leftDays": 99,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Feb 04 2024",
+    "time": "11:26:03 PM"
+  },
+  "transactionId": "T2402042324592165417484",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1707069362/eq9ympprrpgixyv4ymlh.jpg",
+    "publicUrl": "eq9ympprrpgixyv4ymlh"
+  },
+  "createdAt": {
+    "$date": "2024-02-04T17:56:03.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.231Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65c11e09af317c5ec3c2f4a5"
+  },
+  "userId": "MOC782",
+  "fullName": "Avinash Kumar",
+  "mobile": "9304091986",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ls97zac78unv2c6rr7g",
+  "paidDays": 0,
+  "leftDays": 200,
+  "totalDays": 200,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "rejected",
+  "dateAndTime": {
+    "date": "Mon Feb 05 2024",
+    "time": "11:12:33 PM"
+  },
+  "transactionId": "440231747795",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1707154952/qw6wpyo1pu44uzn24jmy.jpg",
+    "publicUrl": "qw6wpyo1pu44uzn24jmy"
+  },
+  "createdAt": {
+    "$date": "2024-02-05T17:42:33.714Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T12:54:01.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c11e88af317c5ec3c2f52c"
+  },
+  "userId": "MOC782",
+  "fullName": "Avinash Kumar",
+  "mobile": "9304091986",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC2",
+  "rechargeId": "ls9822d3lfv9nybk43f",
+  "paidDays": 265,
+  "leftDays": 100,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Feb 05 2024",
+    "time": "11:14:40 PM"
+  },
+  "transactionId": "NqXlPrGZvg",
+  "createdAt": {
+    "$date": "2024-02-05T17:44:40.355Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.277Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65c4d02134706a414e063cad"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsd86jczckbiog0vnc",
+  "paidDays": 262,
+  "leftDays": 103,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Feb 08 2024",
+    "time": "6:29:13 PM"
+  },
+  "transactionId": "pMFmtKUFMP",
+  "createdAt": {
+    "$date": "2024-02-08T12:59:13.740Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.332Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65c87f0134706a414e066567"
+  },
+  "userId": "BSV429",
+  "fullName": "Anshu kumari",
+  "mobile": "7257822428",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsh7w2hcl9b7ymvxg9d",
+  "paidDays": 261,
+  "leftDays": 104,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Feb 11 2024",
+    "time": "1:32:09 PM"
+  },
+  "transactionId": "N9eQkSGQN7",
+  "createdAt": {
+    "$date": "2024-02-11T08:02:09.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.432Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ca05c334706a414e0674fc"
+  },
+  "userId": "EOK805",
+  "fullName": "Priyanshu kumari",
+  "mobile": "7324030889",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsivg4k2za0h2o98rck",
+  "paidDays": 260,
+  "leftDays": 105,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Feb 12 2024",
+    "time": "5:19:23 PM"
+  },
+  "transactionId": "6DnHwBxuod",
+  "createdAt": {
+    "$date": "2024-02-12T11:49:23.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.484Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ccf6e034706a414e068fcd"
+  },
+  "userId": "WFS213",
+  "fullName": "Saurabh Chaudhari",
+  "mobile": "7256812367",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsm28g3txomvovufgv",
+  "paidDays": 258,
+  "leftDays": 107,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Feb 14 2024",
+    "time": "10:52:40 PM"
+  },
+  "transactionId": "Bh2F6wz6ef",
+  "createdAt": {
+    "$date": "2024-02-14T17:22:40.692Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.608Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65ce131434706a414e06993e"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsn9juvg6zbhx937bsa",
+  "paidDays": 257,
+  "leftDays": 108,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Feb 15 2024",
+    "time": "7:05:16 PM"
+  },
+  "transactionId": "3xtcmVCvyi",
+  "createdAt": {
+    "$date": "2024-02-15T13:35:16.534Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.648Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65d5b964ef662375772792ee"
+  },
+  "userId": "AFS962",
+  "fullName": "Saurabh kumar singh",
+  "mobile": "6205969164",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lsvk11tnh9fpwbk54wo",
+  "paidDays": 254,
+  "leftDays": 111,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Feb 21 2024",
+    "time": "2:20:44 PM"
+  },
+  "transactionId": "b0rGQcpXrn",
+  "createdAt": {
+    "$date": "2024-02-21T08:50:44.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.689Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65dc6656666e8791971a2e04"
+  },
+  "userId": "VRF133",
+  "fullName": "Sumit Kumar singh",
+  "mobile": "6204322885",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lt2shxv3f1krm33ctzm",
+  "paidDays": 251,
+  "leftDays": 114,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Feb 26 2024",
+    "time": "3:52:14 PM"
+  },
+  "transactionId": "T2402261551156079747528",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1708942934/wm22xxacrmrrtqtxqqd9.jpg",
+    "publicUrl": "wm22xxacrmrrtqtxqqd9"
+  },
+  "createdAt": {
+    "$date": "2024-02-26T10:22:14.675Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.737Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65dd8d1078808d1da4ac1e69"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 25000,
+  "rechargeType": "RC2",
+  "rechargeId": "lt41f55l7tm9bj2tcw",
+  "paidDays": 250,
+  "leftDays": 115,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:49:44 PM"
+  },
+  "transactionId": "J4RJmzxS6n",
+  "createdAt": {
+    "$date": "2024-02-27T07:19:44.609Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.790Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65dd8d1978808d1da4ac1f36"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "lt41fbvrnjw76kgo57a",
+  "paidDays": 250,
+  "leftDays": 115,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:49:53 PM"
+  },
+  "transactionId": "axm5184gXO",
+  "createdAt": {
+    "$date": "2024-02-27T07:19:53.324Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.854Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65dd8d2d78808d1da4ac2003"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 100000,
+  "rechargeType": "RC4",
+  "rechargeId": "lt41frlg1w04vaagm4o",
+  "paidDays": 250,
+  "leftDays": 115,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:50:13 PM"
+  },
+  "transactionId": "wUiwkQIlpe",
+  "createdAt": {
+    "$date": "2024-02-27T07:20:13.689Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.908Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65e4c17a78808d1da4aca013"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "mobile": "7482839476",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltbujdvz7srdtoz68g",
+  "paidDays": 247,
+  "leftDays": 118,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Mar 03 2024",
+    "time": "11:59:14 PM"
+  },
+  "transactionId": "KqSBBwFMKi",
+  "createdAt": {
+    "$date": "2024-03-03T18:29:14.647Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.969Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65e56e4378808d1da4acb0cf"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "mobile": "8340273363",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltckvgfer3z131oh8bc",
+  "paidDays": 246,
+  "leftDays": 119,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Mar 04 2024",
+    "time": "12:16:27 PM"
+  },
+  "transactionId": "6sAapxttFm",
+  "createdAt": {
+    "$date": "2024-03-04T06:46:27.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.009Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65e5ee8178808d1da4acd3f8"
+  },
+  "userId": "SCI254",
+  "fullName": "Aman",
+  "mobile": "9128564337",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltd4f3zdzo8deht0csg",
+  "paidDays": 246,
+  "leftDays": 119,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Mar 04 2024",
+    "time": "9:23:37 PM"
+  },
+  "transactionId": "XAjjxat5nk",
+  "createdAt": {
+    "$date": "2024-03-04T15:53:37.523Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.081Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65edb25678808d1da4ad305f"
+  },
+  "userId": "MYS125",
+  "fullName": "Charan Choudhary",
+  "mobile": "9586227952",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltljeag37vzybbfsn1p",
+  "paidDays": 242,
+  "leftDays": 123,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Mar 10 2024",
+    "time": "6:45:02 PM"
+  },
+  "transactionId": "ET7n290GAQ",
+  "createdAt": {
+    "$date": "2024-03-10T13:15:02.891Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.136Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f16fbf78808d1da4ad64de"
+  },
+  "userId": "BDS454",
+  "fullName": "Sushmita kumari",
+  "mobile": "8603514499",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltplbjz7x0e94dzbsws",
+  "paidDays": 239,
+  "leftDays": 126,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Mar 13 2024",
+    "time": "2:49:59 PM"
+  },
+  "transactionId": "ehq3PGy9J4",
+  "createdAt": {
+    "$date": "2024-03-13T09:19:59.211Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.163Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f1707478808d1da4ad65c5"
+  },
+  "userId": "QET050",
+  "fullName": "Sharmila devi",
+  "mobile": "7992270335",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltplfg7ggffan9m20k8",
+  "paidDays": 239,
+  "leftDays": 126,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Mar 13 2024",
+    "time": "2:53:00 PM"
+  },
+  "transactionId": "ZnBcHAUndw",
+  "createdAt": {
+    "$date": "2024-03-13T09:23:00.946Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.220Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f29c4a78808d1da4ad75f5"
+  },
+  "userId": "TFW965",
+  "fullName": "Pragya",
+  "mobile": "8340590611",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltqv4mtfst3fqbjzet",
+  "paidDays": 238,
+  "leftDays": 127,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Mar 14 2024",
+    "time": "12:12:18 PM"
+  },
+  "transactionId": "roKeexRk9A",
+  "createdAt": {
+    "$date": "2024-03-14T06:42:18.634Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.243Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f6e93778808d1da4adb840"
+  },
+  "userId": "MSS558",
+  "fullName": "Ritika kumari",
+  "mobile": "7643808335",
+  "sponsorId": "BSV429",
+  "sponsorName": "Anshu kumari",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltvixd5xe76iy5ciyhj",
+  "paidDays": 237,
+  "leftDays": 128,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Mar 17 2024",
+    "time": "6:29:35 PM"
+  },
+  "transactionId": "p0wQMHmGhh",
+  "createdAt": {
+    "$date": "2024-03-17T12:59:35.022Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.294Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f7eff078808d1da4adca81"
+  },
+  "userId": "EJS884",
+  "fullName": "NITU KUMARI",
+  "mobile": "7870288275",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltwmyxa4rwq6vd4vfl",
+  "paidDays": 236,
+  "leftDays": 129,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "1:10:32 PM"
+  },
+  "transactionId": "z4ZKvzznmn",
+  "createdAt": {
+    "$date": "2024-03-18T07:40:32.393Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.354Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f820be78808d1da4add20d"
+  },
+  "userId": "YFK949",
+  "fullName": "Praveen Kumar",
+  "mobile": "8271281398",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltwuepmntzkmmnobgk",
+  "paidDays": 236,
+  "leftDays": 129,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "4:38:46 PM"
+  },
+  "transactionId": "w0NRX9wXu8",
+  "createdAt": {
+    "$date": "2024-03-18T11:08:46.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.442Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f8641778808d1da4add7eb"
+  },
+  "userId": "MAJ064",
+  "fullName": "Aniket Ranjan",
+  "mobile": "7321066029",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ltx4o99el7ltplp0c3p",
+  "paidDays": 236,
+  "leftDays": 129,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "9:26:07 PM"
+  },
+  "transactionId": "WCM7uwSAzA",
+  "createdAt": {
+    "$date": "2024-03-18T15:56:07.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.524Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f8683578808d1da4add8bb"
+  },
+  "userId": "MAJ064",
+  "fullName": "Aniket Ranjan",
+  "mobile": "7321066029",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 10000,
+  "rechargeType": "RC2",
+  "rechargeId": "ltx5at0xbpyhhn2v3dj",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "9:43:41 PM"
+  },
+  "transactionId": "407858119897",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1710778421/tj4zmc3duphzxcz0qcxy.jpg",
+    "publicUrl": "tj4zmc3duphzxcz0qcxy"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T16:13:41.594Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:37.782Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f8683778808d1da4add8c1"
+  },
+  "userId": "MAJ064",
+  "fullName": "Aniket Ranjan",
+  "mobile": "7321066029",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 10000,
+  "rechargeType": "RC3",
+  "rechargeId": "ltx5auhyjsjtj0r6bh",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "9:43:43 PM"
+  },
+  "transactionId": "407858119897",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1710778423/ibp89al0kua3vdp4k6m7.jpg",
+    "publicUrl": "ibp89al0kua3vdp4k6m7"
+  },
+  "createdAt": {
+    "$date": "2024-03-18T16:13:43.581Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:37.988Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "65f97582ee6391c252b35b6b"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 500000,
+  "rechargeType": "RC5",
+  "rechargeId": "ltyacht6m5qnka6pzuk",
+  "paidDays": 235,
+  "leftDays": 130,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Mar 19 2024",
+    "time": "4:52:42 PM"
+  },
+  "transactionId": "ilKMSdGvMW",
+  "createdAt": {
+    "$date": "2024-03-19T11:22:42.872Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.586Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66027782ee6391c252b3b419"
+  },
+  "userId": "BTG651",
+  "fullName": "Mayank kumar singh",
+  "mobile": "8228930833",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lu81tfccwk5c96sblu",
+  "paidDays": 230,
+  "leftDays": 135,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Mar 26 2024",
+    "time": "12:51:38 PM"
+  },
+  "transactionId": "ayw2glsR3W",
+  "createdAt": {
+    "$date": "2024-03-26T07:21:38.035Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.743Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660277d7ee6391c252b3b51a"
+  },
+  "userId": "BTG651",
+  "fullName": "Mayank kumar singh",
+  "mobile": "8228930833",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC2",
+  "rechargeId": "lu81v7uc4812r8upmto",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Tue Mar 26 2024",
+    "time": "12:53:03 PM"
+  },
+  "transactionId": "408645690780",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711437783/soyvcsusn24aysrg1kei.jpg",
+    "publicUrl": "soyvcsusn24aysrg1kei"
+  },
+  "createdAt": {
+    "$date": "2024-03-26T07:23:03.892Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:39.151Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603a821ee6391c252b3c4e3"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "mobile": "7371075572",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lu9c8ugvb4zp4pjv7zf",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "10:31:21 AM"
+  },
+  "transactionId": "T2403271030012591452241",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711515681/yaqcebgxt3n3ahzbtuao.jpg",
+    "publicUrl": "yaqcebgxt3n3ahzbtuao"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:01:21.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:39.388Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603b22eee6391c252b3c620"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "mobile": "7371075572",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC2",
+  "rechargeId": "lu9drzhi4x6tqzqj16s",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "11:14:14 AM"
+  },
+  "transactionId": "T2403271111077353384940",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711518253/jj3jpl9gt3tybwlenua7.jpg",
+    "publicUrl": "jj3jpl9gt3tybwlenua7"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:44:14.097Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:39.634Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603b231ee6391c252b3c627"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "mobile": "7371075572",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "lu9ds1z65v4c96spe75",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "11:14:17 AM"
+  },
+  "transactionId": "T2403271111077353384940",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711518256/q3g77zm0v72yih3m2edr.jpg",
+    "publicUrl": "q3g77zm0v72yih3m2edr"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T05:44:17.267Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:39.863Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603b631ee6391c252b3c728"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "mobile": "7371075572",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 100000,
+  "rechargeType": "RC4",
+  "rechargeId": "lu9ee1l7i1ol62iim9",
+  "paidDays": 229,
+  "leftDays": 136,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "11:31:21 AM"
+  },
+  "transactionId": "0RfSIQ1MFY",
+  "createdAt": {
+    "$date": "2024-03-27T06:01:21.556Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.867Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603d90eee6391c252b3d303"
+  },
+  "userId": "TSS121",
+  "fullName": "Rahul",
+  "mobile": "9142489430",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lu9jpc3eybadzro655a",
+  "paidDays": 229,
+  "leftDays": 136,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "2:00:06 PM"
+  },
+  "transactionId": "QEIYOJqOrq",
+  "createdAt": {
+    "$date": "2024-03-27T08:30:06.463Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.914Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6603d929ee6391c252b3d31e"
+  },
+  "userId": "TSS121",
+  "fullName": "Rahul",
+  "mobile": "9142489430",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 10000,
+  "rechargeType": "RC2",
+  "rechargeId": "lu9jpvj10mwe3cexzlvm",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "2:00:33 PM"
+  },
+  "transactionId": "T2403271358090473526630",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711528233/e1pcfcdrvkjexkrguevh.jpg",
+    "publicUrl": "e1pcfcdrvkjexkrguevh"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T08:30:33.640Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:40.517Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441deee6391c252b3dd9b"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lu9zoe8umifc0000t5q",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:18 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555038/fn2ogsfl7o50g6jtil8z.jpg",
+    "publicUrl": "fn2ogsfl7o50g6jtil8z"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:18.771Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:40.719Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441ecee6391c252b3dda3"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC2",
+  "rechargeId": "lu9zooyagfznppqtof",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:32 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555051/rgrnmhqabkwgrgxctmco.jpg",
+    "publicUrl": "rgrnmhqabkwgrgxctmco"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:32.405Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:40.946Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441edee6391c252b3dda8"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "lu9zoplm8sb2c6waa98",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:33 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555052/rpw0gwysuh83y0qqz58w.jpg",
+    "publicUrl": "rpw0gwysuh83y0qqz58w"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:33.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:41.189Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441f0ee6391c252b3ddae"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC4",
+  "rechargeId": "lu9zorlrc1evctyyylv",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:36 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555055/qfcyjej1fcoonbbnd3sn.jpg",
+    "publicUrl": "qfcyjej1fcoonbbnd3sn"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:36.214Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:41.425Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441f3ee6391c252b3ddb4"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC5",
+  "rechargeId": "lu9zou6w21yfzfa2xoh",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:39 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555058/sb3gu7rv7u5lhkyrezbx.jpg",
+    "publicUrl": "sb3gu7rv7u5lhkyrezbx"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:39.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:41.661Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660441fcee6391c252b3ddba"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC6",
+  "rechargeId": "lu9zp12dt67dfhi2fy8",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:27:48 PM"
+  },
+  "transactionId": "T2403272124568532186238",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555067/hw9vxnpiyelatagvuftn.jpg",
+    "publicUrl": "hw9vxnpiyelatagvuftn"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T15:57:48.290Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:41.861Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660442fbee6391c252b3ddc4"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC7",
+  "rechargeId": "lu9zuikqrmzzmg3lxln",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:32:03 PM"
+  },
+  "transactionId": "T2403272128577478617013",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555323/mkd7xoyzzh60ytopmmla.jpg",
+    "publicUrl": "mkd7xoyzzh60ytopmmla"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T16:02:03.625Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:42.085Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660442fcee6391c252b3ddc9"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC8",
+  "rechargeId": "lu9zujhnzqvg92b9we",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:32:04 PM"
+  },
+  "transactionId": "T2403272128577478617013",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711555324/kvdotubkiji9nzpkn1gk.jpg",
+    "publicUrl": "kvdotubkiji9nzpkn1gk"
+  },
+  "createdAt": {
+    "$date": "2024-03-27T16:02:04.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:42.624Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66044621ee6391c252b3de30"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 100000,
+  "rechargeType": "RC9",
+  "rechargeId": "lua0btwiv74hhf4jj0o",
+  "paidDays": 229,
+  "leftDays": 136,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:45:29 PM"
+  },
+  "transactionId": "4ZUZ7lHYoX",
+  "createdAt": {
+    "$date": "2024-03-27T16:15:29.833Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.950Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66053111ee6391c252b3ed4c"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "mobile": "6206006904",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lub04uwn10vuuicycb3",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Thu Mar 28 2024",
+    "time": "2:27:53 PM"
+  },
+  "transactionId": "T2403281426423223227205",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711616272/kul1bbekya6npo6wp9lf.jpg",
+    "publicUrl": "kul1bbekya6npo6wp9lf"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T08:57:53.014Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:43.086Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66053115ee6391c252b3ed53"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "mobile": "6206006904",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC2",
+  "rechargeId": "lub04ykgzqulmepon7o",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Thu Mar 28 2024",
+    "time": "2:27:57 PM"
+  },
+  "transactionId": "T2403281426423223227205",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711616276/aq2mp5y9rfwpudcolr3v.jpg",
+    "publicUrl": "aq2mp5y9rfwpudcolr3v"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T08:57:57.321Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:43.306Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6605311aee6391c252b3ed59"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "mobile": "6206006904",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "lub051za4ejomj2n5fj",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Thu Mar 28 2024",
+    "time": "2:28:02 PM"
+  },
+  "transactionId": "T2403281426423223227205",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1711616281/ugdli3bwwny9lsnsqu8r.jpg",
+    "publicUrl": "ugdli3bwwny9lsnsqu8r"
+  },
+  "createdAt": {
+    "$date": "2024-03-28T08:58:02.263Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:43.540Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66059c08ee6391c252b3f633"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "mobile": "6206006904",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC4",
+  "rechargeId": "lubgfu5v2t429vkmir",
+  "paidDays": 228,
+  "leftDays": 137,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Mar 28 2024",
+    "time": "10:04:16 PM"
+  },
+  "transactionId": "2yXaENVSHO",
+  "createdAt": {
+    "$date": "2024-03-28T16:34:16.825Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.970Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6609a2e8cf2474abf84d8f03"
+  },
+  "userId": "KOO277",
+  "fullName": "NITU KUMARI",
+  "mobile": "9431764475",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "amount": 500000,
+  "rechargeType": "RC1",
+  "rechargeId": "luftk764zk0gyw4csqj",
+  "paidDays": 227,
+  "leftDays": 138,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Mar 31 2024",
+    "time": "11:22:40 PM"
+  },
+  "transactionId": "bPzdlp0O39",
+  "createdAt": {
+    "$date": "2024-03-31T17:52:40.026Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.993Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660bd5fecf2474abf84da3bf"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "mobile": "9709288031",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 25000,
+  "rechargeType": "RC2",
+  "rechargeId": "lui7dstslipli7uadfs",
+  "paidDays": 225,
+  "leftDays": 140,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 02 2024",
+    "time": "3:25:10 PM"
+  },
+  "transactionId": "T2404021524232920698211",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1712051710/v6t5lmwxfh5gt7ughv0i.jpg",
+    "publicUrl": "v6t5lmwxfh5gt7ughv0i"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T09:55:10.801Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.041Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660bd607cf2474abf84da4a6"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "mobile": "9709288031",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 25000,
+  "rechargeType": "RC3",
+  "rechargeId": "lui7dzl4bdgddg1t06b",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Tue Apr 02 2024",
+    "time": "3:25:19 PM"
+  },
+  "transactionId": "T2404021524232920698211",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1712051718/vaymw5t6u9y5tior5mrk.jpg",
+    "publicUrl": "vaymw5t6u9y5tior5mrk"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T09:55:19.316Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:44.727Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "660bd60ccf2474abf84da4ac"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "mobile": "9709288031",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 25000,
+  "rechargeType": "RC4",
+  "rechargeId": "lui7e3jf88yzvryjulb",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Tue Apr 02 2024",
+    "time": "3:25:24 PM"
+  },
+  "transactionId": "T2404021524232920698211",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1712051724/txhylebd5omhcuxhtmn4.jpg",
+    "publicUrl": "txhylebd5omhcuxhtmn4"
+  },
+  "createdAt": {
+    "$date": "2024-04-02T09:55:24.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:44.950Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "661750ce379d08e1b5086772"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "mobile": "7279936418",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "luunb079k1sb81uqgfi",
+  "paidDays": 218,
+  "leftDays": 147,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Apr 11 2024",
+    "time": "8:24:06 AM"
+  },
+  "transactionId": "pxA6tCf9za",
+  "createdAt": {
+    "$date": "2024-04-11T02:54:06.028Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.095Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "661a200d379d08e1b50898fe"
+  },
+  "userId": "SPA129",
+  "fullName": "Aman Singh",
+  "mobile": "6200597818",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "luxoxi2zvyzxws0sdwr",
+  "paidDays": 217,
+  "leftDays": 148,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Apr 13 2024",
+    "time": "11:32:53 AM"
+  },
+  "transactionId": "uGzw1ep1Sf",
+  "createdAt": {
+    "$date": "2024-04-13T06:02:53.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.142Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "661d72da379d08e1b508bc3c"
+  },
+  "userId": "GSE352",
+  "fullName": "Kajal",
+  "mobile": "9113758832",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lv1altbf9ub1w7ki6k7",
+  "paidDays": 215,
+  "leftDays": 150,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 16 2024",
+    "time": "12:02:58 AM"
+  },
+  "transactionId": "2Bk7SI0jJz",
+  "createdAt": {
+    "$date": "2024-04-15T18:32:58.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.198Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "661ff6f7379d08e1b508e21b"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "mobile": "7870371600",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lv40s188qqjhywj12o",
+  "paidDays": 214,
+  "leftDays": 151,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Apr 17 2024",
+    "time": "9:51:11 PM"
+  },
+  "transactionId": "ryIXl5FhP4",
+  "createdAt": {
+    "$date": "2024-04-17T16:21:11.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.249Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "662239cf379d08e1b508f42e"
+  },
+  "userId": "DSA185",
+  "fullName": "Suman Kumari Yadav",
+  "mobile": "7079751307",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lv6h05bfqxy2renaavs",
+  "paidDays": 212,
+  "leftDays": 153,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Apr 19 2024",
+    "time": "3:00:55 PM"
+  },
+  "transactionId": "RjGTK4YZNI",
+  "createdAt": {
+    "$date": "2024-04-19T09:30:55.859Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.288Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "662fbd6d379d08e1b5097f83"
+  },
+  "userId": "ARK657",
+  "fullName": "Sachin kumar",
+  "mobile": "8160090458",
+  "sponsorId": "MYS125",
+  "sponsorName": "Charan Choudhary",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvl4axvq3jfjjkcnvdo",
+  "paidDays": 206,
+  "leftDays": 159,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Apr 29 2024",
+    "time": "9:01:57 PM"
+  },
+  "transactionId": "xnWDWpnVrw",
+  "createdAt": {
+    "$date": "2024-04-29T15:31:57.067Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.343Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66308fed379d08e1b5098af0"
+  },
+  "userId": "GEE064",
+  "fullName": "Bina Devi",
+  "mobile": "6206805709",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvm0dyg486im5xsxrxn",
+  "paidDays": 205,
+  "leftDays": 160,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "12:00:05 PM"
+  },
+  "transactionId": "2NLu4jEzAh",
+  "createdAt": {
+    "$date": "2024-04-30T06:30:05.484Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.392Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6630f223379d08e1b509a9f6"
+  },
+  "userId": "UEJ481",
+  "fullName": "DIVYA KUMARI",
+  "mobile": "7970313130",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvmfcubx0ztodpfxgd3",
+  "paidDays": 205,
+  "leftDays": 160,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "6:59:07 PM"
+  },
+  "transactionId": "aZ5f3VWh2O",
+  "createdAt": {
+    "$date": "2024-04-30T13:29:07.729Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.425Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6630fad6379d08e1b509abf7"
+  },
+  "userId": "CJX213",
+  "fullName": "Manish ramkeswr singh",
+  "mobile": "9724932580",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvmgok9vyxf3fnpq9kd",
+  "paidDays": 205,
+  "leftDays": 160,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "7:36:14 PM"
+  },
+  "transactionId": "4iOQQ2HnRv",
+  "createdAt": {
+    "$date": "2024-04-30T14:06:14.183Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.443Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6630fde8379d08e1b509adb4"
+  },
+  "userId": "TOP300",
+  "fullName": "Chaudhary riya",
+  "mobile": "7766070739",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvmh5exymgjga47am4",
+  "paidDays": 205,
+  "leftDays": 160,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "7:49:20 PM"
+  },
+  "transactionId": "arrjM5nPf2",
+  "createdAt": {
+    "$date": "2024-04-30T14:19:20.427Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.477Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6633242f379d08e1b509e372"
+  },
+  "userId": "DMX265",
+  "fullName": "Ajay kumar",
+  "mobile": "9065778124",
+  "sponsorId": "EOK805",
+  "sponsorName": "Priyanshu kumari",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvot0rzmep1ylz6hl1f",
+  "paidDays": 203,
+  "leftDays": 162,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu May 02 2024",
+    "time": "10:57:11 AM"
+  },
+  "transactionId": "L7SqvcdnE3",
+  "createdAt": {
+    "$date": "2024-05-02T05:27:11.800Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.544Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66335957379d08e1b509f4cf"
+  },
+  "userId": "DEY516",
+  "fullName": "Ritika Kumari",
+  "mobile": "7903704480",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lvp14ffij58j2zn026",
+  "paidDays": 203,
+  "leftDays": 162,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu May 02 2024",
+    "time": "2:43:59 PM"
+  },
+  "transactionId": "lKbpirrbuX",
+  "createdAt": {
+    "$date": "2024-05-02T09:13:59.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.596Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6640778d51e816a5c238971f"
+  },
+  "userId": "DSS265",
+  "fullName": "Ruby devi",
+  "mobile": "8210180722",
+  "sponsorId": "DEY516",
+  "sponsorName": "Ritika Kumari",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lw38yuecozmpq0ofjtn",
+  "paidDays": 197,
+  "leftDays": 168,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "1:32:21 PM"
+  },
+  "transactionId": "HA0Lqc1VUA",
+  "createdAt": {
+    "$date": "2024-05-12T08:02:21.931Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.620Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6640d65b51e816a5c2389d95"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "mobile": "6207488500",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lw3neyudt6cw9al51me",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "8:16:51 PM"
+  },
+  "transactionId": "T2405122016060128841798",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1715525210/szx2zpnudg92vzsvo7vv.jpg",
+    "publicUrl": "szx2zpnudg92vzsvo7vv"
+  },
+  "createdAt": {
+    "$date": "2024-05-12T14:46:51.203Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:52.499Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6640d65c51e816a5c2389d9a"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "mobile": "6207488500",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC2",
+  "rechargeId": "lw3nf094i04nh1jdupm",
+  "paidDays": 0,
+  "leftDays": 365,
+  "totalDays": 365,
+  "isActive": false,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "status": "pending",
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "8:16:52 PM"
+  },
+  "transactionId": "T2405122016060128841798",
+  "proof": {
+    "url": "https://res.cloudinary.com/deavhufn6/image/upload/v1715525212/zfwg1cf2qmg70p7blpcp.jpg",
+    "publicUrl": "zfwg1cf2qmg70p7blpcp"
+  },
+  "createdAt": {
+    "$date": "2024-05-12T14:46:52.961Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-25T03:58:52.699Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6640df1951e816a5c238a129"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "mobile": "6207488500",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "lw3or03yah265w5bh6o",
+  "paidDays": 197,
+  "leftDays": 168,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "8:54:09 PM"
+  },
+  "transactionId": "XgnaCs2sLy",
+  "createdAt": {
+    "$date": "2024-05-12T15:24:09.940Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.653Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6641a64f51e816a5c238b5f0"
+  },
+  "userId": "FDC624",
+  "fullName": "DHIRAJ KUMAR",
+  "mobile": "9631616497",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lw4j420dj2pbq0fbmf",
+  "paidDays": 196,
+  "leftDays": 169,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon May 13 2024",
+    "time": "11:04:07 AM"
+  },
+  "transactionId": "lHJpVx3kV6",
+  "createdAt": {
+    "$date": "2024-05-13T05:34:07.412Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.682Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "664c63b751e816a5c2397a6e"
+  },
+  "userId": "MPT766",
+  "fullName": "Punam singh",
+  "mobile": "7739608665",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lwg65yvdf1o3l359pa",
+  "paidDays": 190,
+  "leftDays": 175,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue May 21 2024",
+    "time": "2:34:55 PM"
+  },
+  "transactionId": "B4cP1DJW9L",
+  "createdAt": {
+    "$date": "2024-05-21T09:04:55.762Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.705Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "664d7e9a51e816a5c2398def"
+  },
+  "userId": "WAT263",
+  "fullName": "Rajeev ranjan",
+  "mobile": "7033438400",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lwhda5knsbjh7bo91bb",
+  "paidDays": 189,
+  "leftDays": 176,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed May 22 2024",
+    "time": "10:41:54 AM"
+  },
+  "transactionId": "42Nk11xsMG",
+  "createdAt": {
+    "$date": "2024-05-22T05:11:54.562Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.733Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66521d7c51e816a5c239ed94"
+  },
+  "userId": "VQP656",
+  "fullName": "Sunil chaudhari",
+  "mobile": "8769897921",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lwmdklc7gq7tj5wx4pb",
+  "paidDays": 187,
+  "leftDays": 178,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat May 25 2024",
+    "time": "10:48:52 PM"
+  },
+  "transactionId": "YwYxyV2baJ",
+  "createdAt": {
+    "$date": "2024-05-25T17:18:52.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.758Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "665633aa51e816a5c23a319c"
+  },
+  "userId": "MPT766",
+  "fullName": "Punam singh",
+  "mobile": "7739608665",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 150000,
+  "rechargeType": "RC2",
+  "rechargeId": "lwqt0y974vj23qbfx8u",
+  "paidDays": 184,
+  "leftDays": 181,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed May 29 2024",
+    "time": "1:12:34 AM"
+  },
+  "transactionId": "TzDEO7VzTY",
+  "createdAt": {
+    "$date": "2024-05-28T19:42:34.606Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.792Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "665865c4bd32c653616af6ca"
+  },
+  "userId": "EJS884",
+  "fullName": "NITU KUMARI",
+  "mobile": "7870288275",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "amount": 200000,
+  "rechargeType": "RC2",
+  "rechargeId": "lwt6p6ogi676zxgs2kl",
+  "paidDays": 183,
+  "leftDays": 182,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu May 30 2024",
+    "time": "5:10:52 PM"
+  },
+  "transactionId": "B6VgpxGbYe",
+  "createdAt": {
+    "$date": "2024-05-30T11:40:52.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.830Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "665a04c2bd32c653616b64d9"
+  },
+  "userId": "NEB738",
+  "fullName": "Santosh kumar suman",
+  "mobile": "9693847552",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 200000,
+  "rechargeType": "RC1",
+  "rechargeId": "lwuxy82ak98xzmtsbt",
+  "paidDays": 182,
+  "leftDays": 183,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri May 31 2024",
+    "time": "10:41:30 PM"
+  },
+  "transactionId": "QP4Ccdwr8A",
+  "createdAt": {
+    "$date": "2024-05-31T17:11:30.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.879Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66691fa38fcb0caf53a8e48c"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "mobile": "6207488500",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 30000,
+  "rechargeType": "RC4",
+  "rechargeId": "lxbbbo7zn2cxny9dmq",
+  "paidDays": 174,
+  "leftDays": 191,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Jun 12 2024",
+    "time": "9:40:11 AM"
+  },
+  "transactionId": "SbUV9YE3xX",
+  "createdAt": {
+    "$date": "2024-06-12T04:10:11.429Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.902Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "666d7d938fcb0caf53a9bd42"
+  },
+  "userId": "EUG962",
+  "fullName": "Vicky Kumar",
+  "mobile": "7004699737",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lxg1prr5eya9xq6mao7",
+  "paidDays": 172,
+  "leftDays": 193,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Jun 15 2024",
+    "time": "5:10:03 PM"
+  },
+  "transactionId": "vS4O4WFO9l",
+  "createdAt": {
+    "$date": "2024-06-15T11:40:03.911Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.974Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "666f1c8c8fcb0caf53aa40db"
+  },
+  "userId": "GWX877",
+  "fullName": "Puja kumari",
+  "mobile": "9572691318",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lxhsyp99e0j6wjp5aqu",
+  "paidDays": 172,
+  "leftDays": 193,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jun 16 2024",
+    "time": "10:40:36 PM"
+  },
+  "transactionId": "gS0fh95Ois",
+  "createdAt": {
+    "$date": "2024-06-16T17:10:36.386Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.024Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6677ea988fcb0caf53abc8a2"
+  },
+  "userId": "TOO334",
+  "fullName": "Saurabh sagar",
+  "mobile": "9525708721",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lxrcil6c9y0wt7hl6nv",
+  "paidDays": 167,
+  "leftDays": 198,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jun 23 2024",
+    "time": "2:57:52 PM"
+  },
+  "transactionId": "EMHy19ALz5",
+  "createdAt": {
+    "$date": "2024-06-23T09:27:52.509Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.054Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6678279a8fcb0caf53abd5ca"
+  },
+  "userId": "JRQ429",
+  "fullName": "Sharvan kumar",
+  "mobile": "9142285541",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 20000,
+  "rechargeType": "RC1",
+  "rechargeId": "lxrltbucngal0a1a8g",
+  "paidDays": 167,
+  "leftDays": 198,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jun 23 2024",
+    "time": "7:18:10 PM"
+  },
+  "transactionId": "uRaIRcw9II",
+  "createdAt": {
+    "$date": "2024-06-23T13:48:10.170Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.082Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "668116fc613b873bed8ef3a3"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 100000,
+  "rechargeType": "RC2",
+  "rechargeId": "ly1ag4skdrhw5dcpca",
+  "paidDays": 162,
+  "leftDays": 203,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jun 30 2024",
+    "time": "1:57:40 PM"
+  },
+  "transactionId": "mbMXk5CoEY",
+  "createdAt": {
+    "$date": "2024-06-30T08:27:40.499Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.126Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6683e059469c7157822e199a"
+  },
+  "userId": "KJM223",
+  "fullName": "Mata Rani enterprises",
+  "mobile": "7903742915",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ly4b6bw45s6cc93ztvo",
+  "paidDays": 160,
+  "leftDays": 205,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Jul 02 2024",
+    "time": "4:41:21 PM"
+  },
+  "transactionId": "gtcRyyIL6Y",
+  "createdAt": {
+    "$date": "2024-07-02T11:11:21.275Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.147Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66842424469c7157822e2943"
+  },
+  "userId": "QDJ083",
+  "fullName": "Sanoj kumar singh",
+  "mobile": "8541945081",
+  "sponsorId": "KJM223",
+  "sponsorName": "Mata Rani enterprises",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "ly4liazjh67l0lpzhp8",
+  "paidDays": 160,
+  "leftDays": 205,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Jul 02 2024",
+    "time": "9:30:36 PM"
+  },
+  "transactionId": "FY1DSQo9UK",
+  "createdAt": {
+    "$date": "2024-07-02T16:00:36.134Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.164Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66880dbe469c7157822eee8b"
+  },
+  "userId": "GWX877",
+  "fullName": "Puja kumari",
+  "mobile": "9572691318",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 20000,
+  "rechargeType": "RC2",
+  "rechargeId": "ly8u62dvec0p9mtck1t",
+  "paidDays": 157,
+  "leftDays": 208,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jul 05 2024",
+    "time": "8:44:06 PM"
+  },
+  "transactionId": "OxyVJPNjrc",
+  "createdAt": {
+    "$date": "2024-07-05T15:14:06.360Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.179Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "668fd868469c7157822ff638"
+  },
+  "userId": "OSD393",
+  "fullName": "Amitab Kumar singh",
+  "mobile": "9431010371",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lyha6qb39a3h5635lsn",
+  "paidDays": 153,
+  "leftDays": 212,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Jul 11 2024",
+    "time": "6:34:40 PM"
+  },
+  "transactionId": "2eHf29oRkk",
+  "createdAt": {
+    "$date": "2024-07-11T13:04:40.628Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.208Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "6698b1094ac8bba2e4c878cf"
+  },
+  "userId": "BSG655",
+  "fullName": "Chandan kumar",
+  "mobile": "9122064283",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 20000,
+  "rechargeType": "RC1",
+  "rechargeId": "lyqvco9bbiumv6w48ng",
+  "paidDays": 148,
+  "leftDays": 217,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Jul 18 2024",
+    "time": "11:37:05 AM"
+  },
+  "transactionId": "U9VkalhSrg",
+  "createdAt": {
+    "$date": "2024-07-18T06:07:05.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.225Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "669b86684ac8bba2e4c8ddc7"
+  },
+  "userId": "BJG526",
+  "fullName": "Payal Sharma",
+  "mobile": "6205743634",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 25000,
+  "rechargeType": "RC1",
+  "rechargeId": "lytxwrbgx2uaqrx8zqi",
+  "paidDays": 147,
+  "leftDays": 218,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Jul 20 2024",
+    "time": "3:12:00 PM"
+  },
+  "transactionId": "m90qRBopSV",
+  "createdAt": {
+    "$date": "2024-07-20T09:42:00.276Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.243Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66a247334ac8bba2e4c9b2c1"
+  },
+  "userId": "OSN685",
+  "fullName": "ASHA DEVI",
+  "mobile": "9123448277",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lz19elotf508alo5soi",
+  "paidDays": 143,
+  "leftDays": 222,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Jul 25 2024",
+    "time": "6:08:11 PM"
+  },
+  "transactionId": "CafZSXtdec",
+  "createdAt": {
+    "$date": "2024-07-25T12:38:11.835Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.265Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66a3653a4ac8bba2e4c9f5b4"
+  },
+  "userId": "JCQ622",
+  "fullName": "Asha Sharma",
+  "mobile": "6207340160",
+  "sponsorId": "QET050",
+  "sponsorName": "Sharmila devi",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "lz2h00dylyy7xhik9hr",
+  "paidDays": 142,
+  "leftDays": 223,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jul 26 2024",
+    "time": "2:28:34 PM"
+  },
+  "transactionId": "Outwfv1qi6",
+  "createdAt": {
+    "$date": "2024-07-26T08:58:34.121Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.315Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66a51cfc4ac8bba2e4ca3864"
+  },
+  "userId": "KYS142",
+  "fullName": "pravin kumar",
+  "mobile": "7004700221",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "lz4c0y9ja4gecn6mm6",
+  "paidDays": 142,
+  "leftDays": 223,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Jul 27 2024",
+    "time": "9:44:52 PM"
+  },
+  "transactionId": "5oXUmLRfsR",
+  "createdAt": {
+    "$date": "2024-07-27T16:14:52.287Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.334Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66c028fb0070483c198f4ad0"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 5000,
+  "rechargeType": "RC6",
+  "rechargeId": "lzxncp06b7ex7io584",
+  "paidDays": 127,
+  "leftDays": 238,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Aug 17 2024",
+    "time": "10:07:15 AM"
+  },
+  "transactionId": "FaUAmHLs49",
+  "createdAt": {
+    "$date": "2024-08-17T04:37:15.051Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.353Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66c20fee0070483c198f674e"
+  },
+  "userId": "OQF366",
+  "fullName": "Alok kumar",
+  "mobile": "7870008241",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "lzzpkl7s19bsxkvpbp4",
+  "paidDays": 127,
+  "leftDays": 238,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Aug 18 2024",
+    "time": "8:44:54 PM"
+  },
+  "transactionId": "5NL3mJSPKi",
+  "createdAt": {
+    "$date": "2024-08-18T15:14:54.962Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.449Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66c9491c0070483c198ff5d7"
+  },
+  "userId": "UBW606",
+  "fullName": "Uk",
+  "mobile": "8597705854",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m07jez8qr0alilyys",
+  "paidDays": 122,
+  "leftDays": 243,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sat Aug 24 2024",
+    "time": "8:14:44 AM"
+  },
+  "transactionId": "RNb2IGiX80",
+  "createdAt": {
+    "$date": "2024-08-24T02:44:44.913Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.580Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66ce95540070483c19906dc1"
+  },
+  "userId": "OCA206",
+  "fullName": "Sumit",
+  "mobile": "8005835447",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "m0da4ibwx2135ref85",
+  "paidDays": 119,
+  "leftDays": 246,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Aug 28 2024",
+    "time": "8:41:16 AM"
+  },
+  "transactionId": "xc98GIcyo5",
+  "createdAt": {
+    "$date": "2024-08-28T03:11:16.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.650Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66d580d3050e5fdd84445a0f"
+  },
+  "userId": "DXD246",
+  "fullName": "Sagar kumar",
+  "mobile": "8409464821",
+  "sponsorId": "EUG962",
+  "sponsorName": "Vicky Kumar",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "m0ks4n0g8td3nhty76i",
+  "paidDays": 116,
+  "leftDays": 249,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Sep 02 2024",
+    "time": "2:39:39 PM"
+  },
+  "transactionId": "LAAeVN7x1U",
+  "createdAt": {
+    "$date": "2024-09-02T09:09:39.339Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.744Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66f38af449d42f6f34dc0555"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "amount": 434237.5,
+  "rechargeType": "RC7",
+  "rechargeId": "m1hc84ubup9mdy865di",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:30:52 AM"
+  },
+  "transactionId": "NlPMEIRqZU",
+  "createdAt": {
+    "$date": "2024-09-25T04:00:52.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.143Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38af549d42f6f34dc05e0"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 2750,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc85qnbcb4q05wf3",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:30:53 AM"
+  },
+  "transactionId": "glRZmYsKEd",
+  "createdAt": {
+    "$date": "2024-09-25T04:00:53.742Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.451Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38af849d42f6f34dc0643"
+  },
+  "userId": "MOC782",
+  "fullName": "Avinash Kumar",
+  "mobile": "9304091986",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 1600,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc87tr5cvus9cbc29",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:30:56 AM"
+  },
+  "transactionId": "EUrvTMw891",
+  "createdAt": {
+    "$date": "2024-09-25T04:00:56.430Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38af949d42f6f34dc0655"
+  },
+  "userId": "KEF736",
+  "fullName": "Ashok Prasad",
+  "mobile": "9801666161",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "amount": 3500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc88koop6zo4r2u2f",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:30:57 AM"
+  },
+  "transactionId": "A4VzRvAc7L",
+  "createdAt": {
+    "$date": "2024-09-25T04:00:57.416Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.577Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38afa49d42f6f34dc0677"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 8250,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc89d69k9nxgc4p7w",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:30:58 AM"
+  },
+  "transactionId": "uOn2k3lYhA",
+  "createdAt": {
+    "$date": "2024-09-25T04:00:58.473Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.730Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0149d42f6f34dc07a2"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 2175,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8egi8nw5q4vy19x",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:05 AM"
+  },
+  "transactionId": "lITU4V0ngn",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:05.042Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.823Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0949d42f6f34dc086c"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "mobile": "8002706204",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "amount": 1500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8kwtd1yhn0ldo4w",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:13 AM"
+  },
+  "transactionId": "cXheqE77rQ",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:13.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.882Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0a49d42f6f34dc087d"
+  },
+  "userId": "EMI038",
+  "fullName": "Rajiv ranjan",
+  "mobile": "9430228419",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 1500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8lp5el1xsr7im0a",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:14 AM"
+  },
+  "transactionId": "bjtG2wvAy0",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:14.422Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0b49d42f6f34dc0892"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "mobile": "7482839476",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 22537.5,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8mij8akkuv1sr2m",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:15 AM"
+  },
+  "transactionId": "Zi0PLqzgRi",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:15.507Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.061Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0c49d42f6f34dc08aa"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "mobile": "6205009341",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 3650,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc8ncfdbc56hlp7g5",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:16 AM"
+  },
+  "transactionId": "f66UCWJp4Z",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:16.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.162Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b0d49d42f6f34dc08bb"
+  },
+  "userId": "FSS782",
+  "fullName": "Mantu kumar",
+  "mobile": "7209468638",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 1850,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8o32dbwf1sbm6ut",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:17 AM"
+  },
+  "transactionId": "1q7QjtrlzI",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:17.638Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.213Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b1649d42f6f34dc0946"
+  },
+  "userId": "IKE768",
+  "fullName": "Gaurav Kumar",
+  "mobile": "8507919189",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 2500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8uq0mw4sdna99pf",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:26 AM"
+  },
+  "transactionId": "ZuRFDl6eRG",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:26.104Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b1749d42f6f34dc095a"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 3750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8vjjjpkid9i82in",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:27 AM"
+  },
+  "transactionId": "MyvN3QGkGp",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:27.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.306Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b1949d42f6f34dc0977"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "mobile": "9709288031",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 8750,
+  "rechargeType": "RC5",
+  "rechargeId": "m1hc8x59uve6u8oxk",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:29 AM"
+  },
+  "transactionId": "9Y8RZAkiLM",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:29.264Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.401Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b1c49d42f6f34dc09a3"
+  },
+  "userId": "BSV429",
+  "fullName": "Anshu kumari",
+  "mobile": "7257822428",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 2062.5,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc8ztdm13lhfkeong",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:32 AM"
+  },
+  "transactionId": "xtgs39WBS1",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:32.700Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.453Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b1f49d42f6f34dc09c9"
+  },
+  "userId": "EOK805",
+  "fullName": "Priyanshu kumari",
+  "mobile": "7324030889",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 3550,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc924rt6x39ljg2e",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:35 AM"
+  },
+  "transactionId": "nMPofPxynS",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:35.712Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.529Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2149d42f6f34dc09e5"
+  },
+  "userId": "WFS213",
+  "fullName": "Saurabh Chaudhari",
+  "mobile": "7256812367",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 3675,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9349dey7vwbvtih",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:37 AM"
+  },
+  "transactionId": "A4zdIkpfiR",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:37.017Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.625Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2349d42f6f34dc0a1d"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 16500,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc9551hv5aztkkn",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:39 AM"
+  },
+  "transactionId": "9SoVNsUJBu",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:39.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.668Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2749d42f6f34dc0a55"
+  },
+  "userId": "AFS962",
+  "fullName": "Saurabh kumar singh",
+  "mobile": "6205969164",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 7100,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc97wwhdhddng88gp",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:43 AM"
+  },
+  "transactionId": "DEmHIYqrpq",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:43.216Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.713Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2849d42f6f34dc0a67"
+  },
+  "userId": "QET050",
+  "fullName": "Sharmila devi",
+  "mobile": "7992270335",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc98zae79z82zj7r9",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:44 AM"
+  },
+  "transactionId": "RA9vD0lSYn",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:44.618Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.770Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2b49d42f6f34dc0a89"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "mobile": "8340273363",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 27400,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9axfw9v7xk4uju",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:47 AM"
+  },
+  "transactionId": "rFAw1e5j2R",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:47.137Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.832Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2d49d42f6f34dc0aa6"
+  },
+  "userId": "YFK949",
+  "fullName": "Praveen Kumar",
+  "mobile": "8271281398",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 1750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9cq1o7p16uk8hr",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:49 AM"
+  },
+  "transactionId": "5RhTVvnXMe",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:49.432Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.886Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b2f49d42f6f34dc0ac6"
+  },
+  "userId": "VRF133",
+  "fullName": "Sumit Kumar singh",
+  "mobile": "6204322885",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 2500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9eo581fixip8qo",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:31:51 AM"
+  },
+  "transactionId": "ZvdPEjrHWC",
+  "createdAt": {
+    "$date": "2024-09-25T04:01:51.973Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.940Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b3849d42f6f34dc0b28"
+  },
+  "userId": "MYS125",
+  "fullName": "Charan Choudhary",
+  "mobile": "9586227952",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 3000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9ldhalfyapemprh",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:00 AM"
+  },
+  "transactionId": "n8a4NW8olb",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:00.687Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.020Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b3a49d42f6f34dc0b3d"
+  },
+  "userId": "SCI254",
+  "fullName": "Aman",
+  "mobile": "9128564337",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 20000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9mt13r2w8lsarva",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:02 AM"
+  },
+  "transactionId": "OsZ5c5IaO1",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:02.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.089Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b3c49d42f6f34dc0b51"
+  },
+  "userId": "BDS454",
+  "fullName": "Sushmita kumari",
+  "mobile": "8603514499",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "amount": 4700,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9o5xhpjdff3cjbq",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:04 AM"
+  },
+  "transactionId": "WlhUtdLD9z",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:04.284Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.137Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b3d49d42f6f34dc0b65"
+  },
+  "userId": "TFW965",
+  "fullName": "Pragya",
+  "mobile": "8340590611",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 3950,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9ozxw2qr2x4g7go",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:05 AM"
+  },
+  "transactionId": "aybfuPQOam",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:05.340Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b3e49d42f6f34dc0b7c"
+  },
+  "userId": "MSS558",
+  "fullName": "Ritika kumari",
+  "mobile": "7643808335",
+  "sponsorId": "BSV429",
+  "sponsorName": "Anshu kumari",
+  "amount": 15625,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9q7fvjnd84lzdm",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:06 AM"
+  },
+  "transactionId": "Sv2GmLZM4a",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:06.948Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.224Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4049d42f6f34dc0b90"
+  },
+  "userId": "MAJ064",
+  "fullName": "Aniket Ranjan",
+  "mobile": "7321066029",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 2750,
+  "rechargeType": "RC4",
+  "rechargeId": "m1hc9rmdqrlpru4tmoq",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:08 AM"
+  },
+  "transactionId": "cpCLNkrqSe",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:08.776Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.249Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4249d42f6f34dc0ba1"
+  },
+  "userId": "EJS884",
+  "fullName": "NITU KUMARI",
+  "mobile": "7870288275",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "amount": 63000,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc9sobwvwpbo15dr9",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:10 AM"
+  },
+  "transactionId": "X7mY4feRBg",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:10.145Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.304Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4349d42f6f34dc0bb5"
+  },
+  "userId": "BTG651",
+  "fullName": "Mayank kumar singh",
+  "mobile": "8228930833",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 10000,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc9u2dlmbc3ucq1sl",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:11 AM"
+  },
+  "transactionId": "ILghgKtccr",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:11.937Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.380Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4449d42f6f34dc0bc3"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "mobile": "7371075572",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 20000,
+  "rechargeType": "RC5",
+  "rechargeId": "m1hc9uvjt9grw8r3a7",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:12 AM"
+  },
+  "transactionId": "fn2VKXnScy",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:12.978Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.470Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4649d42f6f34dc0bd1"
+  },
+  "userId": "TSS121",
+  "fullName": "Rahul",
+  "mobile": "9142489430",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 2500,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hc9vq557qf51jnh3t",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:14 AM"
+  },
+  "transactionId": "WLzMziP9r5",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:14.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.564Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4749d42f6f34dc0bdf"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "mobile": "7644967812",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 22500,
+  "rechargeType": "RC10",
+  "rechargeId": "m1hc9wkt6tn6r0zbuz6",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:15 AM"
+  },
+  "transactionId": "h5afZlnQ1B",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:15.214Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.627Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4849d42f6f34dc0bed"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "mobile": "6206006904",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 11250,
+  "rechargeType": "RC5",
+  "rechargeId": "m1hc9xfnou2mz45f2zg",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:16 AM"
+  },
+  "transactionId": "LqsbK29JlL",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:16.333Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4949d42f6f34dc0bfb"
+  },
+  "userId": "KOO277",
+  "fullName": "NITU KUMARI",
+  "mobile": "9431764475",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "amount": 107500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hc9y9nw8d94kwxtl",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:17 AM"
+  },
+  "transactionId": "kN2DVM0OKX",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:17.388Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.874Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b4e49d42f6f34dc0c46"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "mobile": "7279936418",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "amount": 24650,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca2i54l7w58x36b",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:22 AM"
+  },
+  "transactionId": "kHJNkj3QG7",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:22.829Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.934Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5049d42f6f34dc0c5b"
+  },
+  "userId": "SPA129",
+  "fullName": "Aman Singh",
+  "mobile": "6200597818",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 3650,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca3jfxh7jouq90ih",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:24 AM"
+  },
+  "transactionId": "X2FtPCf4Hc",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:24.261Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.958Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5349d42f6f34dc0c88"
+  },
+  "userId": "GSE352",
+  "fullName": "Kajal",
+  "mobile": "9113758832",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "amount": 26000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca6834znrwxmt1so",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:27 AM"
+  },
+  "transactionId": "DHDq9xkbws",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:27.739Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.980Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5449d42f6f34dc0c99"
+  },
+  "userId": "GEE064",
+  "fullName": "Bina Devi",
+  "mobile": "6206805709",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "amount": 11250,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca77hg2c8z8yis4t",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:28 AM"
+  },
+  "transactionId": "Op6zXTpdx1",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:28.984Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.018Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5649d42f6f34dc0caa"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "mobile": "7870371600",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "amount": 5925,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca81wm32iopy7r8",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:30 AM"
+  },
+  "transactionId": "QxyPPjY0Cv",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:30.056Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.065Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5749d42f6f34dc0cbb"
+  },
+  "userId": "DSA185",
+  "fullName": "Suman Kumari Yadav",
+  "mobile": "7079751307",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "amount": 30000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hca8thjlmnw2onkv",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:31 AM"
+  },
+  "transactionId": "xZ1yIDdd0i",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:31.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.104Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5c49d42f6f34dc0d03"
+  },
+  "userId": "UEJ481",
+  "fullName": "DIVYA KUMARI",
+  "mobile": "7970313130",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 22500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcad1zleq0mxmo7m",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:36 AM"
+  },
+  "transactionId": "i9ZujoPaLp",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:36.543Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.144Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5d49d42f6f34dc0d11"
+  },
+  "userId": "ARK657",
+  "fullName": "Sachin kumar",
+  "mobile": "8160090458",
+  "sponsorId": "MYS125",
+  "sponsorName": "Charan Choudhary",
+  "amount": 29500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcadw2e9eatsydxu",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:37 AM"
+  },
+  "transactionId": "s87TIQ4XbE",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:37.629Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.205Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5e49d42f6f34dc0d1f"
+  },
+  "userId": "CJX213",
+  "fullName": "Manish ramkeswr singh",
+  "mobile": "9724932580",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 4375,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcaeqm1ev28kz1ihe",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:38 AM"
+  },
+  "transactionId": "fx8z4T3RyA",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:38.715Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.251Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b5f49d42f6f34dc0d2d"
+  },
+  "userId": "TOP300",
+  "fullName": "Chaudhary riya",
+  "mobile": "7766070739",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "amount": 22500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcafkkvqj6pnw0ag",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:39 AM"
+  },
+  "transactionId": "Mp5os108as",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:39.784Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.286Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6149d42f6f34dc0d3e"
+  },
+  "userId": "DMX265",
+  "fullName": "Ajay kumar",
+  "mobile": "9065778124",
+  "sponsorId": "EOK805",
+  "sponsorName": "Priyanshu kumari",
+  "amount": 4650,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcagmbe2igxjmpef",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:41 AM"
+  },
+  "transactionId": "ddOE8hHFpw",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:41.131Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6249d42f6f34dc0d4d"
+  },
+  "userId": "DEY516",
+  "fullName": "Ritika Kumari",
+  "mobile": "7903704480",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 2025,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcahdhlsphf1u2hra",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:42 AM"
+  },
+  "transactionId": "1tUkDTiqJx",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:42.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6649d42f6f34dc0d89"
+  },
+  "userId": "DSS265",
+  "fullName": "Ruby devi",
+  "mobile": "8210180722",
+  "sponsorId": "DEY516",
+  "sponsorName": "Ritika Kumari",
+  "amount": 7125,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcakxapw7mbqhglur",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:46 AM"
+  },
+  "transactionId": "cEsXg3nJd0",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:46.732Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.414Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6749d42f6f34dc0d97"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "mobile": "6207488500",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 16000,
+  "rechargeType": "RC5",
+  "rechargeId": "m1hcalorose6nf91n0h",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:47 AM"
+  },
+  "transactionId": "lRg7EAQebt",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:47.733Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.442Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6849d42f6f34dc0da5"
+  },
+  "userId": "FDC624",
+  "fullName": "DHIRAJ KUMAR",
+  "mobile": "9631616497",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 4750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcamgvs6yqlqyhf2d",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:48 AM"
+  },
+  "transactionId": "fSSOESmV77",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:48.738Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.488Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6c49d42f6f34dc0dd2"
+  },
+  "userId": "MPT766",
+  "fullName": "Punam singh",
+  "mobile": "7739608665",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 71250,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hcap2sa2pmvq52eaa",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:52 AM"
+  },
+  "transactionId": "dfEfqarcb9",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:52.105Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b6e49d42f6f34dc0dee"
+  },
+  "userId": "WAT263",
+  "fullName": "Rajeev ranjan",
+  "mobile": "7033438400",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 12500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcaqp9fp52vfyvyxk",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:54 AM"
+  },
+  "transactionId": "s5pQEjyJ1E",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:54.238Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.598Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7149d42f6f34dc0e13"
+  },
+  "userId": "VQP656",
+  "fullName": "Sunil chaudhari",
+  "mobile": "8769897921",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 7875,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcat6qhrvqill18ij",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:57 AM"
+  },
+  "transactionId": "wxaAME41Fa",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:57.456Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7349d42f6f34dc0e32"
+  },
+  "userId": "NEB738",
+  "fullName": "Santosh kumar suman",
+  "mobile": "9693847552",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "amount": 45000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcav4m00vdwfrbkcs3d",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:32:59 AM"
+  },
+  "transactionId": "FNIyIV4e7w",
+  "createdAt": {
+    "$date": "2024-09-25T04:02:59.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.655Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7649d42f6f34dc0e50"
+  },
+  "userId": "EUG962",
+  "fullName": "Vicky Kumar",
+  "mobile": "7004699737",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 8750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcawrnu6809ef3c2",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:02 AM"
+  },
+  "transactionId": "BGoXd4537m",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:02.069Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.683Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7749d42f6f34dc0e63"
+  },
+  "userId": "GWX877",
+  "fullName": "Puja kumari",
+  "mobile": "9572691318",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 14000,
+  "rechargeType": "RC3",
+  "rechargeId": "m1hcaxwrec143uceokf",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:03 AM"
+  },
+  "transactionId": "6Uc7oQ6ckU",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:03.575Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.711Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7b49d42f6f34dc0e9b"
+  },
+  "userId": "TOO334",
+  "fullName": "Saurabh sagar",
+  "mobile": "9525708721",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 26000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcb19o5641oruhpg",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:07 AM"
+  },
+  "transactionId": "pcxlG0A7ds",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:07.919Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.735Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b7c49d42f6f34dc0ea9"
+  },
+  "userId": "JRQ429",
+  "fullName": "Sharvan kumar",
+  "mobile": "9142285541",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 5000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcb22r55ze8hlpgdf",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:08 AM"
+  },
+  "transactionId": "su8BbfVcOj",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:08.976Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.765Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b8349d42f6f34dc0f04"
+  },
+  "userId": "KJM223",
+  "fullName": "Mata Rani enterprises",
+  "mobile": "7903742915",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "amount": 450,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcb7hl23p6bq24a11",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:15 AM"
+  },
+  "transactionId": "muzPy4ck6S",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:15.975Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.801Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b8449d42f6f34dc0f15"
+  },
+  "userId": "QDJ083",
+  "fullName": "Sanoj kumar singh",
+  "mobile": "8541945081",
+  "sponsorId": "KJM223",
+  "sponsorName": "Mata Rani enterprises",
+  "amount": 1500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcb8a0qf6kryevbn",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:16 AM"
+  },
+  "transactionId": "2Pwgcy1dQZ",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:16.992Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b8949d42f6f34dc0f54"
+  },
+  "userId": "OSD393",
+  "fullName": "Amitab Kumar singh",
+  "mobile": "9431010371",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "amount": 15000,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbc2jo9wrf29csj",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:21 AM"
+  },
+  "transactionId": "72XLG7OjrX",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:21.914Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.881Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b8f49d42f6f34dc0f95"
+  },
+  "userId": "BSG655",
+  "fullName": "Chandan kumar",
+  "mobile": "9122064283",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "amount": 3900,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbg4cqinjsn6f20j",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:27 AM"
+  },
+  "transactionId": "e4pOKPq8Ch",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:27.179Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9049d42f6f34dc0fa6"
+  },
+  "userId": "BJG526",
+  "fullName": "Payal Sharma",
+  "mobile": "6205743634",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 3125,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbh61hilbjxfbb2v",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:28 AM"
+  },
+  "transactionId": "0CTh0KvTON",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:28.514Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.973Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9149d42f6f34dc0fb4"
+  },
+  "userId": "OSN685",
+  "fullName": "ASHA DEVI",
+  "mobile": "9123448277",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "amount": 1700,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbhxuys8k0r71ii",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:29 AM"
+  },
+  "transactionId": "0O2u7Jlb2L",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:29.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.011Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9249d42f6f34dc0fc2"
+  },
+  "userId": "JCQ622",
+  "fullName": "Asha Sharma",
+  "mobile": "6207340160",
+  "sponsorId": "QET050",
+  "sponsorName": "Sharmila devi",
+  "amount": 750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbipyv6vcccex58",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:30 AM"
+  },
+  "transactionId": "JngZVfLP4z",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:30.541Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.052Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9349d42f6f34dc0fd0"
+  },
+  "userId": "KYS142",
+  "fullName": "pravin kumar",
+  "mobile": "7004700221",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "amount": 12500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbjjcoxwf753cjf",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:31 AM"
+  },
+  "transactionId": "kCLpxcmke1",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:31.572Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.092Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9b49d42f6f34dc103b"
+  },
+  "userId": "OQF366",
+  "fullName": "Alok kumar",
+  "mobile": "7870008241",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 1750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbpzp8kh33fuzdqk",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:39 AM"
+  },
+  "transactionId": "VAyxHkXSc5",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:39.971Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.128Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9c49d42f6f34dc104a"
+  },
+  "userId": "DXD246",
+  "fullName": "Sagar kumar",
+  "mobile": "8409464821",
+  "sponsorId": "EUG962",
+  "sponsorName": "Vicky Kumar",
+  "amount": 1750,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbqrqxqbwpjr3hff",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:40 AM"
+  },
+  "transactionId": "pyNmyOOmCS",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:40.977Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.149Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9e49d42f6f34dc105c"
+  },
+  "userId": "UBW606",
+  "fullName": "Uk",
+  "mobile": "8597705854",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 75,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbruag6me2rzmhu",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:42 AM"
+  },
+  "transactionId": "ii5KWP02Sp",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:42.378Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.165Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66f38b9f49d42f6f34dc106a"
+  },
+  "userId": "OCA206",
+  "fullName": "Sumit",
+  "mobile": "8005835447",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "amount": 250,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcbsqpgqf4hktgsvq",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:43 AM"
+  },
+  "transactionId": "11mx51Fzjy",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:43.545Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.181Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67026198a52723ed195c8675"
+  },
+  "userId": "ETI532",
+  "fullName": "Shurabh",
+  "mobile": "7061688050",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "m1xf75epwombm8nqbb",
+  "paidDays": 104,
+  "leftDays": 261,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Oct 06 2024",
+    "time": "3:38:24 PM"
+  },
+  "transactionId": "tHyYASRXiN",
+  "createdAt": {
+    "$date": "2024-10-06T10:08:24.240Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6702880ea52723ed195c95fa"
+  },
+  "userId": "SSP716",
+  "fullName": "Krish",
+  "mobile": "7361853601",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 500000,
+  "rechargeType": "RC1",
+  "rechargeId": "m1xl26vfhjw9uzyidw8",
+  "paidDays": 104,
+  "leftDays": 261,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Oct 06 2024",
+    "time": "6:22:30 PM"
+  },
+  "transactionId": "qabgqfbcg5",
+  "createdAt": {
+    "$date": "2024-10-06T12:52:30.449Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.228Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681620e613b873bed8f1b08"
+  },
+  "userId": "EGO180",
+  "fullName": "Vinod Kumar",
+  "mobile": "8210832408",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 50000,
+  "rechargeType": "RC1",
+  "rechargeId": "ly1lw1kfjgdjzuoyedi",
+  "paidDays": 162,
+  "leftDays": 203,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jun 30 2024",
+    "time": "7:17:58 PM"
+  },
+  "transactionId": "T3AgzKQ5zj",
+  "createdAt": {
+    "$date": "2024-06-30T13:47:58.580Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.779Z"
+  },
+  "__v": 0,
+  "oldHistory": true
+},
+{
+  "_id": {
+    "$oid": "66f38b8049d42f6f34dc0ed5"
+  },
+  "userId": "EGO180",
+  "fullName": "Vinod Kumar",
+  "mobile": "8210832408",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 7500,
+  "rechargeType": "RC2",
+  "rechargeId": "m1hcb4jrdty9obit3ek",
+  "paidDays": 111,
+  "leftDays": 254,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": false,
+  "setIsManual": true,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Sep 25 2024",
+    "time": "9:33:12 AM"
+  },
+  "transactionId": "kOKCfjJQ7V",
+  "createdAt": {
+    "$date": "2024-09-25T04:03:12.182Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.245Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67057d82a52723ed195d2b15"
+  },
+  "userId": "UBW606",
+  "fullName": "Uk",
+  "mobile": "8597705854",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "amount": 5000,
+  "rechargeType": "RC3",
+  "rechargeId": "m20sibib81p5br4pp78",
+  "paidDays": 101,
+  "leftDays": 264,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Oct 09 2024",
+    "time": "12:14:18 AM"
+  },
+  "transactionId": "ok34wlOp16",
+  "createdAt": {
+    "$date": "2024-10-08T18:44:18.813Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.272Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707e741a52723ed195d512c"
+  },
+  "userId": "BJT347",
+  "fullName": "Shekhar",
+  "mobile": "8709348407",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "m23enuz3og2nbgs49xg",
+  "paidDays": 100,
+  "leftDays": 265,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Oct 10 2024",
+    "time": "8:10:01 PM"
+  },
+  "transactionId": "sA6m87o5UZ",
+  "createdAt": {
+    "$date": "2024-10-10T14:40:01.292Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.317Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707e757a52723ed195d5151"
+  },
+  "userId": "ASQ336",
+  "fullName": "Piyush",
+  "mobile": "7061494573",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 250000,
+  "rechargeType": "RC1",
+  "rechargeId": "m23eoc302pf71hyzkog",
+  "paidDays": 100,
+  "leftDays": 265,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Oct 10 2024",
+    "time": "8:10:23 PM"
+  },
+  "transactionId": "yWE6ESe7sf",
+  "createdAt": {
+    "$date": "2024-10-10T14:40:23.632Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.335Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6709626ca52723ed195d80b9"
+  },
+  "userId": "GDE112",
+  "fullName": "Amrendra Kumar",
+  "mobile": "9835819740",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 100000,
+  "rechargeType": "RC1",
+  "rechargeId": "m250gcl8qmci9k67ul",
+  "paidDays": 99,
+  "leftDays": 266,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Oct 11 2024",
+    "time": "11:07:48 PM"
+  },
+  "transactionId": "2JquJZdOkU",
+  "createdAt": {
+    "$date": "2024-10-11T17:37:48.536Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.355Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6717d6f7a52723ed195e780a"
+  },
+  "userId": "ASQ336",
+  "fullName": "Piyush",
+  "mobile": "7061494573",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 100000,
+  "rechargeType": "RC2",
+  "rechargeId": "m2koh3ms7opjgth6dd8",
+  "paidDays": 92,
+  "leftDays": 273,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Oct 22 2024",
+    "time": "10:16:47 PM"
+  },
+  "transactionId": "WnZxmSff1W",
+  "createdAt": {
+    "$date": "2024-10-22T16:46:47.078Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.503Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675006b8cfc48323c2682835"
+  },
+  "userId": "ASQ336",
+  "fullName": "Piyush",
+  "mobile": "7061494573",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "amount": 50000,
+  "rechargeType": "RC3",
+  "rechargeId": "m49ksba0dczs2hi0gb",
+  "paidDays": 61,
+  "leftDays": 304,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Dec 04 2024",
+    "time": "1:07:28 PM"
+  },
+  "transactionId": "KWBncM5Edi",
+  "createdAt": {
+    "$date": "2024-12-04T07:37:28.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.620Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c53e2cfc48323c2689e78"
+  },
+  "userId": "PAB648",
+  "fullName": "Anushka roy",
+  "mobile": "9102040056",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m4mwroapt0z1jk4hf6r",
+  "paidDays": 54,
+  "leftDays": 311,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Dec 13 2024",
+    "time": "9:03:54 PM"
+  },
+  "transactionId": "aUr3wYCuEi",
+  "createdAt": {
+    "$date": "2024-12-13T15:33:54.268Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677399ddcfc48323c269493d"
+  },
+  "userId": "QJV083",
+  "fullName": "Amit Ranjan Kumar",
+  "mobile": "7277146883",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "amount": 80000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5c4uxfiqpbkf3sry4q",
+  "paidDays": 42,
+  "leftDays": 323,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Tue Dec 31 2024",
+    "time": "12:44:37 PM"
+  },
+  "transactionId": "duQw3uRj3N",
+  "createdAt": {
+    "$date": "2024-12-31T07:14:37.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.824Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aae77cfc48323c269ced2"
+  },
+  "userId": "EJS226",
+  "fullName": "Vipul kumar",
+  "mobile": "8292114923",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5jt4me4vl21y4vvif",
+  "paidDays": 39,
+  "leftDays": 326,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jan 05 2025",
+    "time": "9:38:23 PM"
+  },
+  "transactionId": "3SpueA5ecJ",
+  "createdAt": {
+    "$date": "2025-01-05T16:08:23.655Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.899Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aae8dcfc48323c269cef8"
+  },
+  "userId": "YJX890",
+  "fullName": "Rahul kumar Singh",
+  "mobile": "6201864006",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5jt5357yjgn51kxeh",
+  "paidDays": 39,
+  "leftDays": 326,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Sun Jan 05 2025",
+    "time": "9:38:45 PM"
+  },
+  "transactionId": "duIkeIiRhW",
+  "createdAt": {
+    "$date": "2025-01-05T16:08:45.364Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.987Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be232cfc48323c269e2f0"
+  },
+  "userId": "EUC558",
+  "fullName": "ABHYUDAY AMRITANSH",
+  "mobile": "6201284725",
+  "sponsorId": "YJX890",
+  "sponsorName": "Rahul kumar Singh",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5l414eqzynkru7zjo",
+  "paidDays": 39,
+  "leftDays": 326,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Mon Jan 06 2025",
+    "time": "7:31:22 PM"
+  },
+  "transactionId": "A23Ux8Qaoe",
+  "createdAt": {
+    "$date": "2025-01-06T14:01:22.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677e95b9cfc48323c26a0521"
+  },
+  "userId": "FUO839",
+  "fullName": "Shekhar kumar",
+  "mobile": "9973842520",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5o1fitfpo1p6ha0yol",
+  "paidDays": 37,
+  "leftDays": 328,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Wed Jan 08 2025",
+    "time": "8:41:53 PM"
+  },
+  "transactionId": "qUj4BOXHci",
+  "createdAt": {
+    "$date": "2025-01-08T15:11:53.870Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.190Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800d937b201b5e0e097422"
+  },
+  "userId": "SJU005",
+  "fullName": "Sanvi",
+  "mobile": "9939114411",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 10000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5pmpsmop18ujqfzxak",
+  "paidDays": 36,
+  "leftDays": 329,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Jan 09 2025",
+    "time": "11:25:31 PM"
+  },
+  "transactionId": "1jZT2aHvxx",
+  "createdAt": {
+    "$date": "2025-01-09T17:55:31.259Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800daf7b201b5e0e097499"
+  },
+  "userId": "JJB532",
+  "fullName": "Suresh Kumar",
+  "mobile": "9334617634",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "amount": 30000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5pmqe1yaqi60u1ee8h",
+  "paidDays": 36,
+  "leftDays": 329,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Thu Jan 09 2025",
+    "time": "11:25:59 PM"
+  },
+  "transactionId": "K4GjpCvPwi",
+  "createdAt": {
+    "$date": "2025-01-09T17:55:59.023Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.399Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678166f87b201b5e0e0981ec"
+  },
+  "userId": "STA707",
+  "fullName": "Amit Ranjan Kumar",
+  "mobile": "8789021328",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "amount": 5000,
+  "rechargeType": "RC1",
+  "rechargeId": "m5r3cz0a3t48zzrzy75",
+  "paidDays": 35,
+  "leftDays": 330,
+  "totalDays": 365,
+  "isActive": true,
+  "isCompleted": false,
+  "setIsAdmin": true,
+  "setIsManual": false,
+  "oldHistory": false,
+  "newHistory": true,
+  "status": "succeed",
+  "dateAndTime": {
+    "date": "Fri Jan 10 2025",
+    "time": "11:59:12 PM"
+  },
+  "transactionId": "0TznYSN7kW",
+  "createdAt": {
+    "$date": "2025-01-10T18:29:12.645Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.419Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,119 @@
+@import "../../abstract/variables";
+@import "../../responsive/breakpoints";
+
+.tb__layout {
+  .tb__auth__content {
+    padding: 0px 20px;
+    .tb__auth__heading {
+      padding-top: 20px;
+      h2 {
+        color: $tb-text-dark-color;
+        text-align: start;
+        font-size: 30px;
+        font-weight: 900 !important;
+      }
+    }
+    .tb__auth__form {
+      margin-top: 15px;
+      .tb__auth__group {
+        form {
+          display: flex;
+          flex-direction: column;
+          gap: 15px;
+          .tb__form__group {
+            width: 100%;
+            display: flex;
+            flex-direction: column;
+            gap: 5px;
+            font-family: $font-family;
+            position: relative;
+            p {
+              display: flex;
+              align-items: center;
+              justify-content: flex-start;
+              color: $tb-text-dark-color;
+              font-size: 16px;
+              svg {
+                font-size: 22px;
+                margin-right: 5px;
+              }
+            }
+            span {
+              user-select: none;
+              cursor: pointer;
+              position: absolute;
+              right: 3%;
+              top: 54%;
+              font-size: 22px;
+              color: $tb-text-dark-color;
+            }
+            input,
+            select {
+              display: flex;
+              padding: 5px 8px;
+              outline: none;
+              border-radius: 10px;
+              border: $border-1;
+              font-size: 16px;
+              font-family: $font-family;
+              color: $tb-text-dark-color;
+              &::placeholder {
+                font-family: $font-family;
+              }
+            }
+            .forgot__text {
+              color: $tb-text-dark-color;
+              p {
+                text-align: right;
+                justify-content: flex-end;
+                font-size: 15px;
+                a {
+                  color: $tb-text-dark-color;
+                }
+              }
+            }
+            .auth__button {
+              button {
+                background: $tb-text-dark-color;
+                color: $text-white;
+                width: 100%;
+                padding: 10px;
+                border: none;
+                cursor: pointer;
+                font-size: 20px;
+                border-radius: 10px;
+              }
+            }
+            .showPasswordCheckBox {
+              display: flex;
+              align-items: center;
+              gap: 5px;
+              label {
+                color: $text-black;
+                font-size: 16px;
+              }
+              input {
+                width: 20px;
+                height: 16px;
+              }
+            }
+          }
+        }
+      }
+      .button__area {
+        margin-top: 30px;
+      }
+      .tb__auth__footer {
+        text-align: center;
+        margin-top: 20px;
+        p {
+          color: $text-black;
+          font-size: 15px;
+          a {
+            color: $tb-text-dark-color;
+          }
+        }
+      }
+    }
+  }
+}

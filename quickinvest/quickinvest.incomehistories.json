@@ -1,0 +1,2577 @@
+[{
+  "_id": {
+    "$oid": "65b3a36bc20693905fca5e20"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "5:49:55 PM"
+  },
+  "createdAt": "2024-01-26T12:19:55.784Z",
+  "updatedAt": "2024-01-26T12:19:55.784Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3b2b678e759c3f89f1ed5"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "YMD177",
+    "fullName": "Anshu Singh",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "6:55:10 PM"
+  },
+  "createdAt": "2024-01-26T13:25:10.496Z",
+  "updatedAt": "2024-01-26T13:25:10.496Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3ba6778e759c3f89f24e3"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SNP796",
+    "fullName": "Bharat Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "7:27:59 PM"
+  },
+  "createdAt": "2024-01-26T13:57:59.683Z",
+  "updatedAt": "2024-01-26T13:57:59.683Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3ed7c470ce9b6ebe547b4"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Fri Jan 26 2024",
+    "time": "11:05:56 PM"
+  },
+  "createdAt": "2024-01-26T17:35:56.777Z",
+  "updatedAt": "2024-01-26T17:35:56.777Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b65c8a547bf423eec05706"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "YPN924",
+    "fullName": "Aman gupta",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Sun Jan 28 2024",
+    "time": "7:24:18 PM"
+  },
+  "createdAt": "2024-01-28T13:54:18.961Z",
+  "updatedAt": "2024-01-28T13:54:18.961Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b67d05547bf423eec05b9c"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JDS893",
+    "fullName": "Aman kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Sun Jan 28 2024",
+    "time": "9:42:53 PM"
+  },
+  "createdAt": "2024-01-28T16:12:53.505Z",
+  "updatedAt": "2024-01-28T16:12:53.505Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b8ed74af317c5ec3c26400"
+  },
+  "userId": "KEF736",
+  "fullName": "Ashok Prasad",
+  "mobile": "9801666161",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ICW143",
+    "fullName": "Sita devi",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Tue Jan 30 2024",
+    "time": "6:07:08 PM"
+  },
+  "createdAt": "2024-01-30T12:37:08.790Z",
+  "updatedAt": "2024-01-30T12:37:08.790Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b91a95af317c5ec3c265b1"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "mobile": "8002706204",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EMI038",
+    "fullName": "Rajiv ranjan",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Tue Jan 30 2024",
+    "time": "9:19:41 PM"
+  },
+  "createdAt": "2024-01-30T15:49:41.763Z",
+  "updatedAt": "2024-01-30T15:49:41.763Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ba7819af317c5ec3c27459"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "PUS169",
+    "fullName": "Gourav Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Wed Jan 31 2024",
+    "time": "10:10:57 PM"
+  },
+  "createdAt": "2024-01-31T16:40:57.756Z",
+  "updatedAt": "2024-01-31T16:40:57.756Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb378caf317c5ec3c27fbf"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "mobile": "6205009341",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "WAA193",
+    "fullName": "Nishi prasad",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Thu Feb 01 2024",
+    "time": "11:47:48 AM"
+  },
+  "createdAt": "2024-02-01T06:17:48.004Z",
+  "updatedAt": "2024-02-01T06:17:48.004Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bbadf2af317c5ec3c28d1f"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ERS530",
+    "fullName": "Ankit singh",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Thu Feb 01 2024",
+    "time": "8:12:58 PM"
+  },
+  "createdAt": "2024-02-01T14:42:58.078Z",
+  "updatedAt": "2024-02-01T14:42:58.078Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bfc49faf317c5ec3c2cc10"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "IKE768",
+    "fullName": "Gaurav Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Sun Feb 04 2024",
+    "time": "10:38:47 PM"
+  },
+  "createdAt": "2024-02-04T17:08:47.951Z",
+  "updatedAt": "2024-02-04T17:08:47.951Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bfd058af317c5ec3c2d32d"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MDP252",
+    "fullName": "Nikhil kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Sun Feb 04 2024",
+    "time": "11:28:48 PM"
+  },
+  "createdAt": "2024-02-04T17:58:48.541Z",
+  "updatedAt": "2024-02-04T17:58:48.541Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c11e88af317c5ec3c2f53f"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MOC782",
+    "fullName": "Avinash Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Mon Feb 05 2024",
+    "time": "11:14:40 PM"
+  },
+  "createdAt": "2024-02-05T17:44:40.468Z",
+  "updatedAt": "2024-02-05T17:44:40.468Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce131434706a414e069945"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QSS054",
+    "fullName": "ANIKET Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Thu Feb 15 2024",
+    "time": "7:05:16 PM"
+  },
+  "createdAt": "2024-02-15T13:35:16.656Z",
+  "updatedAt": "2024-02-15T13:35:16.656Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc6687666e8791971a2ed4"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "VRF133",
+    "fullName": "Sumit Kumar singh",
+    "level": 1
+  },
+  "amount": 250,
+  "dateAndTime": {
+    "date": "Mon Feb 26 2024",
+    "time": "3:53:03 PM"
+  },
+  "createdAt": "2024-02-26T10:23:03.432Z",
+  "updatedAt": "2024-02-26T10:23:03.432Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc7c8978808d1da4abf431"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 250,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Mon Feb 26 2024",
+    "time": "5:26:57 PM"
+  },
+  "createdAt": "2024-02-26T11:56:57.426Z",
+  "updatedAt": "2024-02-26T11:56:57.426Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc7d0378808d1da4abf8e6"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 625,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Mon Feb 26 2024",
+    "time": "5:28:59 PM"
+  },
+  "createdAt": "2024-02-26T11:58:59.583Z",
+  "updatedAt": "2024-02-26T11:58:59.583Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd8d1078808d1da4ac1e75"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 625,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:49:44 PM"
+  },
+  "createdAt": "2024-02-27T07:19:44.627Z",
+  "updatedAt": "2024-02-27T07:19:44.627Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd8d1978808d1da4ac1f42"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 1250,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:49:53 PM"
+  },
+  "createdAt": "2024-02-27T07:19:53.336Z",
+  "updatedAt": "2024-02-27T07:19:53.336Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dd8d2d78808d1da4ac200f"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 2500,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue Feb 27 2024",
+    "time": "12:50:13 PM"
+  },
+  "createdAt": "2024-02-27T07:20:13.702Z",
+  "updatedAt": "2024-02-27T07:20:13.702Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5ee8178808d1da4acd400"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SCI254",
+    "fullName": "Aman",
+    "level": 1
+  },
+  "amount": 2500,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Mon Mar 04 2024",
+    "time": "9:23:37 PM"
+  },
+  "createdAt": "2024-03-04T15:53:37.546Z",
+  "updatedAt": "2024-03-04T15:53:37.546Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65edb25678808d1da4ad3068"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "mobile": "7482839476",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MYS125",
+    "fullName": "Charan Choudhary",
+    "level": 1
+  },
+  "amount": 625,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Sun Mar 10 2024",
+    "time": "6:45:02 PM"
+  },
+  "createdAt": "2024-03-10T13:15:02.906Z",
+  "updatedAt": "2024-03-10T13:15:02.906Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f1707478808d1da4ad65fc"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QET050",
+    "fullName": "Sharmila devi",
+    "level": 1
+  },
+  "amount": 250,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Wed Mar 13 2024",
+    "time": "2:53:00 PM"
+  },
+  "createdAt": "2024-03-13T09:23:00.981Z",
+  "updatedAt": "2024-03-13T09:23:00.981Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f29c4a78808d1da4ad762d"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "TFW965",
+    "fullName": "Pragya",
+    "level": 1
+  },
+  "amount": 250,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu Mar 14 2024",
+    "time": "12:12:18 PM"
+  },
+  "createdAt": "2024-03-14T06:42:18.651Z",
+  "updatedAt": "2024-03-14T06:42:18.651Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6e93778808d1da4adb847"
+  },
+  "userId": "BSV429",
+  "fullName": "Anshu kumari",
+  "mobile": "7257822428",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MSS558",
+    "fullName": "Ritika kumari",
+    "level": 1
+  },
+  "amount": 625,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Sun Mar 17 2024",
+    "time": "6:29:35 PM"
+  },
+  "createdAt": "2024-03-17T12:59:35.052Z",
+  "updatedAt": "2024-03-17T12:59:35.052Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7eff078808d1da4adca88"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "mobile": "8340273363",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EJS884",
+    "fullName": "NITU KUMARI",
+    "level": 1
+  },
+  "amount": 2500,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "1:10:32 PM"
+  },
+  "createdAt": "2024-03-18T07:40:32.413Z",
+  "updatedAt": "2024-03-18T07:40:32.413Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f820be78808d1da4add24a"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "YFK949",
+    "fullName": "Praveen Kumar",
+    "level": 1
+  },
+  "amount": 250,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "4:38:46 PM"
+  },
+  "createdAt": "2024-03-18T11:08:46.300Z",
+  "updatedAt": "2024-03-18T11:08:46.300Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f8641778808d1da4add7f7"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MAJ064",
+    "fullName": "Aniket Ranjan",
+    "level": 1
+  },
+  "amount": 250,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Mon Mar 18 2024",
+    "time": "9:26:07 PM"
+  },
+  "createdAt": "2024-03-18T15:56:07.803Z",
+  "updatedAt": "2024-03-18T15:56:07.803Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f97521ee6391c252b35786"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Tue Mar 19 2024",
+    "time": "4:51:05 PM"
+  },
+  "createdAt": "2024-03-19T11:21:05.919Z",
+  "updatedAt": "2024-03-19T11:21:05.919Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f97582ee6391c252b35b77"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 15000,
+  "rechargeAmount": 500000,
+  "dateAndTime": {
+    "date": "Tue Mar 19 2024",
+    "time": "4:52:42 PM"
+  },
+  "createdAt": "2024-03-19T11:22:42.892Z",
+  "updatedAt": "2024-03-19T11:22:42.892Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f975ccee6391c252b35e48"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 4050,
+  "rechargeAmount": 135000,
+  "dateAndTime": {
+    "date": "Tue Mar 19 2024",
+    "time": "4:53:56 PM"
+  },
+  "createdAt": "2024-03-19T11:23:56.919Z",
+  "updatedAt": "2024-03-19T11:23:56.919Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66027782ee6391c252b3b425"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "BTG651",
+    "fullName": "Mayank kumar singh",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Tue Mar 26 2024",
+    "time": "12:51:38 PM"
+  },
+  "createdAt": "2024-03-26T07:21:38.061Z",
+  "updatedAt": "2024-03-26T07:21:38.061Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603b631ee6391c252b3c735"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OVX509",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "11:31:21 AM"
+  },
+  "createdAt": "2024-03-27T06:01:21.575Z",
+  "updatedAt": "2024-03-27T06:01:21.575Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6603d90eee6391c252b3d310"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "TSS121",
+    "fullName": "Rahul",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "2:00:06 PM"
+  },
+  "createdAt": "2024-03-27T08:30:06.484Z",
+  "updatedAt": "2024-03-27T08:30:06.484Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66044621ee6391c252b3de3e"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "NSY942",
+    "fullName": "Puja singh",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Wed Mar 27 2024",
+    "time": "9:45:29 PM"
+  },
+  "createdAt": "2024-03-27T16:15:29.860Z",
+  "updatedAt": "2024-03-27T16:15:29.860Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66059c08ee6391c252b3f642"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "PSJ260",
+    "fullName": "Ankita Singh",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Thu Mar 28 2024",
+    "time": "10:04:16 PM"
+  },
+  "createdAt": "2024-03-28T16:34:16.843Z",
+  "updatedAt": "2024-03-28T16:34:16.843Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6609a2e8cf2474abf84d8f0b"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "mobile": "8340273363",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "KOO277",
+    "fullName": "NITU KUMARI",
+    "level": 1
+  },
+  "amount": 15000,
+  "rechargeAmount": 500000,
+  "dateAndTime": {
+    "date": "Sun Mar 31 2024",
+    "time": "11:22:40 PM"
+  },
+  "createdAt": "2024-03-31T17:52:40.062Z",
+  "updatedAt": "2024-03-31T17:52:40.062Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660bd6b6cf2474abf84da56a"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MDP252",
+    "fullName": "Nikhil kumar",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Tue Apr 02 2024",
+    "time": "3:28:14 PM"
+  },
+  "createdAt": "2024-04-02T09:58:14.745Z",
+  "updatedAt": "2024-04-02T09:58:14.745Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661750ce379d08e1b5086779"
+  },
+  "userId": "WFS213",
+  "fullName": "Saurabh Chaudhari",
+  "mobile": "7256812367",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QSM869",
+    "fullName": "Vijay bahadur anand",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Thu Apr 11 2024",
+    "time": "8:24:06 AM"
+  },
+  "createdAt": "2024-04-11T02:54:06.045Z",
+  "updatedAt": "2024-04-11T02:54:06.045Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661a200d379d08e1b5089918"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SPA129",
+    "fullName": "Aman Singh",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Sat Apr 13 2024",
+    "time": "11:32:53 AM"
+  },
+  "createdAt": "2024-04-13T06:02:53.797Z",
+  "updatedAt": "2024-04-13T06:02:53.797Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661d72da379d08e1b508bc43"
+  },
+  "userId": "TFW965",
+  "fullName": "Pragya",
+  "mobile": "8340590611",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "GSE352",
+    "fullName": "Kajal",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue Apr 16 2024",
+    "time": "12:02:58 AM"
+  },
+  "createdAt": "2024-04-15T18:32:58.561Z",
+  "updatedAt": "2024-04-15T18:32:58.561Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "661ff6f7379d08e1b508e223"
+  },
+  "userId": "WFS213",
+  "fullName": "Saurabh Chaudhari",
+  "mobile": "7256812367",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "FYU030",
+    "fullName": "Bittu kumar",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Wed Apr 17 2024",
+    "time": "9:51:11 PM"
+  },
+  "createdAt": "2024-04-17T16:21:11.157Z",
+  "updatedAt": "2024-04-17T16:21:11.157Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662239cf379d08e1b508f436"
+  },
+  "userId": "GSE352",
+  "fullName": "Kajal",
+  "mobile": "9113758832",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "DSA185",
+    "fullName": "Suman Kumari Yadav",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Fri Apr 19 2024",
+    "time": "3:00:55 PM"
+  },
+  "createdAt": "2024-04-19T09:30:55.878Z",
+  "updatedAt": "2024-04-19T09:30:55.878Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66261194379d08e1b5091e0e"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "APP376",
+    "fullName": "Pankaj kumar",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Mon Apr 22 2024",
+    "time": "12:58:20 PM"
+  },
+  "createdAt": "2024-04-22T07:28:20.706Z",
+  "updatedAt": "2024-04-22T07:28:20.706Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662fbd6d379d08e1b5097f8a"
+  },
+  "userId": "MYS125",
+  "fullName": "Charan Choudhary",
+  "mobile": "9586227952",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ARK657",
+    "fullName": "Sachin kumar",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Mon Apr 29 2024",
+    "time": "9:01:57 PM"
+  },
+  "createdAt": "2024-04-29T15:31:57.085Z",
+  "updatedAt": "2024-04-29T15:31:57.085Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66308fed379d08e1b5098af8"
+  },
+  "userId": "GSE352",
+  "fullName": "Kajal",
+  "mobile": "9113758832",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "GEE064",
+    "fullName": "Bina Devi",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "12:00:05 PM"
+  },
+  "createdAt": "2024-04-30T06:30:05.502Z",
+  "updatedAt": "2024-04-30T06:30:05.502Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6630f223379d08e1b509a9fd"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "mobile": "7870371600",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "UEJ481",
+    "fullName": "DIVYA KUMARI",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "6:59:07 PM"
+  },
+  "createdAt": "2024-04-30T13:29:07.743Z",
+  "updatedAt": "2024-04-30T13:29:07.743Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6630fad6379d08e1b509ac03"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "mobile": "7482839476",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "CJX213",
+    "fullName": "Manish ramkeswr singh",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "7:36:14 PM"
+  },
+  "createdAt": "2024-04-30T14:06:14.200Z",
+  "updatedAt": "2024-04-30T14:06:14.200Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6630fde8379d08e1b509adc0"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "mobile": "7482839476",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "TOP300",
+    "fullName": "Chaudhary riya",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue Apr 30 2024",
+    "time": "7:49:20 PM"
+  },
+  "createdAt": "2024-04-30T14:19:20.442Z",
+  "updatedAt": "2024-04-30T14:19:20.442Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633242f379d08e1b509e379"
+  },
+  "userId": "EOK805",
+  "fullName": "Priyanshu kumari",
+  "mobile": "7324030889",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "DMX265",
+    "fullName": "Ajay kumar",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu May 02 2024",
+    "time": "10:57:11 AM"
+  },
+  "createdAt": "2024-05-02T05:27:11.818Z",
+  "updatedAt": "2024-05-02T05:27:11.818Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66335957379d08e1b509f4ea"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "DEY516",
+    "fullName": "Ritika Kumari",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu May 02 2024",
+    "time": "2:43:59 PM"
+  },
+  "createdAt": "2024-05-02T09:13:59.102Z",
+  "updatedAt": "2024-05-02T09:13:59.102Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640778d51e816a5c2389726"
+  },
+  "userId": "DEY516",
+  "fullName": "Ritika Kumari",
+  "mobile": "7903704480",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "DSS265",
+    "fullName": "Ruby devi",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "1:32:21 PM"
+  },
+  "createdAt": "2024-05-12T08:02:21.972Z",
+  "updatedAt": "2024-05-12T08:02:21.972Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640df1951e816a5c238a139"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ARS441",
+    "fullName": "Anand raj anand",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Sun May 12 2024",
+    "time": "8:54:09 PM"
+  },
+  "createdAt": "2024-05-12T15:24:09.954Z",
+  "updatedAt": "2024-05-12T15:24:09.954Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6641a64f51e816a5c238b5f7"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "mobile": "7279936418",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "FDC624",
+    "fullName": "DHIRAJ KUMAR",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Mon May 13 2024",
+    "time": "11:04:07 AM"
+  },
+  "createdAt": "2024-05-13T05:34:07.432Z",
+  "updatedAt": "2024-05-13T05:34:07.432Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c63b751e816a5c2397a8c"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MPT766",
+    "fullName": "Punam singh",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue May 21 2024",
+    "time": "2:34:55 PM"
+  },
+  "createdAt": "2024-05-21T09:04:55.803Z",
+  "updatedAt": "2024-05-21T09:04:55.803Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664d7e9a51e816a5c2398df7"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "mobile": "8002706204",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "WAT263",
+    "fullName": "Rajeev ranjan",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Wed May 22 2024",
+    "time": "10:41:54 AM"
+  },
+  "createdAt": "2024-05-22T05:11:54.588Z",
+  "updatedAt": "2024-05-22T05:11:54.588Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66521d7c51e816a5c239ed9d"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "mobile": "7279936418",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "VQP656",
+    "fullName": "Sunil chaudhari",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Sat May 25 2024",
+    "time": "10:48:52 PM"
+  },
+  "createdAt": "2024-05-25T17:18:52.451Z",
+  "updatedAt": "2024-05-25T17:18:52.451Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665633aa51e816a5c23a31ba"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "MPT766",
+    "fullName": "Punam singh",
+    "level": 1
+  },
+  "amount": 4500,
+  "rechargeAmount": 150000,
+  "dateAndTime": {
+    "date": "Wed May 29 2024",
+    "time": "1:12:34 AM"
+  },
+  "createdAt": "2024-05-28T19:42:34.622Z",
+  "updatedAt": "2024-05-28T19:42:34.622Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665865c4bd32c653616af6d2"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "mobile": "8340273363",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EJS884",
+    "fullName": "NITU KUMARI",
+    "level": 1
+  },
+  "amount": 6000,
+  "rechargeAmount": 200000,
+  "dateAndTime": {
+    "date": "Thu May 30 2024",
+    "time": "5:10:52 PM"
+  },
+  "createdAt": "2024-05-30T11:40:52.658Z",
+  "updatedAt": "2024-05-30T11:40:52.658Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665a04c2bd32c653616b64e3"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "mobile": "7279936418",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "NEB738",
+    "fullName": "Santosh kumar suman",
+    "level": 1
+  },
+  "amount": 6000,
+  "rechargeAmount": 200000,
+  "dateAndTime": {
+    "date": "Fri May 31 2024",
+    "time": "10:41:30 PM"
+  },
+  "createdAt": "2024-05-31T17:11:30.163Z",
+  "updatedAt": "2024-05-31T17:11:30.163Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "665abbc28fcb0caf53a7175d"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Sat Jun 01 2024",
+    "time": "11:42:18 AM"
+  },
+  "createdAt": "2024-06-01T06:12:18.163Z",
+  "updatedAt": "2024-06-01T06:12:18.163Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66691fa38fcb0caf53a8e49c"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ARS441",
+    "fullName": "Anand raj anand",
+    "level": 1
+  },
+  "amount": 900,
+  "rechargeAmount": 30000,
+  "dateAndTime": {
+    "date": "Wed Jun 12 2024",
+    "time": "9:40:11 AM"
+  },
+  "createdAt": "2024-06-12T04:10:11.449Z",
+  "updatedAt": "2024-06-12T04:10:11.449Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666d7d938fcb0caf53a9bd62"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EUG962",
+    "fullName": "Vicky Kumar",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Sat Jun 15 2024",
+    "time": "5:10:03 PM"
+  },
+  "createdAt": "2024-06-15T11:40:03.931Z",
+  "updatedAt": "2024-06-15T11:40:03.931Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666f1c8c8fcb0caf53aa40ed"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "GWX877",
+    "fullName": "Puja kumari",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Sun Jun 16 2024",
+    "time": "10:40:36 PM"
+  },
+  "createdAt": "2024-06-16T17:10:36.407Z",
+  "updatedAt": "2024-06-16T17:10:36.407Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6677ea988fcb0caf53abc8aa"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "mobile": "7870371600",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "TOO334",
+    "fullName": "Saurabh sagar",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Sun Jun 23 2024",
+    "time": "2:57:52 PM"
+  },
+  "createdAt": "2024-06-23T09:27:52.529Z",
+  "updatedAt": "2024-06-23T09:27:52.529Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6678279a8fcb0caf53abd5dd"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JRQ429",
+    "fullName": "Sharvan kumar",
+    "level": 1
+  },
+  "amount": 600,
+  "rechargeAmount": 20000,
+  "dateAndTime": {
+    "date": "Sun Jun 23 2024",
+    "time": "7:18:10 PM"
+  },
+  "createdAt": "2024-06-23T13:48:10.197Z",
+  "updatedAt": "2024-06-23T13:48:10.197Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "667d7f0c613b873bed8e493d"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "mobile": "6205009341",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "WAA193",
+    "fullName": "Nishi prasad",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Thu Jun 27 2024",
+    "time": "8:32:36 PM"
+  },
+  "createdAt": "2024-06-27T15:02:36.827Z",
+  "updatedAt": "2024-06-27T15:02:36.827Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668116fc613b873bed8ef3ac"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QSS054",
+    "fullName": "ANIKET Kumar",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Sun Jun 30 2024",
+    "time": "1:57:40 PM"
+  },
+  "createdAt": "2024-06-30T08:27:40.517Z",
+  "updatedAt": "2024-06-30T08:27:40.517Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6681620e613b873bed8f1b12"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EGO180",
+    "fullName": "Vinod Kumar",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Sun Jun 30 2024",
+    "time": "7:17:58 PM"
+  },
+  "createdAt": "2024-06-30T13:47:58.596Z",
+  "updatedAt": "2024-06-30T13:47:58.596Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683e059469c7157822e19be"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "KJM223",
+    "fullName": "Mata Rani enterprises",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Tue Jul 02 2024",
+    "time": "4:41:21 PM"
+  },
+  "createdAt": "2024-07-02T11:11:21.298Z",
+  "updatedAt": "2024-07-02T11:11:21.298Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66842424469c7157822e294a"
+  },
+  "userId": "KJM223",
+  "fullName": "Mata Rani enterprises",
+  "mobile": "7903742915",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QDJ083",
+    "fullName": "Sanoj kumar singh",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Tue Jul 02 2024",
+    "time": "9:30:36 PM"
+  },
+  "createdAt": "2024-07-02T16:00:36.151Z",
+  "updatedAt": "2024-07-02T16:00:36.151Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66850e23469c7157822e4bab"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "mobile": "9931011679",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SSK930",
+    "fullName": "Suraj singh",
+    "level": 1
+  },
+  "amount": 450,
+  "rechargeAmount": 15000,
+  "dateAndTime": {
+    "date": "Wed Jul 03 2024",
+    "time": "2:08:59 PM"
+  },
+  "createdAt": "2024-07-03T08:38:59.975Z",
+  "updatedAt": "2024-07-03T08:38:59.975Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66880dbe469c7157822eee9e"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "GWX877",
+    "fullName": "Puja kumari",
+    "level": 1
+  },
+  "amount": 600,
+  "rechargeAmount": 20000,
+  "dateAndTime": {
+    "date": "Fri Jul 05 2024",
+    "time": "8:44:06 PM"
+  },
+  "createdAt": "2024-07-05T15:14:06.376Z",
+  "updatedAt": "2024-07-05T15:14:06.376Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fd868469c7157822ff64d"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "mobile": "7000965580",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OSD393",
+    "fullName": "Amitab Kumar singh",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Thu Jul 11 2024",
+    "time": "6:34:40 PM"
+  },
+  "createdAt": "2024-07-11T13:04:40.647Z",
+  "updatedAt": "2024-07-11T13:04:40.647Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6698b1094ac8bba2e4c878d8"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "mobile": "7870371600",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "BSG655",
+    "fullName": "Chandan kumar",
+    "level": 1
+  },
+  "amount": 600,
+  "rechargeAmount": 20000,
+  "dateAndTime": {
+    "date": "Thu Jul 18 2024",
+    "time": "11:37:05 AM"
+  },
+  "createdAt": "2024-07-18T06:07:05.448Z",
+  "updatedAt": "2024-07-18T06:07:05.448Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b86684ac8bba2e4c8de19"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "BJG526",
+    "fullName": "Payal Sharma",
+    "level": 1
+  },
+  "amount": 750,
+  "rechargeAmount": 25000,
+  "dateAndTime": {
+    "date": "Sat Jul 20 2024",
+    "time": "3:12:00 PM"
+  },
+  "createdAt": "2024-07-20T09:42:00.309Z",
+  "updatedAt": "2024-07-20T09:42:00.309Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a247334ac8bba2e4c9b2cd"
+  },
+  "userId": "TFW965",
+  "fullName": "Pragya",
+  "mobile": "8340590611",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OSN685",
+    "fullName": "ASHA DEVI",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu Jul 25 2024",
+    "time": "6:08:11 PM"
+  },
+  "createdAt": "2024-07-25T12:38:11.989Z",
+  "updatedAt": "2024-07-25T12:38:11.989Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a3653a4ac8bba2e4c9f5bb"
+  },
+  "userId": "QET050",
+  "fullName": "Sharmila devi",
+  "mobile": "7992270335",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JCQ622",
+    "fullName": "Asha Sharma",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Fri Jul 26 2024",
+    "time": "2:28:34 PM"
+  },
+  "createdAt": "2024-07-26T08:58:34.147Z",
+  "updatedAt": "2024-07-26T08:58:34.147Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66a51cfc4ac8bba2e4ca386d"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "mobile": "8002706204",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "KYS142",
+    "fullName": "pravin kumar",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Sat Jul 27 2024",
+    "time": "9:44:52 PM"
+  },
+  "createdAt": "2024-07-27T16:14:52.306Z",
+  "updatedAt": "2024-07-27T16:14:52.306Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c028fb0070483c198f4adc"
+  },
+  "userId": "ADMIN",
+  "fullName": "Mr Admin",
+  "mobile": "+915454567445",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "OOX605",
+    "fullName": "Mahakaal",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Sat Aug 17 2024",
+    "time": "10:07:15 AM"
+  },
+  "createdAt": "2024-08-17T04:37:15.080Z",
+  "updatedAt": "2024-08-17T04:37:15.080Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c0b1830070483c198f527d"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JBC733",
+    "fullName": "Ankit Singh",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Sat Aug 17 2024",
+    "time": "7:49:47 PM"
+  },
+  "createdAt": "2024-08-17T14:19:47.502Z",
+  "updatedAt": "2024-08-17T14:19:47.502Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c9491c0070483c198ff5e5"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "UBW606",
+    "fullName": "Uk",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Sat Aug 24 2024",
+    "time": "8:14:44 AM"
+  },
+  "createdAt": "2024-08-24T02:44:44.938Z",
+  "updatedAt": "2024-08-24T02:44:44.938Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d580d3050e5fdd84445a17"
+  },
+  "userId": "EUG962",
+  "fullName": "Vicky Kumar",
+  "mobile": "7004699737",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "DXD246",
+    "fullName": "Sagar kumar",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Mon Sep 02 2024",
+    "time": "2:39:39 PM"
+  },
+  "createdAt": "2024-09-02T09:09:39.383Z",
+  "updatedAt": "2024-09-02T09:09:39.383Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67026198a52723ed195c8682"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ETI532",
+    "fullName": "Shurabh",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Sun Oct 06 2024",
+    "time": "3:38:24 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-06T10:08:24.548Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-06T10:08:24.548Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6702880ea52723ed195c9608"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SSP716",
+    "fullName": "Krish",
+    "level": 1
+  },
+  "amount": 15000,
+  "rechargeAmount": 500000,
+  "dateAndTime": {
+    "date": "Sun Oct 06 2024",
+    "time": "6:22:30 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-06T12:52:30.546Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-06T12:52:30.546Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67057d82a52723ed195d2b23"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "mobile": "9471352176",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "UBW606",
+    "fullName": "Uk",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Wed Oct 09 2024",
+    "time": "12:14:18 AM"
+  },
+  "createdAt": {
+    "$date": "2024-10-08T18:44:18.878Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-08T18:44:18.878Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707e741a52723ed195d513c"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "BJT347",
+    "fullName": "Shekhar",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu Oct 10 2024",
+    "time": "8:10:01 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-10T14:40:01.613Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T14:40:01.613Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707e757a52723ed195d5161"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ASQ336",
+    "fullName": "Piyush",
+    "level": 1
+  },
+  "amount": 7500,
+  "rechargeAmount": 250000,
+  "dateAndTime": {
+    "date": "Thu Oct 10 2024",
+    "time": "8:10:23 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-10T14:40:23.875Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T14:40:23.875Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6709626ca52723ed195d80cc"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "GDE112",
+    "fullName": "Amrendra Kumar",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Fri Oct 11 2024",
+    "time": "11:07:48 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-11T17:37:48.605Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-11T17:37:48.605Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6717d6f7a52723ed195e781d"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ASQ336",
+    "fullName": "Piyush",
+    "level": 1
+  },
+  "amount": 3000,
+  "rechargeAmount": 100000,
+  "dateAndTime": {
+    "date": "Tue Oct 22 2024",
+    "time": "10:16:47 PM"
+  },
+  "createdAt": {
+    "$date": "2024-10-22T16:46:47.265Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-22T16:46:47.265Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675006b8cfc48323c2682848"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "mobile": "9852880653",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "ASQ336",
+    "fullName": "Piyush",
+    "level": 1
+  },
+  "amount": 1500,
+  "rechargeAmount": 50000,
+  "dateAndTime": {
+    "date": "Wed Dec 04 2024",
+    "time": "1:07:28 PM"
+  },
+  "createdAt": {
+    "$date": "2024-12-04T07:37:28.436Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-04T07:37:28.436Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c53e2cfc48323c2689ed7"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "PAB648",
+    "fullName": "Anushka roy",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Fri Dec 13 2024",
+    "time": "9:03:54 PM"
+  },
+  "createdAt": {
+    "$date": "2024-12-13T15:33:54.315Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-13T15:33:54.315Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677399ddcfc48323c2694945"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "QJV083",
+    "fullName": "Amit Ranjan Kumar",
+    "level": 1
+  },
+  "amount": 2400,
+  "rechargeAmount": 80000,
+  "dateAndTime": {
+    "date": "Tue Dec 31 2024",
+    "time": "12:44:37 PM"
+  },
+  "createdAt": {
+    "$date": "2024-12-31T07:14:37.449Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-31T07:14:37.449Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aae77cfc48323c269cedc"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EJS226",
+    "fullName": "Vipul kumar",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Sun Jan 05 2025",
+    "time": "9:38:23 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-05T16:08:23.679Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-05T16:08:23.679Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aae8dcfc48323c269cf02"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "YJX890",
+    "fullName": "Rahul kumar Singh",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Sun Jan 05 2025",
+    "time": "9:38:45 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-05T16:08:45.394Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-05T16:08:45.394Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677be232cfc48323c269e2f7"
+  },
+  "userId": "YJX890",
+  "fullName": "Rahul kumar Singh",
+  "mobile": "6201864006",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "EUC558",
+    "fullName": "ABHYUDAY AMRITANSH",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Mon Jan 06 2025",
+    "time": "7:31:22 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-06T14:01:22.390Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-06T14:01:22.390Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677e95b9cfc48323c26a052d"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "FUO839",
+    "fullName": "Shekhar kumar",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Wed Jan 08 2025",
+    "time": "8:41:53 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-08T15:11:53.996Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-08T15:11:53.996Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800d937b201b5e0e097484"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "SJU005",
+    "fullName": "Sanvi",
+    "level": 1
+  },
+  "amount": 300,
+  "rechargeAmount": 10000,
+  "dateAndTime": {
+    "date": "Thu Jan 09 2025",
+    "time": "11:25:31 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-09T17:55:31.301Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T17:55:31.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800daf7b201b5e0e0974fb"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "mobile": "6204078651",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "JJB532",
+    "fullName": "Suresh Kumar",
+    "level": 1
+  },
+  "amount": 900,
+  "rechargeAmount": 30000,
+  "dateAndTime": {
+    "date": "Thu Jan 09 2025",
+    "time": "11:25:59 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-09T17:55:59.059Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-09T17:55:59.059Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678166f87b201b5e0e0981f9"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "mobile": "8083100585",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "incomeType": "recharge-direct-income",
+  "incomeFrom": {
+    "userId": "STA707",
+    "fullName": "Amit Ranjan Kumar",
+    "level": 1
+  },
+  "amount": 150,
+  "rechargeAmount": 5000,
+  "dateAndTime": {
+    "date": "Fri Jan 10 2025",
+    "time": "11:59:12 PM"
+  },
+  "createdAt": {
+    "$date": "2025-01-10T18:29:12.710Z"
+  },
+  "updatedAt": {
+    "$date": "2025-01-10T18:29:12.710Z"
+  },
+  "__v": 0
+}]

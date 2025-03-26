@@ -1,0 +1,35 @@
+@import "../../../styles/responsive/breakpoints";
+@import "../../../styles/abstract/variables";
+
+.search_by_button {
+  margin-top: -15px;
+  margin-bottom: 10px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 8px;
+  .btn {
+    padding: 4px 8px;
+    color: #fff;
+    font-size: 10px;
+    border: none;
+    border-radius: 6px;
+    margin-right: 10px;
+    position: relative;
+    display: inline-block;
+    cursor: pointer;
+  }
+  .green {
+    background-color: $text-primary;
+    box-shadow: $box-shadow;
+    border-radius: 2px;
+    // transition: all 1s ease;
+    // opacity: 0.8;
+  }
+  .active-btn {
+    background-color: $text-filter-active-color;
+    // transform: scale(1.1);
+    // transition: all 1s ease;
+    // opacity: 0.9;
+  }
+}

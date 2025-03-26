@@ -1,0 +1,6427 @@
+[{
+  "_id": {
+    "$oid": "65b3a2ecc20693905fca5dda"
+  },
+  "userId": "OOX605",
+  "fullName": "Mahakaal",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 1124237.5,
+  "currentRechargeAmount": 434237.5,
+  "roiIncome": 1399256.1654000059,
+  "directIncome": 12525,
+  "indirectIncome": 0,
+  "totalTeamIncome": 12525,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "totalIncome": 1422431.1654000063,
+  "activeIncome": 517456.16539999814,
+  "createdAt": {
+    "$date": "2024-01-26T12:17:48.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.342Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Tablet",
+  "joiningBonus": 150,
+  "ManualPackage": 434237.5
+},
+{
+  "_id": {
+    "$oid": "65b3a40ec20693905fca5e56"
+  },
+  "userId": "SNP796",
+  "fullName": "Bharat Kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 12750,
+  "currentRechargeAmount": 2750,
+  "roiIncome": 19960.624800000085,
+  "directIncome": 11100,
+  "indirectIncome": 0,
+  "totalTeamIncome": 11100,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "totalIncome": 41560.62480000011,
+  "activeIncome": 4060.624800000004,
+  "createdAt": {
+    "$date": "2024-01-26T12:22:38.391Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.579Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2750
+},
+{
+  "_id": {
+    "$oid": "65b3a665c20693905fca5e90"
+  },
+  "userId": "YMD177",
+  "fullName": "Anshu Singh",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 11475,
+  "currentRechargeAmount": 1475,
+  "roiIncome": 16043.764499999997,
+  "directIncome": 7050,
+  "indirectIncome": 0,
+  "totalTeamIncome": 7050,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 23093.764499999997,
+  "activeIncome": 143.76449999999997,
+  "createdAt": {
+    "$date": "2024-01-26T12:32:37.120Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:07.336Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1475
+},
+{
+  "_id": {
+    "$oid": "65b3a8dec20693905fca5f59"
+  },
+  "userId": "VKB702",
+  "fullName": "ROHAN KUMAR",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-26T12:43:10.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T12:43:10.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3a965c20693905fca5fda"
+  },
+  "userId": "SJY594",
+  "fullName": "Rahul kumar",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-26T12:45:25.617Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T12:45:25.617Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3b24b78e759c3f89f1e71"
+  },
+  "userId": "MOC782",
+  "fullName": "Avinash Kumar",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 11600,
+  "currentRechargeAmount": 1600,
+  "roiIncome": 18848.617599999863,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 18848.617599999863,
+  "activeIncome": 1325.6176,
+  "createdAt": {
+    "$date": "2024-01-26T13:23:23.226Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.254Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1600
+},
+{
+  "_id": {
+    "$oid": "65b3b50a78e759c3f89f2051"
+  },
+  "userId": "KEF736",
+  "fullName": "Ashok Prasad",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 13500,
+  "currentRechargeAmount": 3500,
+  "roiIncome": 20460.124800000085,
+  "directIncome": 250,
+  "indirectIncome": 0,
+  "totalTeamIncome": 250,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 20710.124800000096,
+  "activeIncome": 3360.1248000000037,
+  "createdAt": {
+    "$date": "2024-01-26T13:35:06.821Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.536Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3500
+},
+{
+  "_id": {
+    "$oid": "65b3b5c778e759c3f89f2092"
+  },
+  "userId": "ERS530",
+  "fullName": "Ankit singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 18250,
+  "currentRechargeAmount": 8250,
+  "roiIncome": 23394.50319999992,
+  "directIncome": 18600,
+  "indirectIncome": 0,
+  "totalTeamIncome": 18600,
+  "depositBalance": 0,
+  "royaltyIncome": 30500,
+  "totalIncome": 72494.50319999992,
+  "activeIncome": 6689.503200000011,
+  "createdAt": {
+    "$date": "2024-01-26T13:38:15.108Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.051Z"
+  },
+  "__v": 0,
+  "joiningBonus": 0,
+  "ManualPackage": 8250
+},
+{
+  "_id": {
+    "$oid": "65b3b9fc78e759c3f89f2418"
+  },
+  "userId": "UIR086",
+  "fullName": "Test Bashar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 34900,
+  "currentRechargeAmount": 14900,
+  "roiIncome": 32446.029000000017,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 32446.029000000017,
+  "activeIncome": 646.029,
+  "createdAt": {
+    "$date": "2024-01-26T13:56:12.487Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:07.918Z"
+  },
+  "__v": 0,
+  "ManualPackage": 14900
+},
+{
+  "_id": {
+    "$oid": "65b3bc2778e759c3f89f25f7"
+  },
+  "userId": "JBC733",
+  "fullName": "Ankit Singh",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 454025,
+  "currentRechargeAmount": 159025,
+  "roiIncome": 323634.9614999999,
+  "directIncome": 30850,
+  "indirectIncome": 0,
+  "totalTeamIncome": 30850,
+  "depositBalance": 0,
+  "royaltyIncome": 50100,
+  "totalIncome": 408134.9614999999,
+  "activeIncome": 13484.961499999998,
+  "createdAt": {
+    "$date": "2024-01-26T14:05:27.485Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.580Z"
+  },
+  "__v": 0,
+  "joiningBonus": 3550,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 159025
+},
+{
+  "_id": {
+    "$oid": "65b3d5d778e759c3f89f2e24"
+  },
+  "userId": "KFJ743",
+  "fullName": "Avinash jha",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-26T15:55:03.466Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-26T15:55:03.466Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b3e65b470ce9b6ebe5457d"
+  },
+  "userId": "EYP195",
+  "fullName": "Kumar subham",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 11550,
+  "currentRechargeAmount": 1550,
+  "roiIncome": 16046.014499999992,
+  "directIncome": 8600,
+  "indirectIncome": 0,
+  "totalTeamIncome": 8600,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "totalIncome": 35146.01450000002,
+  "activeIncome": 146.0145,
+  "createdAt": {
+    "$date": "2024-01-26T17:05:31.555Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.121Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1550
+},
+{
+  "_id": {
+    "$oid": "65b4e122547bf423eec04cb2"
+  },
+  "userId": "EXP627",
+  "fullName": "Shantanu vats",
+  "sponsorId": "EYP195",
+  "sponsorName": "Kumar subham",
+  "rechargeAmount": 11000,
+  "currentRechargeAmount": 1000,
+  "roiIncome": 15833.3655,
+  "directIncome": 900,
+  "indirectIncome": 0,
+  "totalTeamIncome": 900,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16733.3655,
+  "activeIncome": 133.36550000000003,
+  "createdAt": {
+    "$date": "2024-01-27T10:55:30.736Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.756Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1000
+},
+{
+  "_id": {
+    "$oid": "65b4f58f547bf423eec04d3c"
+  },
+  "userId": "JIX284",
+  "fullName": "Gaurav Chaudhary",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 17950,
+  "currentRechargeAmount": 7950,
+  "roiIncome": 16238.0145,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16238.0145,
+  "activeIncome": 338.01449999999994,
+  "createdAt": {
+    "$date": "2024-01-27T12:22:39.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.267Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7950
+},
+{
+  "_id": {
+    "$oid": "65b4ff23547bf423eec04e5f"
+  },
+  "userId": "JDS893",
+  "fullName": "Aman kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 12175,
+  "currentRechargeAmount": 2175,
+  "roiIncome": 19577.6748,
+  "directIncome": 1100,
+  "indirectIncome": 0,
+  "totalTeamIncome": 1100,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 20677.674800000026,
+  "activeIncome": 3327.674800000009,
+  "createdAt": {
+    "$date": "2024-01-27T13:03:31.548Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.774Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2175
+},
+{
+  "_id": {
+    "$oid": "65b50232547bf423eec04f14"
+  },
+  "userId": "WPB945",
+  "fullName": "Adi singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 19575,
+  "currentRechargeAmount": 9575,
+  "roiIncome": 16286.7645,
+  "directIncome": 5750,
+  "indirectIncome": 0,
+  "totalTeamIncome": 5750,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 22036.76450000001,
+  "activeIncome": 386.76449999999994,
+  "createdAt": {
+    "$date": "2024-01-27T13:16:34.044Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.369Z"
+  },
+  "__v": 0,
+  "ManualPackage": 9575
+},
+{
+  "_id": {
+    "$oid": "65b5100a547bf423eec0500d"
+  },
+  "userId": "YPN924",
+  "fullName": "Aman gupta",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 17700,
+  "currentRechargeAmount": 7700,
+  "roiIncome": 16230.5145,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16230.5145,
+  "activeIncome": 330.51449999999994,
+  "createdAt": {
+    "$date": "2024-01-27T14:15:38.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.441Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7700
+},
+{
+  "_id": {
+    "$oid": "65b5174b547bf423eec0506c"
+  },
+  "userId": "ESU481",
+  "fullName": "Kajal singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 17950,
+  "currentRechargeAmount": 7950,
+  "roiIncome": 16238.0145,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16238.0145,
+  "activeIncome": 338.01449999999994,
+  "createdAt": {
+    "$date": "2024-01-27T14:46:35.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:08.567Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7950
+},
+{
+  "_id": {
+    "$oid": "65b5b46a547bf423eec052f2"
+  },
+  "userId": "JFM685",
+  "fullName": "Gopeshwar mahato",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-28T01:56:58.337Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T01:56:58.337Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b5e9af547bf423eec0540a"
+  },
+  "userId": "AFG435",
+  "fullName": "Sonali kumari",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 108100,
+  "currentRechargeAmount": 18100,
+  "roiIncome": 87363.65150000005,
+  "directIncome": 7850,
+  "indirectIncome": 0,
+  "totalTeamIncome": 7850,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "totalIncome": 106613.65150000005,
+  "activeIncome": 2263.6515,
+  "createdAt": {
+    "$date": "2024-01-28T05:44:15.577Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.386Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "joiningBonus": 900,
+  "ManualPackage": 18100
+},
+{
+  "_id": {
+    "$oid": "65b62c65547bf423eec055b1"
+  },
+  "userId": "REV489",
+  "fullName": "ABHISHEK KUMAR",
+  "sponsorId": "AFG435",
+  "sponsorName": "Sonali kumari",
+  "rechargeAmount": 294000,
+  "currentRechargeAmount": 49000,
+  "roiIncome": 208191.3059999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 208391.3059999999,
+  "activeIncome": 6541.306,
+  "createdAt": {
+    "$date": "2024-01-28T10:28:53.289Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.968Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "joiningBonus": 200,
+  "ManualPackage": 49000
+},
+{
+  "_id": {
+    "$oid": "65b661e5547bf423eec05885"
+  },
+  "userId": "SRA859",
+  "fullName": "Ayush kumar",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-28T14:17:09.210Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T14:17:09.210Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b67168547bf423eec05930"
+  },
+  "userId": "NRP208",
+  "fullName": "Ravi yadav",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-01-28T15:23:20.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-01-28T15:23:20.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65b72ef6af317c5ec3c25958"
+  },
+  "userId": "EYJ048",
+  "fullName": "Roshan ranjan",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 78550,
+  "currentRechargeAmount": 18550,
+  "roiIncome": 72242.21850000002,
+  "directIncome": 2700,
+  "indirectIncome": 0,
+  "totalTeamIncome": 2700,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 74942.21850000002,
+  "activeIncome": 1542.2184999999995,
+  "createdAt": {
+    "$date": "2024-01-29T04:52:06.721Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:21.085Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 18550
+},
+{
+  "_id": {
+    "$oid": "65b8ebc3af317c5ec3c263dd"
+  },
+  "userId": "ICW143",
+  "fullName": "Sita devi",
+  "sponsorId": "KEF736",
+  "sponsorName": "Ashok Prasad",
+  "rechargeAmount": 11500,
+  "currentRechargeAmount": 1500,
+  "roiIncome": 19014.387199999997,
+  "directIncome": 6250,
+  "indirectIncome": 0,
+  "totalTeamIncome": 6250,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 25264.387199999997,
+  "activeIncome": 1623.4871999999982,
+  "createdAt": {
+    "$date": "2024-01-30T12:29:55.160Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.857Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1500
+},
+{
+  "_id": {
+    "$oid": "65b91a0faf317c5ec3c26506"
+  },
+  "userId": "EMI038",
+  "fullName": "Rajiv ranjan",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "rechargeAmount": 11500,
+  "currentRechargeAmount": 1500,
+  "roiIncome": 19014.387199999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 19014.387199999997,
+  "activeIncome": 1623.4871999999982,
+  "createdAt": {
+    "$date": "2024-01-30T15:47:27.162Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:01.902Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1500
+},
+{
+  "_id": {
+    "$oid": "65ba1b23af317c5ec3c270d2"
+  },
+  "userId": "BOR598",
+  "fullName": "Riya choudhary",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 122537.5,
+  "currentRechargeAmount": 22537.5,
+  "roiIncome": 181662.14940000194,
+  "directIncome": 4375,
+  "indirectIncome": 0,
+  "totalTeamIncome": 4375,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 186037.14940000194,
+  "activeIncome": 35412.149399999966,
+  "createdAt": {
+    "$date": "2024-01-31T10:04:19.154Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.928Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 22537.5
+},
+{
+  "_id": {
+    "$oid": "65ba74b4af317c5ec3c272f7"
+  },
+  "userId": "PUS169",
+  "fullName": "Gourav Kumar",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 13650,
+  "currentRechargeAmount": 3650,
+  "roiIncome": 20388.791200000058,
+  "directIncome": 1750,
+  "indirectIncome": 0,
+  "totalTeamIncome": 1750,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 22138.791200000058,
+  "activeIncome": 1518.7912000000006,
+  "createdAt": {
+    "$date": "2024-01-31T16:26:28.117Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.130Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3650
+},
+{
+  "_id": {
+    "$oid": "65ba8eadaf317c5ec3c275d2"
+  },
+  "userId": "FSS782",
+  "fullName": "Mantu kumar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 11850,
+  "currentRechargeAmount": 1850,
+  "roiIncome": 19189.991199999822,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 19189.991199999822,
+  "activeIncome": 3589.9911999999917,
+  "createdAt": {
+    "$date": "2024-01-31T18:17:17.902Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.187Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1850
+},
+{
+  "_id": {
+    "$oid": "65ba9570af317c5ec3c2796c"
+  },
+  "userId": "JIS593",
+  "fullName": "Pawan Kumar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 13900,
+  "currentRechargeAmount": 3900,
+  "roiIncome": 15724.142999999995,
+  "directIncome": 800,
+  "indirectIncome": 0,
+  "totalTeamIncome": 800,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16524.143,
+  "activeIncome": 224.14299999999997,
+  "createdAt": {
+    "$date": "2024-01-31T18:46:08.536Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:09.424Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3900
+},
+{
+  "_id": {
+    "$oid": "65bb1f62af317c5ec3c27d0e"
+  },
+  "userId": "SER458",
+  "fullName": "Sumit shekhar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 12400,
+  "currentRechargeAmount": 2400,
+  "roiIncome": 5607.576999999997,
+  "directIncome": 5100,
+  "indirectIncome": 0,
+  "totalTeamIncome": 5100,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 11007.577000000001,
+  "activeIncome": 307.577,
+  "createdAt": {
+    "$date": "2024-02-01T04:34:42.821Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.882Z"
+  },
+  "__v": 0,
+  "joiningBonus": 300,
+  "ManualPackage": 2400
+},
+{
+  "_id": {
+    "$oid": "65bb3646af317c5ec3c27e7a"
+  },
+  "userId": "WAA193",
+  "fullName": "Nishi prasad",
+  "sponsorId": "PUS169",
+  "sponsorName": "Gourav Kumar",
+  "rechargeAmount": 76350,
+  "currentRechargeAmount": 16350,
+  "roiIncome": 42783.948500000006,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 44283.948500000006,
+  "activeIncome": 1783.9484999999997,
+  "createdAt": {
+    "$date": "2024-02-01T06:12:22.920Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.976Z"
+  },
+  "__v": 0,
+  "joiningBonus": 1500,
+  "ManualPackage": 16350
+},
+{
+  "_id": {
+    "$oid": "65bb3f47af317c5ec3c28156"
+  },
+  "userId": "JDO295",
+  "fullName": "Shashank Shekhar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 13900,
+  "currentRechargeAmount": 3900,
+  "roiIncome": 15724.142999999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 15724.142999999995,
+  "activeIncome": 224.14299999999997,
+  "createdAt": {
+    "$date": "2024-02-01T06:50:47.312Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:11.002Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3900
+},
+{
+  "_id": {
+    "$oid": "65bb63b7af317c5ec3c28457"
+  },
+  "userId": "TMV403",
+  "fullName": "Kunu singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-01T09:26:15.023Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T09:26:15.023Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb97a4af317c5ec3c28565"
+  },
+  "userId": "SSE266",
+  "fullName": "Abhiraj Singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-01T13:07:48.050Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-01T13:07:48.050Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bb9834af317c5ec3c285ae"
+  },
+  "userId": "WOP044",
+  "fullName": "Sujeet Kumar",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 14750,
+  "currentRechargeAmount": 4750,
+  "roiIncome": 15749.642999999996,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 15749.642999999996,
+  "activeIncome": 249.64299999999997,
+  "createdAt": {
+    "$date": "2024-02-01T13:10:12.977Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:11.626Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4750
+},
+{
+  "_id": {
+    "$oid": "65bcad0baf317c5ec3c29f54"
+  },
+  "userId": "GEO134",
+  "fullName": "TraderBulls",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 17700,
+  "currentRechargeAmount": 7700,
+  "roiIncome": 15740.004500000005,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 15740.004500000005,
+  "activeIncome": 340.0045,
+  "createdAt": {
+    "$date": "2024-02-02T08:51:23.483Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:12.849Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7700
+},
+{
+  "_id": {
+    "$oid": "65bdec4caf317c5ec3c2b2c6"
+  },
+  "userId": "JDF406",
+  "fullName": "Ajay kumar",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-03T07:33:32.524Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-03T07:33:32.524Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65be13beaf317c5ec3c2b523"
+  },
+  "userId": "IKE768",
+  "fullName": "Gaurav Kumar",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 12500,
+  "currentRechargeAmount": 2500,
+  "roiIncome": 19506.700799999864,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 19506.700799999864,
+  "activeIncome": 2892.7008000000014,
+  "createdAt": {
+    "$date": "2024-02-03T10:21:50.863Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.229Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2500
+},
+{
+  "_id": {
+    "$oid": "65bf1debaf317c5ec3c2be2e"
+  },
+  "userId": "SYP474",
+  "fullName": "abhishek keshari",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 13750,
+  "currentRechargeAmount": 3750,
+  "roiIncome": 20102.149599999942,
+  "directIncome": 39050,
+  "indirectIncome": 0,
+  "totalTeamIncome": 39050,
+  "depositBalance": 0,
+  "royaltyIncome": 94500,
+  "totalIncome": 153652.1496000009,
+  "activeIncome": 10902.149600000052,
+  "createdAt": {
+    "$date": "2024-02-04T05:17:31.998Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.308Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3750
+},
+{
+  "_id": {
+    "$oid": "65bf2829af317c5ec3c2bed5"
+  },
+  "userId": "QTO836",
+  "fullName": "Prakhar Prakash Singh",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-04T06:01:13.129Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T06:01:13.129Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bf2fe8af317c5ec3c2bfc0"
+  },
+  "userId": "SOI350",
+  "fullName": "Aditya Singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-04T06:34:16.687Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T06:34:16.687Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bfcd20af317c5ec3c2d16a"
+  },
+  "userId": "FNC857",
+  "fullName": "Nikhil kumar",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-04T17:45:04.116Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-04T17:45:04.116Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65bfce8caf317c5ec3c2d1bb"
+  },
+  "userId": "MDP252",
+  "fullName": "Nikhil kumar",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 43750,
+  "currentRechargeAmount": 8750,
+  "roiIncome": 61585.86480000056,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 61585.86480000056,
+  "activeIncome": 11993.864800000001,
+  "createdAt": {
+    "$date": "2024-02-04T17:51:08.139Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.025Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 8750
+},
+{
+  "_id": {
+    "$oid": "65c04872af317c5ec3c2d81b"
+  },
+  "userId": "ORE629",
+  "fullName": "Dipu Kumar",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-05T02:31:14.345Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T02:31:14.345Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1053caf317c5ec3c2ecf0"
+  },
+  "userId": "POF776",
+  "fullName": "Sateesh kumar",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-05T15:56:44.088Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-05T15:56:44.088Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c1e74234706a414e061b12"
+  },
+  "userId": "YCJ634",
+  "fullName": "Shameem Alam",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 17600,
+  "currentRechargeAmount": 7600,
+  "roiIncome": 15540.676000000003,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 15540.676000000003,
+  "activeIncome": 340.676,
+  "createdAt": {
+    "$date": "2024-02-06T08:01:06.380Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:13.834Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7600
+},
+{
+  "_id": {
+    "$oid": "65c32dfd34706a414e0629f5"
+  },
+  "userId": "EQO364",
+  "fullName": "GIRDHARI KUMAR",
+  "sponsorId": "EXP627",
+  "sponsorName": "Shantanu vats",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-07T07:15:09.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-07T07:15:09.030Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c431ba34706a414e063547"
+  },
+  "userId": "DIJ307",
+  "fullName": "Shakcham kumar",
+  "sponsorId": "PUS169",
+  "sponsorName": "Gourav Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-08T01:43:22.086Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-08T01:43:22.086Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c64be534706a414e064a10"
+  },
+  "userId": "BSV429",
+  "fullName": "Anshu kumari",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 12062.5,
+  "currentRechargeAmount": 2062.5,
+  "roiIncome": 18918.06819999988,
+  "directIncome": 625,
+  "indirectIncome": 0,
+  "totalTeamIncome": 625,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 19543.06819999985,
+  "activeIncome": 4018.068200000006,
+  "createdAt": {
+    "$date": "2024-02-09T15:59:33.792Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.421Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2062.5
+},
+{
+  "_id": {
+    "$oid": "65c6ff5d34706a414e065084"
+  },
+  "userId": "TYE869",
+  "fullName": "Ashutosh",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-10T04:45:17.903Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T04:45:17.903Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c6ff5d34706a414e065086"
+  },
+  "userId": "JGT927",
+  "fullName": "Ashutosh",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-10T04:45:17.926Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-10T04:45:17.926Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65c88aa234706a414e0666c7"
+  },
+  "userId": "TMJ289",
+  "fullName": "Aditya kumar",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 11750,
+  "currentRechargeAmount": 1750,
+  "roiIncome": 13693.804499999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 13893.804499999997,
+  "activeIncome": 193.8045,
+  "createdAt": {
+    "$date": "2024-02-11T08:51:46.266Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:14.961Z"
+  },
+  "__v": 0,
+  "joiningBonus": 200,
+  "ManualPackage": 1750
+},
+{
+  "_id": {
+    "$oid": "65c8e82034706a414e066947"
+  },
+  "userId": "EOK805",
+  "fullName": "Priyanshu kumari",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 13550,
+  "currentRechargeAmount": 3550,
+  "roiIncome": 19848.167200000014,
+  "directIncome": 300,
+  "indirectIncome": 0,
+  "totalTeamIncome": 300,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 20148.167200000014,
+  "activeIncome": 5048.167200000005,
+  "createdAt": {
+    "$date": "2024-02-11T15:30:40.601Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.482Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3550
+},
+{
+  "_id": {
+    "$oid": "65c9088d34706a414e066b2a"
+  },
+  "userId": "DEC547",
+  "fullName": "Amrit Raj",
+  "sponsorId": "YCJ634",
+  "sponsorName": "Shameem Alam",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-11T17:49:01.080Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-11T17:49:01.080Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cb417334706a414e067ee6"
+  },
+  "userId": "WFS213",
+  "fullName": "Saurabh Chaudhari",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 13675,
+  "currentRechargeAmount": 3675,
+  "roiIncome": 19809.18999999998,
+  "directIncome": 3750,
+  "indirectIncome": 0,
+  "totalTeamIncome": 3750,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 23559.19000000005,
+  "activeIncome": 4009.1899999999982,
+  "createdAt": {
+    "$date": "2024-02-13T10:16:19.020Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.606Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3675
+},
+{
+  "_id": {
+    "$oid": "65cb860334706a414e06827f"
+  },
+  "userId": "IIG734",
+  "fullName": "Mohit",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 16650,
+  "currentRechargeAmount": 6650,
+  "roiIncome": 15021.059500000001,
+  "directIncome": 1800,
+  "indirectIncome": 0,
+  "totalTeamIncome": 1800,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 16821.05950000001,
+  "activeIncome": 321.05949999999996,
+  "createdAt": {
+    "$date": "2024-02-13T15:08:51.707Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:14.269Z"
+  },
+  "__v": 0,
+  "ManualPackage": 6650
+},
+{
+  "_id": {
+    "$oid": "65cc638434706a414e0689c6"
+  },
+  "userId": "YDO414",
+  "fullName": "Rahu Kumar Singh",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-14T06:53:56.695Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T06:53:56.695Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65cc79be34706a414e068ae2"
+  },
+  "userId": "AJM785",
+  "fullName": "Rishi",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-14T08:28:46.497Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-14T08:28:46.497Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ce06fa34706a414e0697ba"
+  },
+  "userId": "QSS054",
+  "fullName": "ANIKET Kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 126500,
+  "currentRechargeAmount": 16500,
+  "roiIncome": 131622.33599999966,
+  "directIncome": 3000,
+  "indirectIncome": 0,
+  "totalTeamIncome": 3000,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 137622.33599999966,
+  "activeIncome": 27014.33600000003,
+  "createdAt": {
+    "$date": "2024-02-15T12:43:38.917Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.109Z"
+  },
+  "__v": 0,
+  "joiningBonus": 3000,
+  "ManualPackage": 16500
+},
+{
+  "_id": {
+    "$oid": "65d4799aef66237577275d3d"
+  },
+  "userId": "OJN660",
+  "fullName": "Piyush pandey",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-20T10:06:18.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-20T10:06:18.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d4b9c8ef66237577277758"
+  },
+  "userId": "VPQ693",
+  "fullName": "Pooja kumari singh",
+  "sponsorId": "AFG435",
+  "sponsorName": "Sonali kumari",
+  "rechargeAmount": 33475,
+  "currentRechargeAmount": 13475,
+  "roiIncome": 26306.257999999998,
+  "directIncome": 2150,
+  "indirectIncome": 0,
+  "totalTeamIncome": 2150,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 28656.257999999998,
+  "activeIncome": 706.258,
+  "createdAt": {
+    "$date": "2024-02-20T14:40:08.987Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:17.738Z"
+  },
+  "__v": 0,
+  "joiningBonus": 200,
+  "ManualPackage": 13475
+},
+{
+  "_id": {
+    "$oid": "65d4d1feef66237577278286"
+  },
+  "userId": "TSJ672",
+  "fullName": "Chanda Singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 126500,
+  "currentRechargeAmount": 16500,
+  "roiIncome": 49445.90100000001,
+  "directIncome": 300,
+  "indirectIncome": 0,
+  "totalTeamIncome": 300,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 52745.90100000001,
+  "activeIncome": 3145.901,
+  "createdAt": {
+    "$date": "2024-02-20T16:23:26.642Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.876Z"
+  },
+  "__v": 0,
+  "joiningBonus": 3000,
+  "ManualPackage": 16500
+},
+{
+  "_id": {
+    "$oid": "65d57dbdef66237577278ba1"
+  },
+  "userId": "AFS962",
+  "fullName": "Saurabh kumar singh",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 17100,
+  "currentRechargeAmount": 7100,
+  "roiIncome": 21841.607999999753,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 21841.607999999753,
+  "activeIncome": 4141.607999999995,
+  "createdAt": {
+    "$date": "2024-02-21T04:36:13.595Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.686Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7100
+},
+{
+  "_id": {
+    "$oid": "65d5f50eef6623757727a333"
+  },
+  "userId": "JDE556",
+  "fullName": "Kundan kumar tiwari",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-21T13:05:18.478Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-21T13:05:18.478Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6293def6623757727aca1"
+  },
+  "userId": "QET050",
+  "fullName": "Sharmila devi",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 10750,
+  "currentRechargeAmount": 750,
+  "roiIncome": 16634.797600000005,
+  "directIncome": 300,
+  "indirectIncome": 0,
+  "totalTeamIncome": 300,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 17134.79759999998,
+  "activeIncome": 1850.7975999999967,
+  "createdAt": {
+    "$date": "2024-02-21T16:47:57.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.199Z"
+  },
+  "__v": 0,
+  "joiningBonus": 200,
+  "ManualPackage": 750
+},
+{
+  "_id": {
+    "$oid": "65d6cd90ef6623757727b100"
+  },
+  "userId": "GRD890",
+  "fullName": "Gulshan Kumar Singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-22T04:29:04.937Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T04:29:04.937Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d6efda666e87919719bde2"
+  },
+  "userId": "AEW864",
+  "fullName": "Vijay Kumar Singh",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 115000,
+  "currentRechargeAmount": 15000,
+  "roiIncome": 127012.5,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 127012.5,
+  "activeIncome": 2012.5,
+  "createdAt": {
+    "$date": "2024-02-22T06:55:22.790Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:15.489Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 15000
+},
+{
+  "_id": {
+    "$oid": "65d71238666e87919719c2d4"
+  },
+  "userId": "KSD310",
+  "fullName": "VIJAY KUMAR SINGH",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 127400,
+  "currentRechargeAmount": 27400,
+  "roiIncome": 184248.4015999985,
+  "directIncome": 23500,
+  "indirectIncome": 0,
+  "totalTeamIncome": 23500,
+  "depositBalance": 0,
+  "royaltyIncome": 58500,
+  "totalIncome": 266248.40159999876,
+  "activeIncome": 15848.40159999999,
+  "createdAt": {
+    "$date": "2024-02-22T09:22:00.061Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.991Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 27400
+},
+{
+  "_id": {
+    "$oid": "65d771a6666e87919719ca2b"
+  },
+  "userId": "OOC837",
+  "fullName": "Mausam kumari",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-22T16:09:10.226Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-22T16:09:10.226Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d838b6666e87919719d53e"
+  },
+  "userId": "AWR462",
+  "fullName": "Shrishty Tripathi",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-23T06:18:30.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T06:18:30.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d869ad666e87919719dcb0"
+  },
+  "userId": "QSD005",
+  "fullName": "Prashant Kumar varma",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-23T09:47:25.693Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T09:47:25.693Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d8a857666e87919719e1c1"
+  },
+  "userId": "UJX798",
+  "fullName": "Harsh vardhan",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-23T14:14:47.452Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-23T14:14:47.452Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65d97996666e87919719e880"
+  },
+  "userId": "YFK949",
+  "fullName": "Praveen Kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 11750,
+  "currentRechargeAmount": 1750,
+  "roiIncome": 17097.45359999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 17297.45359999995,
+  "activeIncome": 4697.453599999994,
+  "createdAt": {
+    "$date": "2024-02-24T05:07:34.091Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.394Z"
+  },
+  "__v": 0,
+  "joiningBonus": 200,
+  "ManualPackage": 1750
+},
+{
+  "_id": {
+    "$oid": "65d9fcfe666e87919719f65c"
+  },
+  "userId": "DYO129",
+  "fullName": "ADITYA KUMAR",
+  "sponsorId": "YFK949",
+  "sponsorName": "Praveen Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-24T14:28:14.974Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-24T14:28:14.974Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dae481666e87919719fdaa"
+  },
+  "userId": "EKS759",
+  "fullName": "Prakash kumar singh",
+  "sponsorId": "VPQ693",
+  "sponsorName": "Pooja kumari singh",
+  "rechargeAmount": 100225,
+  "currentRechargeAmount": 25225,
+  "roiIncome": 64771.36999999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 65721.37,
+  "activeIncome": 2271.3699999999994,
+  "createdAt": {
+    "$date": "2024-02-25T06:56:01.699Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.131Z"
+  },
+  "__v": 0,
+  "joiningBonus": 950,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 25225
+},
+{
+  "_id": {
+    "$oid": "65db24ec666e8791971a10ce"
+  },
+  "userId": "VRF133",
+  "fullName": "Sumit Kumar singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 12500,
+  "currentRechargeAmount": 2500,
+  "roiIncome": 18588.014400000044,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 18588.014400000044,
+  "activeIncome": 4688.014400000002,
+  "createdAt": {
+    "$date": "2024-02-25T11:30:52.395Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:02.911Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2500
+},
+{
+  "_id": {
+    "$oid": "65dc0bde666e8791971a1e4e"
+  },
+  "userId": "IMT760",
+  "fullName": "Ruman Islam",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-26T03:56:14.048Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T03:56:14.048Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65dc598d666e8791971a29bf"
+  },
+  "userId": "EBE027",
+  "fullName": "Monika singh",
+  "sponsorId": "EYP195",
+  "sponsorName": "Kumar subham",
+  "rechargeAmount": 223500,
+  "currentRechargeAmount": 33500,
+  "roiIncome": 214837.07649999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 216237.07649999997,
+  "activeIncome": 4237.0765,
+  "createdAt": {
+    "$date": "2024-02-26T09:27:41.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.521Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "joiningBonus": 1400,
+  "ManualPackage": 33500
+},
+{
+  "_id": {
+    "$oid": "65dc695e666e8791971a30ea"
+  },
+  "userId": "GOE683",
+  "fullName": "Sanjeev Kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-26T10:35:10.692Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-26T10:35:10.692Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65de146778808d1da4ac3a75"
+  },
+  "userId": "RCA662",
+  "fullName": "Shiv kumar",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-27T16:57:11.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-27T16:57:11.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65df075f78808d1da4ac47de"
+  },
+  "userId": "ESN028",
+  "fullName": "Santosh kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-28T10:13:51.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-28T10:13:51.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e0400778808d1da4ac575c"
+  },
+  "userId": "CAD944",
+  "fullName": "Ankush",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-29T08:27:51.960Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T08:27:51.960Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e097c978808d1da4ac5a90"
+  },
+  "userId": "RIA463",
+  "fullName": "Saurabh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-02-29T14:42:17.992Z"
+  },
+  "updatedAt": {
+    "$date": "2024-02-29T14:42:17.992Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e11fa978808d1da4ac62dd"
+  },
+  "userId": "SUR314",
+  "fullName": "Ajit Kumar Singh",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 11500,
+  "currentRechargeAmount": 1500,
+  "roiIncome": 13686.304499999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 13886.304499999997,
+  "activeIncome": 186.3045,
+  "createdAt": {
+    "$date": "2024-03-01T00:22:01.764Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:15.183Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1500
+},
+{
+  "_id": {
+    "$oid": "65e1c26278808d1da4ac6c76"
+  },
+  "userId": "SNF622",
+  "fullName": "Golu kumar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-01T11:56:18.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T11:56:18.933Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e1dce078808d1da4ac71ae"
+  },
+  "userId": "AAJ397",
+  "fullName": "Rajat Singj Nigaltiya",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-01T13:49:20.745Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T13:49:20.745Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e20b6878808d1da4ac76ac"
+  },
+  "userId": "PYP117",
+  "fullName": "Md Arman Khan",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-01T17:07:52.803Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-01T17:07:52.803Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e2c2d678808d1da4ac7d2c"
+  },
+  "userId": "RYY009",
+  "fullName": "Mukesh Yadav",
+  "sponsorId": "JIS593",
+  "sponsorName": "Pawan Kumar",
+  "rechargeAmount": 11650,
+  "currentRechargeAmount": 1650,
+  "roiIncome": 3303.2314999999994,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 3603.2314999999994,
+  "activeIncome": 303.2315,
+  "createdAt": {
+    "$date": "2024-03-02T06:10:30.885Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.039Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1650
+},
+{
+  "_id": {
+    "$oid": "65e330ac78808d1da4ac89a0"
+  },
+  "userId": "OBF812",
+  "fullName": "Supreet Sinha",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 11550,
+  "currentRechargeAmount": 1550,
+  "roiIncome": 11222.970499999992,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 11422.970499999992,
+  "activeIncome": 222.97050000000002,
+  "createdAt": {
+    "$date": "2024-03-02T13:59:08.508Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:21.316Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1550
+},
+{
+  "_id": {
+    "$oid": "65e5ba8678808d1da4acbcb2"
+  },
+  "userId": "MYS125",
+  "fullName": "Charan Choudhary",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 28000,
+  "currentRechargeAmount": 3000,
+  "roiIncome": 42838.4271999998,
+  "directIncome": 3000,
+  "indirectIncome": 0,
+  "totalTeamIncome": 3000,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 45838.4271999998,
+  "activeIncome": 10338.427200000006,
+  "createdAt": {
+    "$date": "2024-03-04T12:11:50.907Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.113Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 3000
+},
+{
+  "_id": {
+    "$oid": "65e5bece78808d1da4acc43b"
+  },
+  "userId": "PRB346",
+  "fullName": "Ashok kumar singh",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-04T12:30:06.341Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T12:30:06.341Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5bfe378808d1da4acc5ef"
+  },
+  "userId": "PJO872",
+  "fullName": "Mantu Kumar",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-04T12:34:43.177Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-04T12:34:43.177Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e5e51e78808d1da4acd316"
+  },
+  "userId": "SCI254",
+  "fullName": "Aman",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 120000,
+  "currentRechargeAmount": 20000,
+  "roiIncome": 179320.00159999914,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 179320.00159999914,
+  "activeIncome": 15620.001599999978,
+  "createdAt": {
+    "$date": "2024-03-04T15:13:34.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.063Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 20000
+},
+{
+  "_id": {
+    "$oid": "65e84f1578808d1da4ad023b"
+  },
+  "userId": "OVP573",
+  "fullName": "Ashwin Anand",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-06T11:10:13.441Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T11:10:13.441Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65e8904578808d1da4ad0598"
+  },
+  "userId": "YWO537",
+  "fullName": "Dev kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-06T15:48:21.543Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-06T15:48:21.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f16de778808d1da4ad633e"
+  },
+  "userId": "BDS454",
+  "fullName": "Sushmita kumari",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 14700,
+  "currentRechargeAmount": 4700,
+  "roiIncome": 19265.49760000001,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 19465.497600000006,
+  "activeIncome": 4455.4976,
+  "createdAt": {
+    "$date": "2024-03-13T09:12:07.701Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.146Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4700
+},
+{
+  "_id": {
+    "$oid": "65f2978a78808d1da4ad755e"
+  },
+  "userId": "TFW965",
+  "fullName": "Pragya",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 13950,
+  "currentRechargeAmount": 3950,
+  "roiIncome": 18698.477599999995,
+  "directIncome": 3300,
+  "indirectIncome": 0,
+  "totalTeamIncome": 3300,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 22198.477599999995,
+  "activeIncome": 3298.477599999998,
+  "createdAt": {
+    "$date": "2024-03-14T06:22:02.064Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.233Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3950
+},
+{
+  "_id": {
+    "$oid": "65f42fbd78808d1da4ad8cb8"
+  },
+  "userId": "FRO247",
+  "fullName": "Vijay bahadur anand",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-15T11:23:41.022Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-15T11:23:41.022Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6a49f78808d1da4adb0a0"
+  },
+  "userId": "MSS558",
+  "fullName": "Ritika kumari",
+  "sponsorId": "BSV429",
+  "sponsorName": "Anshu kumari",
+  "rechargeAmount": 40625,
+  "currentRechargeAmount": 15625,
+  "roiIncome": 50406.25,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 50406.25,
+  "activeIncome": 12856.25,
+  "createdAt": {
+    "$date": "2024-03-17T08:06:55.934Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.267Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 15625
+},
+{
+  "_id": {
+    "$oid": "65f6b44a78808d1da4adb383"
+  },
+  "userId": "JFX773",
+  "fullName": "Rohit Kumar Singh",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-17T09:13:46.024Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T09:13:46.024Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f6fccc78808d1da4adb94e"
+  },
+  "userId": "JOO093",
+  "fullName": "Rohit Sharma",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-17T14:23:08.252Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T14:23:08.252Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7234578808d1da4adba6b"
+  },
+  "userId": "MAJ064",
+  "fullName": "Aniket Ranjan",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 12750,
+  "currentRechargeAmount": 2750,
+  "roiIncome": 17763.45359999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 17963.45359999995,
+  "activeIncome": 3863.4536000000007,
+  "createdAt": {
+    "$date": "2024-03-17T17:07:17.587Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.481Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2750
+},
+{
+  "_id": {
+    "$oid": "65f7287378808d1da4adbb9e"
+  },
+  "userId": "RNE284",
+  "fullName": "Danish malik",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-17T17:29:23.415Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-17T17:29:23.415Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65f7abb578808d1da4adc0aa"
+  },
+  "userId": "EJS884",
+  "fullName": "NITU KUMARI",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "rechargeAmount": 363000,
+  "currentRechargeAmount": 63000,
+  "roiIncome": 441563.2143999962,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 441563.2143999962,
+  "activeIncome": 58263.21440000004,
+  "createdAt": {
+    "$date": "2024-03-18T02:49:25.036Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.807Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 63000
+},
+{
+  "_id": {
+    "$oid": "65f7bf2778808d1da4adc276"
+  },
+  "userId": "OTI881",
+  "fullName": "Sujit",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-18T04:12:23.831Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-18T04:12:23.831Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "65ffe9eeee6391c252b3a000"
+  },
+  "userId": "FOS361",
+  "fullName": "Binay kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-24T08:53:02.898Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-24T08:53:02.898Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660270b4ee6391c252b3b10b"
+  },
+  "userId": "BTG651",
+  "fullName": "Mayank kumar singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 60000,
+  "currentRechargeAmount": 10000,
+  "roiIncome": 84251.09279999949,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 84251.09279999949,
+  "activeIncome": 16890.09280000003,
+  "createdAt": {
+    "$date": "2024-03-26T06:52:36.646Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.661Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 10000
+},
+{
+  "_id": {
+    "$oid": "66028b0aee6391c252b3bbd1"
+  },
+  "userId": "OVX509",
+  "fullName": "Ankit Singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 120000,
+  "currentRechargeAmount": 20000,
+  "roiIncome": 167803.8687999989,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 167803.8687999989,
+  "activeIncome": 33980.868800000026,
+  "createdAt": {
+    "$date": "2024-03-26T08:44:58.159Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.805Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 20000
+},
+{
+  "_id": {
+    "$oid": "6603d529ee6391c252b3cf7b"
+  },
+  "userId": "TSS121",
+  "fullName": "Rahul",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 12500,
+  "currentRechargeAmount": 2500,
+  "roiIncome": 17113.382399999944,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 17313.38239999995,
+  "activeIncome": 1115.3824000000004,
+  "createdAt": {
+    "$date": "2024-03-27T08:13:29.455Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.894Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2500
+},
+{
+  "_id": {
+    "$oid": "6604181aee6391c252b3dbc3"
+  },
+  "userId": "NSY942",
+  "fullName": "Puja singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 122500,
+  "currentRechargeAmount": 22500,
+  "roiIncome": 169468.86879999886,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 169468.86879999886,
+  "activeIncome": 35090.868800000026,
+  "createdAt": {
+    "$date": "2024-03-27T12:59:06.065Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.937Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 22500
+},
+{
+  "_id": {
+    "$oid": "66052f83ee6391c252b3ecff"
+  },
+  "userId": "PSJ260",
+  "fullName": "Ankita Singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 61250,
+  "currentRechargeAmount": 11250,
+  "roiIncome": 84384.06640000036,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 84384.06640000036,
+  "activeIncome": 17646.066399999978,
+  "createdAt": {
+    "$date": "2024-03-28T08:51:15.915Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.961Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 11250
+},
+{
+  "_id": {
+    "$oid": "6607ecd7ee6391c252b40f1f"
+  },
+  "userId": "KOO277",
+  "fullName": "NITU KUMARI",
+  "sponsorId": "KSD310",
+  "sponsorName": "VIJAY KUMAR SINGH",
+  "rechargeAmount": 607500,
+  "currentRechargeAmount": 107500,
+  "roiIncome": 836995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 836995,
+  "activeIncome": 91795,
+  "createdAt": {
+    "$date": "2024-03-30T10:43:35.406Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:03.982Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Tablet",
+  "ManualPackage": 107500
+},
+{
+  "_id": {
+    "$oid": "66080486ee6391c252b40ff5"
+  },
+  "userId": "BJF861",
+  "fullName": "ANKIT KUMAR",
+  "sponsorId": "BSV429",
+  "sponsorName": "Anshu kumari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-30T12:24:38.422Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-30T12:24:38.422Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660927c2cf2474abf84d880e"
+  },
+  "userId": "KEW675",
+  "fullName": "Faizul Osman",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-03-31T09:07:14.132Z"
+  },
+  "updatedAt": {
+    "$date": "2024-03-31T09:07:14.132Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660a3f67cf2474abf84d9481"
+  },
+  "userId": "SGY645",
+  "fullName": "Service Team",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-01T05:00:23.759Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-01T05:00:23.759Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "660c0c3dcf2474abf84daa46"
+  },
+  "userId": "GIN683",
+  "fullName": "Yash",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 174750,
+  "currentRechargeAmount": 24750,
+  "roiIncome": 137258.80449999997,
+  "directIncome": 5100,
+  "indirectIncome": 0,
+  "totalTeamIncome": 5100,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 142358.80449999997,
+  "activeIncome": 3758.8045,
+  "createdAt": {
+    "$date": "2024-04-02T13:46:37.046Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.423Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 24750
+},
+{
+  "_id": {
+    "$oid": "660fe3b8cf2474abf84dd943"
+  },
+  "userId": "DTR480",
+  "fullName": "Jitendra paswan",
+  "sponsorId": "EYJ048",
+  "sponsorName": "Roshan ranjan",
+  "rechargeAmount": 60000,
+  "currentRechargeAmount": 10000,
+  "roiIncome": 56182.353,
+  "directIncome": 7500,
+  "indirectIncome": 0,
+  "totalTeamIncome": 7500,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "joiningBonus": 0,
+  "totalIncome": 74182.353,
+  "activeIncome": 1182.353,
+  "createdAt": {
+    "$date": "2024-04-05T11:42:48.964Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:21.130Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 10000
+},
+{
+  "_id": {
+    "$oid": "6610f29acf2474abf84def3e"
+  },
+  "userId": "MFO048",
+  "fullName": "Sweta Paswan",
+  "sponsorId": "DTR480",
+  "sponsorName": "Jitendra paswan",
+  "rechargeAmount": 300000,
+  "currentRechargeAmount": 50000,
+  "roiIncome": 280911.7645,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 280911.7645,
+  "activeIncome": 5911.764499999999,
+  "createdAt": {
+    "$date": "2024-04-06T06:58:34.188Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:21.236Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 50000
+},
+{
+  "_id": {
+    "$oid": "6616c787379d08e1b5085ff1"
+  },
+  "userId": "QSM869",
+  "fullName": "Vijay bahadur anand",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "rechargeAmount": 124650,
+  "currentRechargeAmount": 24650,
+  "roiIncome": 163065.55279999916,
+  "directIncome": 7500,
+  "indirectIncome": 0,
+  "totalTeamIncome": 7500,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "joiningBonus": 0,
+  "totalIncome": 181065.55279999916,
+  "activeIncome": 45827.55279999998,
+  "createdAt": {
+    "$date": "2024-04-10T17:08:23.808Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.067Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 24650
+},
+{
+  "_id": {
+    "$oid": "66176d56379d08e1b508695e"
+  },
+  "userId": "MMR307",
+  "fullName": "Baidya Nath kumar",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-11T04:55:50.850Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-11T04:55:50.850Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6619702e379d08e1b5089028"
+  },
+  "userId": "SPA129",
+  "fullName": "Aman Singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 13650,
+  "currentRechargeAmount": 3650,
+  "roiIncome": 17023.21200000002,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 17223.21200000002,
+  "activeIncome": 4423.21200000001,
+  "createdAt": {
+    "$date": "2024-04-12T17:32:30.669Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.118Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3650
+},
+{
+  "_id": {
+    "$oid": "661a25a1379d08e1b5089a28"
+  },
+  "userId": "JKJ896",
+  "fullName": "Usha Singh",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 44025,
+  "currentRechargeAmount": 9025,
+  "roiIncome": 32215.576,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 32515.576,
+  "activeIncome": 965.5759999999999,
+  "createdAt": {
+    "$date": "2024-04-13T06:26:41.119Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.024Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 9025
+},
+{
+  "_id": {
+    "$oid": "661b99a4379d08e1b508a6ff"
+  },
+  "userId": "IWG454",
+  "fullName": "Sumit Banerjee",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 152500,
+  "currentRechargeAmount": 52500,
+  "roiIncome": 108401.92300000002,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 108401.92300000002,
+  "activeIncome": 3401.923,
+  "createdAt": {
+    "$date": "2024-04-14T08:53:56.608Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:21.772Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 52500
+},
+{
+  "_id": {
+    "$oid": "661d5d3d379d08e1b508b524"
+  },
+  "userId": "GSE352",
+  "fullName": "Kajal",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "rechargeAmount": 126000,
+  "currentRechargeAmount": 26000,
+  "roiIncome": 161781.6479999999,
+  "directIncome": 4500,
+  "indirectIncome": 0,
+  "totalTeamIncome": 4500,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 166281.64799999975,
+  "activeIncome": 38781.64799999996,
+  "createdAt": {
+    "$date": "2024-04-15T17:00:45.546Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.168Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 26000
+},
+{
+  "_id": {
+    "$oid": "661e46a7379d08e1b508c40d"
+  },
+  "userId": "GEE064",
+  "fullName": "Bina Devi",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "rechargeAmount": 61250,
+  "currentRechargeAmount": 11250,
+  "roiIncome": 76021.91440000013,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 76021.91440000013,
+  "activeIncome": 23521.914400000016,
+  "createdAt": {
+    "$date": "2024-04-16T09:36:39.759Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.370Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 11250
+},
+{
+  "_id": {
+    "$oid": "661ff5ad379d08e1b508e0c1"
+  },
+  "userId": "FYU030",
+  "fullName": "Bittu kumar",
+  "sponsorId": "WFS213",
+  "sponsorName": "Saurabh Chaudhari",
+  "rechargeAmount": 30925,
+  "currentRechargeAmount": 5925,
+  "roiIncome": 39879.51080000009,
+  "directIncome": 6600,
+  "indirectIncome": 0,
+  "totalTeamIncome": 6600,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 46479.51080000009,
+  "activeIncome": 257.51080000001286,
+  "createdAt": {
+    "$date": "2024-04-17T16:15:41.495Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.228Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 5925
+},
+{
+  "_id": {
+    "$oid": "6622362e379d08e1b508f2e7"
+  },
+  "userId": "DSA185",
+  "fullName": "Suman Kumari Yadav",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "rechargeAmount": 130000,
+  "currentRechargeAmount": 30000,
+  "roiIncome": 162244.15200000023,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 162244.15200000023,
+  "activeIncome": 52244.15200000003,
+  "createdAt": {
+    "$date": "2024-04-19T09:15:26.420Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.261Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 30000
+},
+{
+  "_id": {
+    "$oid": "6623c877379d08e1b50903ef"
+  },
+  "userId": "APP376",
+  "fullName": "Pankaj kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 15050,
+  "currentRechargeAmount": 5050,
+  "roiIncome": 10241.349499999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 10441.349499999997,
+  "activeIncome": 341.34950000000003,
+  "createdAt": {
+    "$date": "2024-04-20T13:51:51.166Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:32.601Z"
+  },
+  "__v": 0,
+  "ManualPackage": 5050
+},
+{
+  "_id": {
+    "$oid": "662662d4379d08e1b50922a3"
+  },
+  "userId": "YDK788",
+  "fullName": "Dhananjay prasad",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-22T13:15:00.496Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-22T13:15:00.496Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a440d379d08e1b5094a38"
+  },
+  "userId": "QDN455",
+  "fullName": "Vijay singh",
+  "sponsorId": "TSJ672",
+  "sponsorName": "Chanda Singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-25T11:52:45.853Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-25T11:52:45.853Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662a44aa379d08e1b5094a89"
+  },
+  "userId": "VQT972",
+  "fullName": "Vijay singh",
+  "sponsorId": "TSJ672",
+  "sponsorName": "Chanda Singh",
+  "rechargeAmount": 11750,
+  "currentRechargeAmount": 1750,
+  "roiIncome": 9845.808500000003,
+  "directIncome": 8400,
+  "indirectIncome": 0,
+  "totalTeamIncome": 8400,
+  "depositBalance": 0,
+  "royaltyIncome": 10500,
+  "joiningBonus": 200,
+  "totalIncome": 28945.808500000003,
+  "activeIncome": 245.8085,
+  "createdAt": {
+    "$date": "2024-04-25T11:55:22.212Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:32.682Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1750
+},
+{
+  "_id": {
+    "$oid": "662a5001379d08e1b5094b31"
+  },
+  "userId": "YSE246",
+  "fullName": "Aparna singh",
+  "sponsorId": "VQT972",
+  "sponsorName": "Vijay singh",
+  "rechargeAmount": 281250,
+  "currentRechargeAmount": 31250,
+  "roiIncome": 245770.21399999998,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 245770.21399999998,
+  "activeIncome": 5770.214000000001,
+  "createdAt": {
+    "$date": "2024-04-25T12:43:45.123Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:32.764Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 31250
+},
+{
+  "_id": {
+    "$oid": "662e048c379d08e1b50968c6"
+  },
+  "userId": "GMO505",
+  "fullName": "Vicky Kumar",
+  "sponsorId": "EYJ048",
+  "sponsorName": "Roshan ranjan",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-28T08:10:52.557Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T08:10:52.557Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662e0773379d08e1b5096afb"
+  },
+  "userId": "UQS557",
+  "fullName": "Moh Salman",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-28T08:23:15.480Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-28T08:23:15.480Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "662faad5379d08e1b5097aa9"
+  },
+  "userId": "UEJ481",
+  "fullName": "DIVYA KUMARI",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "rechargeAmount": 122500,
+  "currentRechargeAmount": 22500,
+  "roiIncome": 152043.82880000025,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 152043.82880000025,
+  "activeIncome": 6380.828800000014,
+  "createdAt": {
+    "$date": "2024-04-29T14:12:37.997Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.408Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 22500
+},
+{
+  "_id": {
+    "$oid": "662fb5f5379d08e1b5097d21"
+  },
+  "userId": "ARK657",
+  "fullName": "Sachin kumar",
+  "sponsorId": "MYS125",
+  "sponsorName": "Charan Choudhary",
+  "rechargeAmount": 129500,
+  "currentRechargeAmount": 29500,
+  "roiIncome": 157455.1167999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 157455.1167999995,
+  "activeIncome": 48155.11680000004,
+  "createdAt": {
+    "$date": "2024-04-29T15:00:05.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.317Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 29500
+},
+{
+  "_id": {
+    "$oid": "66309bde379d08e1b509934d"
+  },
+  "userId": "CJX213",
+  "fullName": "Manish ramkeswr singh",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 29375,
+  "currentRechargeAmount": 4375,
+  "roiIncome": 37178.45720000006,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 37178.45720000006,
+  "activeIncome": 4928.457199999998,
+  "createdAt": {
+    "$date": "2024-04-30T07:21:02.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.434Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth Speaker",
+  "ManualPackage": 4375
+},
+{
+  "_id": {
+    "$oid": "6630f02c379d08e1b509a878"
+  },
+  "userId": "TOP300",
+  "fullName": "Chaudhary riya",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 122500,
+  "currentRechargeAmount": 22500,
+  "roiIncome": 152043.82880000025,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 152043.82880000025,
+  "activeIncome": 44793.82880000002,
+  "createdAt": {
+    "$date": "2024-04-30T13:20:44.770Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.455Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 22500
+},
+{
+  "_id": {
+    "$oid": "6631161d379d08e1b509b5f9"
+  },
+  "userId": "NOE178",
+  "fullName": "Manish singh",
+  "sponsorId": "BOR598",
+  "sponsorName": "Riya choudhary",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-04-30T16:02:37.995Z"
+  },
+  "updatedAt": {
+    "$date": "2024-04-30T16:02:37.995Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6633218d379d08e1b509e21d"
+  },
+  "userId": "DMX265",
+  "fullName": "Ajay kumar",
+  "sponsorId": "EOK805",
+  "sponsorName": "Priyanshu kumari",
+  "rechargeAmount": 14650,
+  "currentRechargeAmount": 4650,
+  "roiIncome": 16652.372000000054,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 16852.372000000054,
+  "activeIncome": 3052.372000000001,
+  "createdAt": {
+    "$date": "2024-05-02T05:15:57.827Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.496Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4650
+},
+{
+  "_id": {
+    "$oid": "6633587b379d08e1b509f111"
+  },
+  "userId": "DEY516",
+  "fullName": "Ritika Kumari",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 12025,
+  "currentRechargeAmount": 2025,
+  "roiIncome": 14904.122000000056,
+  "directIncome": 750,
+  "indirectIncome": 0,
+  "totalTeamIncome": 750,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 15854.122000000056,
+  "activeIncome": 5804.1219999999885,
+  "createdAt": {
+    "$date": "2024-05-02T09:10:19.931Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.575Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2025
+},
+{
+  "_id": {
+    "$oid": "66391a0a379d08e1b50a510e"
+  },
+  "userId": "FGV845",
+  "fullName": "RITU SAWAN",
+  "sponsorId": "EYP195",
+  "sponsorName": "Kumar subham",
+  "rechargeAmount": 10600,
+  "currentRechargeAmount": 600,
+  "roiIncome": 9119.087,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 9319.087,
+  "activeIncome": 219.087,
+  "createdAt": {
+    "$date": "2024-05-06T17:57:30.833Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.465Z"
+  },
+  "__v": 0,
+  "ManualPackage": 600
+},
+{
+  "_id": {
+    "$oid": "6639f43a379d08e1b50a634f"
+  },
+  "userId": "SNS658",
+  "fullName": "9123188924",
+  "sponsorId": "EYJ048",
+  "sponsorName": "Roshan ranjan",
+  "rechargeAmount": 23400,
+  "currentRechargeAmount": 3400,
+  "roiIncome": 18106.332000000002,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 18306.332000000002,
+  "activeIncome": 506.332,
+  "createdAt": {
+    "$date": "2024-05-07T09:28:26.933Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.502Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3400
+},
+{
+  "_id": {
+    "$oid": "663b6958bbe4de94661056ae"
+  },
+  "userId": "CCQ995",
+  "fullName": "ABHISHEK BHARDWAJ",
+  "sponsorId": "EYJ048",
+  "sponsorName": "Roshan ranjan",
+  "rechargeAmount": 12100,
+  "currentRechargeAmount": 2100,
+  "roiIncome": 8966.237499999997,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 9166.237499999997,
+  "activeIncome": 266.2375,
+  "createdAt": {
+    "$date": "2024-05-08T12:00:24.504Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.548Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2100
+},
+{
+  "_id": {
+    "$oid": "663f04df51e816a5c2388cc0"
+  },
+  "userId": "XDW424",
+  "fullName": "Test",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-11T05:40:47.637Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-11T05:40:47.637Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6640774051e816a5c23894b1"
+  },
+  "userId": "DSS265",
+  "fullName": "Ruby devi",
+  "sponsorId": "DEY516",
+  "sponsorName": "Ritika Kumari",
+  "rechargeAmount": 32125,
+  "currentRechargeAmount": 7125,
+  "roiIncome": 37495.25319999992,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 37495.25319999992,
+  "activeIncome": 6245.253200000005,
+  "createdAt": {
+    "$date": "2024-05-12T08:01:04.192Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.609Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 7125
+},
+{
+  "_id": {
+    "$oid": "6640d54f51e816a5c2389d54"
+  },
+  "userId": "ARS441",
+  "fullName": "Anand raj anand",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 96000,
+  "currentRechargeAmount": 16000,
+  "roiIncome": 110058.96959999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 900,
+  "totalIncome": 110958.96959999995,
+  "activeIncome": 32753.969599999982,
+  "createdAt": {
+    "$date": "2024-05-12T14:42:23.073Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.893Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smartwatch",
+  "ManualPackage": 16000
+},
+{
+  "_id": {
+    "$oid": "66418d0b51e816a5c238a949"
+  },
+  "userId": "FDC624",
+  "fullName": "DHIRAJ KUMAR",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "rechargeAmount": 29750,
+  "currentRechargeAmount": 4750,
+  "roiIncome": 35722.2135999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 35722.2135999999,
+  "activeIncome": 7874.213600000001,
+  "createdAt": {
+    "$date": "2024-05-13T03:46:19.157Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.665Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 4750
+},
+{
+  "_id": {
+    "$oid": "6644ba2e51e816a5c238d769"
+  },
+  "userId": "TXV312",
+  "fullName": "Saniya Singh",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 29375,
+  "currentRechargeAmount": 4375,
+  "roiIncome": 20905.017499999994,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 20905.017499999994,
+  "activeIncome": 655.0175,
+  "createdAt": {
+    "$date": "2024-05-15T13:35:42.876Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.769Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 4375
+},
+{
+  "_id": {
+    "$oid": "6646315351e816a5c238fdd8"
+  },
+  "userId": "SKS869",
+  "fullName": "Dhananjay prasad",
+  "sponsorId": "EYP195",
+  "sponsorName": "Kumar subham",
+  "rechargeAmount": 28375,
+  "currentRechargeAmount": 3375,
+  "roiIncome": 20875.017499999994,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 20875.017499999994,
+  "activeIncome": 625.0175,
+  "createdAt": {
+    "$date": "2024-05-16T16:16:19.158Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.820Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth Speaker",
+  "ManualPackage": 3375
+},
+{
+  "_id": {
+    "$oid": "66471c7a51e816a5c239196e"
+  },
+  "userId": "RFF671",
+  "fullName": "Demotest",
+  "sponsorId": "ADMIN",
+  "sponsorName": "Mr Admin",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-17T08:59:38.010Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-17T08:59:38.010Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664c33fc51e816a5c2396294"
+  },
+  "userId": "MPT766",
+  "fullName": "Punam singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 321250,
+  "currentRechargeAmount": 71250,
+  "roiIncome": 354454.7464000001,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 354454.7464000001,
+  "activeIncome": 168454.74640000044,
+  "createdAt": {
+    "$date": "2024-05-21T05:41:16.936Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.775Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 71250
+},
+{
+  "_id": {
+    "$oid": "664c614251e816a5c2396f10"
+  },
+  "userId": "DET151",
+  "fullName": "Romika kumari",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 28750,
+  "currentRechargeAmount": 3750,
+  "roiIncome": 20143.858999999993,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 20143.858999999993,
+  "activeIncome": 643.8589999999999,
+  "createdAt": {
+    "$date": "2024-05-21T08:54:26.005Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:33.873Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 3750
+},
+{
+  "_id": {
+    "$oid": "664ca0d451e816a5c2397e88"
+  },
+  "userId": "WAT263",
+  "fullName": "Rajeev ranjan",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "rechargeAmount": 112500,
+  "currentRechargeAmount": 12500,
+  "roiIncome": 133158.32959999982,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 133158.32959999982,
+  "activeIncome": 20040.3296,
+  "createdAt": {
+    "$date": "2024-05-21T13:25:40.963Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.721Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 12500
+},
+{
+  "_id": {
+    "$oid": "664ca13e51e816a5c2397eb7"
+  },
+  "userId": "POO920",
+  "fullName": "Shailendra Kumar Chaudhary",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-21T13:27:26.984Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-21T13:27:26.984Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "664ee27e51e816a5c239ba1a"
+  },
+  "userId": "OJT177",
+  "fullName": "Taniya",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 28875,
+  "currentRechargeAmount": 3875,
+  "roiIncome": 17424.136,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 750,
+  "totalIncome": 18174.136,
+  "activeIncome": 674.136,
+  "createdAt": {
+    "$date": "2024-05-23T06:30:22.343Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.338Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3875
+},
+{
+  "_id": {
+    "$oid": "6650723351e816a5c239d892"
+  },
+  "userId": "ODM631",
+  "fullName": "Raj gupta",
+  "sponsorId": "EOK805",
+  "sponsorName": "Priyanshu kumari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-24T10:55:47.796Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T10:55:47.796Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6650987951e816a5c239d972"
+  },
+  "userId": "JER604",
+  "fullName": "Pawan chauhan",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-24T13:39:05.167Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-24T13:39:05.167Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6651dbd751e816a5c239ead5"
+  },
+  "userId": "VQP656",
+  "fullName": "Sunil chaudhari",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "rechargeAmount": 32875,
+  "currentRechargeAmount": 7875,
+  "roiIncome": 36063.713200000115,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 36063.713200000115,
+  "activeIncome": 2313.713200000008,
+  "createdAt": {
+    "$date": "2024-05-25T12:38:47.207Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.745Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Bluetooth speaker",
+  "ManualPackage": 7875
+},
+{
+  "_id": {
+    "$oid": "66536e0f51e816a5c239ff40"
+  },
+  "userId": "DAR308",
+  "fullName": "Vandana watsh",
+  "sponsorId": "EXP627",
+  "sponsorName": "Shantanu vats",
+  "rechargeAmount": 12300,
+  "currentRechargeAmount": 2300,
+  "roiIncome": 7685.495000000001,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 200,
+  "totalIncome": 7885.495000000001,
+  "activeIncome": 285.495,
+  "createdAt": {
+    "$date": "2024-05-26T17:14:55.165Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.040Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2300
+},
+{
+  "_id": {
+    "$oid": "6659cc78bd32c653616b5cdc"
+  },
+  "userId": "FDO276",
+  "fullName": "Rahul singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-05-31T13:11:20.261Z"
+  },
+  "updatedAt": {
+    "$date": "2024-05-31T13:11:20.261Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6659d4b4bd32c653616b5f41"
+  },
+  "userId": "NEB738",
+  "fullName": "Santosh kumar suman",
+  "sponsorId": "QSM869",
+  "sponsorName": "Vijay bahadur anand",
+  "rechargeAmount": 245000,
+  "currentRechargeAmount": 45000,
+  "roiIncome": 268681.8607999996,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 268681.8607999996,
+  "activeIncome": 104865.86079999988,
+  "createdAt": {
+    "$date": "2024-05-31T13:46:28.404Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.846Z"
+  },
+  "__v": 0,
+  "rechargeReward": "Smart Phone",
+  "ManualPackage": 45000
+},
+{
+  "_id": {
+    "$oid": "666a6f1f8fcb0caf53a91418"
+  },
+  "userId": "IUB259",
+  "fullName": "Rameshwar Singh",
+  "sponsorId": "GIN683",
+  "sponsorName": "Yash",
+  "rechargeAmount": 23000,
+  "currentRechargeAmount": 3000,
+  "roiIncome": 12747.236999999996,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 600,
+  "totalIncome": 13347.236999999996,
+  "activeIncome": 547.237,
+  "createdAt": {
+    "$date": "2024-06-13T04:01:35.983Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.505Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3000
+},
+{
+  "_id": {
+    "$oid": "666d7c498fcb0caf53a9ba35"
+  },
+  "userId": "EUG962",
+  "fullName": "Vicky Kumar",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 58750,
+  "currentRechargeAmount": 8750,
+  "roiIncome": 61532.41839999965,
+  "directIncome": 1500,
+  "indirectIncome": 0,
+  "totalTeamIncome": 1500,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 64532.41839999962,
+  "activeIncome": 31532.418400000024,
+  "createdAt": {
+    "$date": "2024-06-15T11:34:33.012Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:04.948Z"
+  },
+  "__v": 0,
+  "ManualPackage": 8750
+},
+{
+  "_id": {
+    "$oid": "666d9a618fcb0caf53a9c097"
+  },
+  "userId": "UXM720",
+  "fullName": "Ritik Singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-06-15T13:42:57.072Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-15T13:42:57.072Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "666dc6488fcb0caf53a9c90a"
+  },
+  "userId": "GWX877",
+  "fullName": "Puja kumari",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 84000,
+  "currentRechargeAmount": 14000,
+  "roiIncome": 84878.91839999962,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 2100,
+  "totalIncome": 86978.91839999962,
+  "activeIncome": 30694.91840000002,
+  "createdAt": {
+    "$date": "2024-06-15T16:50:16.109Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.171Z"
+  },
+  "__v": 0,
+  "ManualPackage": 14000
+},
+{
+  "_id": {
+    "$oid": "6671974c8fcb0caf53aab04b"
+  },
+  "userId": "UAJ815",
+  "fullName": "Sunil kumar",
+  "sponsorId": "VQT972",
+  "sponsorName": "Vijay singh",
+  "rechargeAmount": 34500,
+  "currentRechargeAmount": 4500,
+  "roiIncome": 18228.811000000005,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 900,
+  "totalIncome": 19128.811000000005,
+  "activeIncome": 828.811,
+  "createdAt": {
+    "$date": "2024-06-18T14:18:52.517Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.629Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4500
+},
+{
+  "_id": {
+    "$oid": "6673b48b8fcb0caf53ab082a"
+  },
+  "userId": "SPE728",
+  "fullName": "Rahul Singh",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 44200,
+  "currentRechargeAmount": 4200,
+  "roiIncome": 20183.801000000003,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1200,
+  "totalIncome": 21383.801000000003,
+  "activeIncome": 1083.8010000000002,
+  "createdAt": {
+    "$date": "2024-06-20T04:48:11.030Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.283Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4200
+},
+{
+  "_id": {
+    "$oid": "6675be2e8fcb0caf53ab5c92"
+  },
+  "userId": "ATU386",
+  "fullName": "Avinash Kumar Singh",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 54000,
+  "currentRechargeAmount": 4000,
+  "roiIncome": 28789.354999999996,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 30289.354999999996,
+  "activeIncome": 1289.355,
+  "createdAt": {
+    "$date": "2024-06-21T17:53:50.978Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.730Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4000
+},
+{
+  "_id": {
+    "$oid": "667695e28fcb0caf53ab80cc"
+  },
+  "userId": "TOO334",
+  "fullName": "Saurabh sagar",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "rechargeAmount": 126000,
+  "currentRechargeAmount": 26000,
+  "roiIncome": 124703.0927999994,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 127703.09279999937,
+  "activeIncome": 9336.092800000013,
+  "createdAt": {
+    "$date": "2024-06-22T09:14:10.623Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.036Z"
+  },
+  "__v": 0,
+  "ManualPackage": 26000
+},
+{
+  "_id": {
+    "$oid": "66781f808fcb0caf53abd2b4"
+  },
+  "userId": "JRQ429",
+  "fullName": "Sharvan kumar",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 25000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 24807.420799999963,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 600,
+  "totalIncome": 25407.420799999963,
+  "activeIncome": 6642.4207999999935,
+  "createdAt": {
+    "$date": "2024-06-23T13:13:36.719Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.069Z"
+  },
+  "__v": 0,
+  "ManualPackage": 5000
+},
+{
+  "_id": {
+    "$oid": "667941938fcb0caf53abe739"
+  },
+  "userId": "VNK385",
+  "fullName": "Chandra Bhushan Singh",
+  "sponsorId": "EYP195",
+  "sponsorName": "Kumar subham",
+  "rechargeAmount": 73750,
+  "currentRechargeAmount": 3750,
+  "roiIncome": 31124.331500000008,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 2100,
+  "totalIncome": 33224.33150000001,
+  "activeIncome": 1824.3314999999998,
+  "createdAt": {
+    "$date": "2024-06-24T09:51:15.187Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.759Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3750
+},
+{
+  "_id": {
+    "$oid": "667a48cc8fcb0caf53ac17cf"
+  },
+  "userId": "PWT945",
+  "fullName": "Neeraj Singh",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 118000,
+  "currentRechargeAmount": 18000,
+  "roiIncome": 55895.769,
+  "directIncome": 3000,
+  "indirectIncome": 0,
+  "totalTeamIncome": 3000,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 61895.769,
+  "activeIncome": 2895.7690000000002,
+  "createdAt": {
+    "$date": "2024-06-25T04:34:20.806Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:34.924Z"
+  },
+  "__v": 0,
+  "ManualPackage": 18000
+},
+{
+  "_id": {
+    "$oid": "668161b0613b873bed8f1952"
+  },
+  "userId": "POG773",
+  "fullName": "Harshvardhan singh",
+  "sponsorId": "EYJ048",
+  "sponsorName": "Roshan ranjan",
+  "rechargeAmount": 12550,
+  "currentRechargeAmount": 2550,
+  "roiIncome": 5116.2474999999995,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 5416.2474999999995,
+  "activeIncome": 316.2475,
+  "createdAt": {
+    "$date": "2024-06-30T13:46:24.979Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.363Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2550
+},
+{
+  "_id": {
+    "$oid": "66816695613b873bed8f1bea"
+  },
+  "userId": "JYC635",
+  "fullName": "Manju davi",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 50600,
+  "currentRechargeAmount": 10600,
+  "roiIncome": 21270.380999999998,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1200,
+  "totalIncome": 22470.380999999998,
+  "activeIncome": 1270.3809999999999,
+  "createdAt": {
+    "$date": "2024-06-30T14:07:17.075Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.234Z"
+  },
+  "__v": 0,
+  "ManualPackage": 10600
+},
+{
+  "_id": {
+    "$oid": "668170a9613b873bed8f22b4"
+  },
+  "userId": "RNX892",
+  "fullName": "Khushboo saw",
+  "sponsorId": "GSE352",
+  "sponsorName": "Kajal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-06-30T14:50:17.489Z"
+  },
+  "updatedAt": {
+    "$date": "2024-06-30T14:50:17.489Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6683df6c469c7157822e0e55"
+  },
+  "userId": "KJM223",
+  "fullName": "Mata Rani enterprises",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 10450,
+  "currentRechargeAmount": 450,
+  "roiIncome": 10470.044000000029,
+  "directIncome": 300,
+  "indirectIncome": 0,
+  "totalTeamIncome": 300,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 11070.044000000049,
+  "activeIncome": 1470.043999999999,
+  "createdAt": {
+    "$date": "2024-07-02T11:07:24.517Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.138Z"
+  },
+  "__v": 0,
+  "ManualPackage": 450
+},
+{
+  "_id": {
+    "$oid": "66841d8e469c7157822e263b"
+  },
+  "userId": "QDJ083",
+  "fullName": "Sanoj kumar singh",
+  "sponsorId": "KJM223",
+  "sponsorName": "Mata Rani enterprises",
+  "rechargeAmount": 11500,
+  "currentRechargeAmount": 1500,
+  "roiIncome": 11169.344000000016,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 11469.344000000021,
+  "activeIncome": 2276.343999999997,
+  "createdAt": {
+    "$date": "2024-07-02T15:32:30.856Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.155Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1500
+},
+{
+  "_id": {
+    "$oid": "6684274c469c7157822e2b37"
+  },
+  "userId": "SSK930",
+  "fullName": "Suraj singh",
+  "sponsorId": "SNP796",
+  "sponsorName": "Bharat Kumar",
+  "rechargeAmount": 17250,
+  "currentRechargeAmount": 2250,
+  "roiIncome": 7478.348999999998,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 450,
+  "totalIncome": 7928.348999999998,
+  "activeIncome": 428.349,
+  "createdAt": {
+    "$date": "2024-07-02T16:14:04.854Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.444Z"
+  },
+  "__v": 0,
+  "ManualPackage": 2250
+},
+{
+  "_id": {
+    "$oid": "668554e9469c7157822e5336"
+  },
+  "userId": "KOO849",
+  "fullName": "Eakkaradh Singh",
+  "sponsorId": "PWT945",
+  "sponsorName": "Neeraj Singh",
+  "rechargeAmount": 117500,
+  "currentRechargeAmount": 17500,
+  "roiIncome": 49930.66050000001,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 52930.66050000001,
+  "activeIncome": 2930.6605,
+  "createdAt": {
+    "$date": "2024-07-03T13:40:57.855Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.485Z"
+  },
+  "__v": 0,
+  "ManualPackage": 17500
+},
+{
+  "_id": {
+    "$oid": "668d659c469c7157822f8921"
+  },
+  "userId": "PTS258",
+  "fullName": "Amit singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-09T16:30:20.887Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-09T16:30:20.887Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668f9604469c7157822fe24a"
+  },
+  "userId": "XES015",
+  "fullName": "Vatsalya chauhan",
+  "sponsorId": "WPB945",
+  "sponsorName": "Adi singh",
+  "rechargeAmount": 61000,
+  "currentRechargeAmount": 11000,
+  "roiIncome": 22056.852,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 23556.852,
+  "activeIncome": 1556.852,
+  "createdAt": {
+    "$date": "2024-07-11T08:21:24.425Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.585Z"
+  },
+  "__v": 0,
+  "ManualPackage": 11000
+},
+{
+  "_id": {
+    "$oid": "668fa019469c7157822fe330"
+  },
+  "userId": "TRS330",
+  "fullName": "Rahul",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-11T09:04:25.621Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-11T09:04:25.621Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "668fd452469c7157822ff2fd"
+  },
+  "userId": "OSD393",
+  "fullName": "Amitab Kumar singh",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 115000,
+  "currentRechargeAmount": 15000,
+  "roiIncome": 105952.95839999973,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 108952.95839999968,
+  "activeIncome": 31270.95839999997,
+  "createdAt": {
+    "$date": "2024-07-11T12:47:14.227Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.191Z"
+  },
+  "__v": 0,
+  "ManualPackage": 15000
+},
+{
+  "_id": {
+    "$oid": "6690b344469c7157823056fd"
+  },
+  "userId": "DWK541",
+  "fullName": "Niwesh Kumar Sinha",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-12T04:38:28.604Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-12T04:38:28.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669140b7469c71578230815e"
+  },
+  "userId": "AEY596",
+  "fullName": "Golu Kumar",
+  "sponsorId": "EXP627",
+  "sponsorName": "Shantanu vats",
+  "rechargeAmount": 23400,
+  "currentRechargeAmount": 3400,
+  "roiIncome": 6807.988,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 600,
+  "totalIncome": 7407.988,
+  "activeIncome": 607.9879999999998,
+  "createdAt": {
+    "$date": "2024-07-12T14:41:59.389Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:35.911Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3400
+},
+{
+  "_id": {
+    "$oid": "669294e7469c71578230a945"
+  },
+  "userId": "JFK264",
+  "fullName": "Shivam kumar",
+  "sponsorId": "EXP627",
+  "sponsorName": "Shantanu vats",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-13T14:53:27.370Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-13T14:53:27.370Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669540904ac8bba2e4c7c748"
+  },
+  "userId": "NEE138",
+  "fullName": "Shekhar Kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-15T15:30:24.419Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-15T15:30:24.419Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669622e14ac8bba2e4c7d801"
+  },
+  "userId": "ODI201",
+  "fullName": "Kishan Rajak",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 10300,
+  "currentRechargeAmount": 300,
+  "roiIncome": 581.0994999999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 881.0994999999997,
+  "activeIncome": 281.0995,
+  "createdAt": {
+    "$date": "2024-07-16T07:36:01.151Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.754Z"
+  },
+  "__v": 0,
+  "ManualPackage": 300
+},
+{
+  "_id": {
+    "$oid": "669697ec4ac8bba2e4c7fa33"
+  },
+  "userId": "PNX453",
+  "fullName": "Vinay singh",
+  "sponsorId": "SER458",
+  "sponsorName": "Sumit shekhar",
+  "rechargeAmount": 23100,
+  "currentRechargeAmount": 3100,
+  "roiIncome": 6202.954500000001,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 600,
+  "totalIncome": 6802.954500000001,
+  "activeIncome": 602.9545,
+  "createdAt": {
+    "$date": "2024-07-16T15:55:24.631Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.469Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3100
+},
+{
+  "_id": {
+    "$oid": "6698ae7d4ac8bba2e4c8750f"
+  },
+  "userId": "BSG655",
+  "fullName": "Chandan kumar",
+  "sponsorId": "FYU030",
+  "sponsorName": "Bittu kumar",
+  "rechargeAmount": 23900,
+  "currentRechargeAmount": 3900,
+  "roiIncome": 20963.352000000017,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 600,
+  "totalIncome": 21563.352000000024,
+  "activeIncome": 6299.351999999988,
+  "createdAt": {
+    "$date": "2024-07-18T05:56:13.053Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.219Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3900
+},
+{
+  "_id": {
+    "$oid": "669ab1d74ac8bba2e4c8bc42"
+  },
+  "userId": "SAV126",
+  "fullName": "Himanshu Kumar",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-07-19T18:35:03.634Z"
+  },
+  "updatedAt": {
+    "$date": "2024-07-19T18:35:03.634Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "669b6d564ac8bba2e4c8d026"
+  },
+  "userId": "BJG526",
+  "fullName": "Payal Sharma",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 28125,
+  "currentRechargeAmount": 3125,
+  "roiIncome": 24831.25,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 750,
+  "totalIncome": 25581.25,
+  "activeIncome": 15081.25,
+  "createdAt": {
+    "$date": "2024-07-20T07:55:02.279Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.233Z"
+  },
+  "__v": 0,
+  "ManualPackage": 3125
+},
+{
+  "_id": {
+    "$oid": "66a242114ac8bba2e4c9b0bb"
+  },
+  "userId": "OSN685",
+  "fullName": "ASHA DEVI",
+  "sponsorId": "TFW965",
+  "sponsorName": "Pragya",
+  "rechargeAmount": 11700,
+  "currentRechargeAmount": 1700,
+  "roiIncome": 9899.265599999986,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 10199.265599999988,
+  "activeIncome": 3699.2656000000025,
+  "createdAt": {
+    "$date": "2024-07-25T12:16:17.724Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.251Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1700
+},
+{
+  "_id": {
+    "$oid": "66a364684ac8bba2e4c9efc8"
+  },
+  "userId": "JCQ622",
+  "fullName": "Asha Sharma",
+  "sponsorId": "QET050",
+  "sponsorName": "Sharmila devi",
+  "rechargeAmount": 10750,
+  "currentRechargeAmount": 750,
+  "roiIncome": 9183.085599999993,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 9483.085599999999,
+  "activeIncome": 2103.0856000000003,
+  "createdAt": {
+    "$date": "2024-07-26T08:55:04.288Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.290Z"
+  },
+  "__v": 0,
+  "ManualPackage": 750
+},
+{
+  "_id": {
+    "$oid": "66a4c9b64ac8bba2e4ca30b9"
+  },
+  "userId": "KYS142",
+  "fullName": "pravin kumar",
+  "sponsorId": "ICW143",
+  "sponsorName": "Sita devi",
+  "rechargeAmount": 112500,
+  "currentRechargeAmount": 12500,
+  "roiIncome": 95160.82239999998,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 98160.8224,
+  "activeIncome": 19160.822400000005,
+  "createdAt": {
+    "$date": "2024-07-27T10:19:34.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.322Z"
+  },
+  "__v": 0,
+  "ManualPackage": 12500
+},
+{
+  "_id": {
+    "$oid": "66a520e14ac8bba2e4ca3b94"
+  },
+  "userId": "RQF956",
+  "fullName": "Nirmala devi",
+  "sponsorId": "YMD177",
+  "sponsorName": "Anshu Singh",
+  "rechargeAmount": 11650,
+  "currentRechargeAmount": 1650,
+  "roiIncome": 3303.2314999999994,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 3603.2314999999994,
+  "activeIncome": 303.2315,
+  "createdAt": {
+    "$date": "2024-07-27T16:31:29.950Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.149Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1650
+},
+{
+  "_id": {
+    "$oid": "66aa436a4ac8bba2e4caecce"
+  },
+  "userId": "DEQ312",
+  "fullName": "NISHANT WATSH",
+  "sponsorId": "GIN683",
+  "sponsorName": "Yash",
+  "rechargeAmount": 167500,
+  "currentRechargeAmount": 17500,
+  "roiIncome": 44863.75749999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 4500,
+  "totalIncome": 49363.75749999999,
+  "activeIncome": 4363.7575,
+  "createdAt": {
+    "$date": "2024-07-31T14:00:10.235Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.240Z"
+  },
+  "__v": 0,
+  "ManualPackage": 17500
+},
+{
+  "_id": {
+    "$oid": "66b0f28002ca5f8be686c9ec"
+  },
+  "userId": "BAV201",
+  "fullName": "Khushboo",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 11000,
+  "currentRechargeAmount": 1000,
+  "roiIncome": 1992.9309999999998,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 2292.931000000001,
+  "activeIncome": 292.931,
+  "createdAt": {
+    "$date": "2024-08-05T15:40:48.869Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.507Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1000
+},
+{
+  "_id": {
+    "$oid": "66b2126c02ca5f8be686f908"
+  },
+  "userId": "VTE206",
+  "fullName": "Birendra",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 226000,
+  "currentRechargeAmount": 26000,
+  "roiIncome": 51955.43850000002,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 6000,
+  "totalIncome": 57955.43850000002,
+  "activeIncome": 5955.4385,
+  "createdAt": {
+    "$date": "2024-08-06T12:09:16.143Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.339Z"
+  },
+  "__v": 0,
+  "ManualPackage": 26000
+},
+{
+  "_id": {
+    "$oid": "66b45aba02ca5f8be68751c3"
+  },
+  "userId": "EKY477",
+  "fullName": "Nilesh kumar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 11200,
+  "currentRechargeAmount": 1200,
+  "roiIncome": 2396.1744999999996,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 2696.1744999999996,
+  "activeIncome": 296.17449999999997,
+  "createdAt": {
+    "$date": "2024-08-08T05:42:18.440Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.361Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1200
+},
+{
+  "_id": {
+    "$oid": "66b4872402ca5f8be6876da6"
+  },
+  "userId": "TEJ112",
+  "fullName": "Nitesh ranjan",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-08-08T08:51:48.956Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-08T08:51:48.956Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b5fdb502ca5f8be687964b"
+  },
+  "userId": "MWS670",
+  "fullName": "Manoj kumar Mahto",
+  "sponsorId": "ERS530",
+  "sponsorName": "Ankit singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-08-09T11:29:57.809Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-09T11:29:57.809Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66b9810f02ca5f8be687ebdd"
+  },
+  "userId": "ASM984",
+  "fullName": "Rajesh kanna",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 44400,
+  "currentRechargeAmount": 4400,
+  "roiIncome": 8778.243,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1200,
+  "totalIncome": 9978.243000000002,
+  "activeIncome": 1178.243,
+  "createdAt": {
+    "$date": "2024-08-12T03:27:11.102Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.398Z"
+  },
+  "__v": 0,
+  "ManualPackage": 4400
+},
+{
+  "_id": {
+    "$oid": "66bae6c7e84c3699519d31a2"
+  },
+  "userId": "SFQ443",
+  "fullName": "Abhinav Pandey",
+  "sponsorId": "IIG734",
+  "sponsorName": "Mohit",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-08-13T04:53:27.012Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-13T04:53:27.012Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66bf6c5ce84c3699519d8e84"
+  },
+  "userId": "OQF366",
+  "fullName": "Alok kumar",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 51750,
+  "currentRechargeAmount": 1750,
+  "roiIncome": 38265.49840000004,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 39765.49840000004,
+  "activeIncome": 565.498400000002,
+  "createdAt": {
+    "$date": "2024-08-16T15:12:28.230Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.361Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1750
+},
+{
+  "_id": {
+    "$oid": "66c712b60070483c198fd49c"
+  },
+  "userId": "DXD246",
+  "fullName": "Sagar kumar",
+  "sponsorId": "EUG962",
+  "sponsorName": "Vicky Kumar",
+  "rechargeAmount": 51750,
+  "currentRechargeAmount": 1750,
+  "roiIncome": 33569.9271999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 35069.92719999989,
+  "activeIncome": 24069.927199999955,
+  "createdAt": {
+    "$date": "2024-08-22T10:28:06.190Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.688Z"
+  },
+  "__v": 0,
+  "ManualPackage": 1750
+},
+{
+  "_id": {
+    "$oid": "66c714950070483c198fd547"
+  },
+  "userId": "KQV822",
+  "fullName": "Raj kumar",
+  "sponsorId": "DXD246",
+  "sponsorName": "Sagar kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-08-22T10:36:05.103Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-22T10:36:05.103Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66c8bc550070483c198feb6a"
+  },
+  "userId": "UBW606",
+  "fullName": "Uk",
+  "sponsorId": "JDS893",
+  "sponsorName": "Aman kumar",
+  "rechargeAmount": 10075,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 6577.137199999973,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 6877.13719999997,
+  "activeIncome": 2833.137200000001,
+  "createdAt": {
+    "$date": "2024-08-23T16:44:05.564Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.528Z"
+  },
+  "__v": 0,
+  "ManualPackage": 75
+},
+{
+  "_id": {
+    "$oid": "66ce945f0070483c19906815"
+  },
+  "userId": "OCA206",
+  "fullName": "Sumit",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 10250,
+  "currentRechargeAmount": 250,
+  "roiIncome": 6904.487200000012,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 7204.487200000013,
+  "activeIncome": 222.48720000000066,
+  "createdAt": {
+    "$date": "2024-08-28T03:07:11.680Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.612Z"
+  },
+  "__v": 0,
+  "ManualPackage": 250
+},
+{
+  "_id": {
+    "$oid": "66cff9ed050e5fdd84439e2b"
+  },
+  "userId": "MEJ045",
+  "fullName": "Anish Kumar",
+  "sponsorId": "PUS169",
+  "sponsorName": "Gourav Kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-08-29T04:32:45.723Z"
+  },
+  "updatedAt": {
+    "$date": "2024-08-29T04:32:45.723Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d6a721db9cd44a6883ad95"
+  },
+  "userId": "NFY846",
+  "fullName": "ROSHAN KUMAR SINGH",
+  "sponsorId": "QDJ083",
+  "sponsorName": "Sanoj kumar singh",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "createdAt": {
+    "$date": "2024-09-03T06:05:21.805Z"
+  },
+  "updatedAt": {
+    "$date": "2024-09-03T06:05:21.805Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66d70e09f60df19fbfa30bf0"
+  },
+  "userId": "BSF177",
+  "fullName": "Jayndan choudhary",
+  "sponsorId": "JBC733",
+  "sponsorName": "Ankit Singh",
+  "rechargeAmount": 10300,
+  "currentRechargeAmount": 300,
+  "roiIncome": 581.0994999999999,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 881.0994999999997,
+  "activeIncome": 281.0995,
+  "createdAt": {
+    "$date": "2024-09-03T13:24:25.407Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-01T18:30:36.786Z"
+  },
+  "__v": 0,
+  "ManualPackage": 300
+},
+{
+  "_id": {
+    "$oid": "66ff9be9a52723ed195c2f56"
+  },
+  "userId": "XSW032",
+  "fullName": "Khusbu kumari",
+  "sponsorId": "DXD246",
+  "sponsorName": "Sagar kumar",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-04T07:40:25.078Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-04T07:40:25.078Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67025f2da52723ed195c840c"
+  },
+  "userId": "ETI532",
+  "fullName": "Shurabh",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 50000,
+  "currentRechargeAmount": 50000,
+  "roiIncome": 31200,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 32700,
+  "activeIncome": 15500,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-06T09:58:05.663Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.202Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670266d5a52723ed195c883b"
+  },
+  "userId": "SSP716",
+  "fullName": "Krish",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 500000,
+  "currentRechargeAmount": 500000,
+  "roiIncome": 312000,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 15000,
+  "totalIncome": 327000,
+  "activeIncome": 97000,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-06T10:30:45.908Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.220Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "66815b49613b873bed8f0f56"
+  },
+  "userId": "EGO180",
+  "fullName": "Vinod Kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 57500,
+  "currentRechargeAmount": 7500,
+  "roiIncome": 56661.66240000028,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 1500,
+  "totalIncome": 58161.6624000003,
+  "activeIncome": 9949.662399999992,
+  "createdAt": {
+    "$date": "2024-06-30T13:19:05.398Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.758Z"
+  },
+  "__v": 0,
+  "ManualPackage": 7500
+},
+{
+  "_id": {
+    "$oid": "6707c947a52723ed195d4e57"
+  },
+  "userId": "ASQ336",
+  "fullName": "Piyush",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 400000,
+  "currentRechargeAmount": 50000,
+  "roiIncome": 223500,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 12000,
+  "totalIncome": 235500,
+  "activeIncome": 96200,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-10T12:32:07.633Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.576Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6707dde3a52723ed195d4ef3"
+  },
+  "userId": "BJT347",
+  "fullName": "Shekhar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 10000,
+  "currentRechargeAmount": 10000,
+  "roiIncome": 6000,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 6300,
+  "activeIncome": 6300,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-10T14:00:03.512Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.301Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6708115ca52723ed195d5379"
+  },
+  "userId": "GDE112",
+  "fullName": "Amrendra Kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 100000,
+  "currentRechargeAmount": 100000,
+  "roiIncome": 59400,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 3000,
+  "totalIncome": 62400,
+  "activeIncome": 47400,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-10T17:39:40.477Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.344Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670811f5a52723ed195d53ac"
+  },
+  "userId": "KBT372",
+  "fullName": "Pritam Kumar",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-10T17:42:13.982Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T17:42:13.982Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "670812bda52723ed195d53e5"
+  },
+  "userId": "FMJ928",
+  "fullName": "Vishal",
+  "sponsorId": "SYP474",
+  "sponsorName": "abhishek keshari",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-10-10T17:45:33.760Z"
+  },
+  "updatedAt": {
+    "$date": "2024-10-10T17:45:33.760Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "675c52a8cfc48323c2689a9d"
+  },
+  "userId": "PAB648",
+  "fullName": "Anushka roy",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1620,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1770,
+  "activeIncome": 770,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-12-13T15:28:40.296Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.686Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6767d3cccfc48323c268f69f"
+  },
+  "userId": "SDV243",
+  "fullName": "Anup badhuk",
+  "sponsorId": "BJG526",
+  "sponsorName": "Payal Sharma",
+  "rechargeAmount": 0,
+  "currentRechargeAmount": 0,
+  "roiIncome": 0,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 0,
+  "totalIncome": 0,
+  "activeIncome": 0,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-12-22T08:54:36.200Z"
+  },
+  "updatedAt": {
+    "$date": "2024-12-22T08:54:36.200Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6772c35bcfc48323c26940c4"
+  },
+  "userId": "QJV083",
+  "fullName": "Amit Ranjan Kumar",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 80000,
+  "currentRechargeAmount": 80000,
+  "roiIncome": 20160,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 2400,
+  "totalIncome": 22560,
+  "activeIncome": 2560,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2024-12-30T15:59:23.922Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.791Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aaa9fcfc48323c269c95c"
+  },
+  "userId": "YJX890",
+  "fullName": "Rahul kumar Singh",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1170,
+  "directIncome": 150,
+  "indirectIncome": 0,
+  "totalTeamIncome": 150,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1470,
+  "activeIncome": 150,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-05T15:51:59.635Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.930Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677aac71cfc48323c269ca15"
+  },
+  "userId": "EJS226",
+  "fullName": "Vipul kumar",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1170,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1320,
+  "activeIncome": 150,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-05T15:59:45.840Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:05.870Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677bd49ecfc48323c269e05c"
+  },
+  "userId": "EUC558",
+  "fullName": "ABHYUDAY AMRITANSH",
+  "sponsorId": "YJX890",
+  "sponsorName": "Rahul kumar Singh",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1170,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1320,
+  "activeIncome": 820,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-06T13:03:26.615Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.029Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "677e7a4bcfc48323c26a0094"
+  },
+  "userId": "FUO839",
+  "fullName": "Shekhar kumar",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1110,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1260,
+  "activeIncome": 1260,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-08T13:14:51.088Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.140Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800d0b7b201b5e0e0970d2"
+  },
+  "userId": "SJU005",
+  "fullName": "Sanvi",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 10000,
+  "currentRechargeAmount": 10000,
+  "roiIncome": 2160,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 300,
+  "totalIncome": 2460,
+  "activeIncome": 2460,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-09T17:53:15.848Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.231Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67800d4f7b201b5e0e0971a4"
+  },
+  "userId": "JJB532",
+  "fullName": "Suresh Kumar",
+  "sponsorId": "OOX605",
+  "sponsorName": "Mahakaal",
+  "rechargeAmount": 30000,
+  "currentRechargeAmount": 30000,
+  "roiIncome": 6480,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 900,
+  "totalIncome": 7380,
+  "activeIncome": 7380,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-09T17:54:23.050Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.375Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "678150c37b201b5e0e097e37"
+  },
+  "userId": "STA707",
+  "fullName": "Amit Ranjan Kumar",
+  "sponsorId": "QSS054",
+  "sponsorName": "ANIKET Kumar",
+  "rechargeAmount": 5000,
+  "currentRechargeAmount": 5000,
+  "roiIncome": 1050,
+  "directIncome": 0,
+  "indirectIncome": 0,
+  "totalTeamIncome": 0,
+  "depositBalance": 0,
+  "royaltyIncome": 0,
+  "joiningBonus": 150,
+  "totalIncome": 1200,
+  "activeIncome": 1200,
+  "ManualPackage": 0,
+  "createdAt": {
+    "$date": "2025-01-10T16:54:27.500Z"
+  },
+  "updatedAt": {
+    "$date": "2025-03-13T18:30:06.408Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,29 @@
+@import "../responsive/breakpoints";
+body {
+  background-color: $bg-body !important;
+  font-family: $font-family;
+  color: $text-default-color !important;
+}
+
+// User Container css
+.user__container {
+  width: 425px;
+  max-width: 100%;
+  margin: auto;
+  background: $bg-white;
+  min-height: 100vh;
+}
+.layout__container {
+  position: relative;
+}
+.tb__layout {
+  width: 425px;
+  max-width: 100%;
+  margin: 0 auto;
+  min-height: 100vh;
+  background: $bg-white;
+}
+button:disabled {
+  background: #a6a6a6;
+  cursor: no-drop;
+}

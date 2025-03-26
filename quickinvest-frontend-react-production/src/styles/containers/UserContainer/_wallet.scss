@@ -1,0 +1,248 @@
+@import "../../abstract/variables";
+@import "../../responsive/breakpoints";
+.tb__userWallet__layout {
+  padding: 10px;
+  .tb__userWallet__container {
+    .tb__userWallet__content__area {
+      .tb__userWallet__balance {
+        .tb__userWallets__cards {
+          background: transparent;
+          padding: 0px;
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          gap: 5px;
+          .tb__userWallets__balance {
+            // background: $tb-text-dark-color;
+            background: #d2122e;
+            color: $text-white !important;
+            padding: 30px 25px;
+            border: 1px solid black;
+            border-radius: 20px;
+            box-shadow: 0px 1px 0px 0px #e9e9e9;
+            @include breakpoints(mdSmMobile) {
+              padding: 30px 16px;
+            }
+            h4 {
+              font-size: 18px;
+              color: $text-white;
+            }
+            span {
+              color: $text-white;
+            }
+          }
+        }
+      }
+      //   Recharge
+      .tb__userWallet__recharge {
+        margin-top: 20px;
+        text-align: center;
+        button {
+          width: 100%;
+          max-width: 150px;
+          border: none;
+          background: $tb-text-dark-color;
+          color: $text-white;
+          font-size: 16px;
+          padding: 8px 12px;
+          outline: none;
+          border-radius: 5px;
+        }
+      }
+      //   Withdraw
+      .tb__userWallet__withdraw__section {
+        margin-top: 20px;
+        box-shadow: 0 0px 3px rgba(4, 4, 7, 0.1);
+        padding: 15px 10px;
+        border-radius: 5px;
+        background: $bg-body;
+        .tb__userWallet__section__title {
+          text-align: left;
+          h2 {
+            color: $tb-text-dark-color;
+            font-size: 20px;
+            font-weight: 500 !important;
+          }
+        }
+        .tb__userWallet__withdraw__fields {
+          margin-top: 10px;
+          form {
+            .tb__userWallet__withdraw__field {
+              display: flex;
+              align-items: center;
+              justify-content: space-between;
+              gap: 10px;
+              .tb__userWallet__withdraw__group {
+                label {
+                  font-size: 15px;
+                  color: $tb-text-dark-color;
+                  font-weight: 500 !important;
+                }
+                input {
+                  padding: 10px 10px;
+                  outline: none;
+                  border-radius: 5px;
+                  width: 88%;
+                  border: $border-1;
+                }
+              }
+            }
+            .tb__userWallet__withdraw__button {
+              margin-top: 10px !important;
+              button {
+                background: $tb-text-dark-color;
+                font-size: 16px;
+                font-weight: 500 !important;
+                border: none;
+                color: $text-white;
+                padding: 10px 15px;
+                border-radius: 5px;
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+// Rechage Modal
+.tb__recharge__modal {
+  .tb__recharge__modal__content {
+    .tb__recharge__modal__amount {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 10px;
+      button {
+        padding: 5px 8px;
+        background: $tb-text-dark-color;
+        color: $text-white;
+        border-radius: 5px;
+        outline: none;
+        font-size: 20px;
+        text-align: center;
+        cursor: pointer;
+        border: none;
+      }
+    }
+    .tb__recharge__modal__qrCode {
+      padding-top: 10px;
+      .qr__code {
+        text-align: center;
+        img {
+          width: 200px;
+          height: 200px;
+        }
+      }
+      .upi__code {
+        p {
+          display: flex;
+          justify-content: center;
+          gap: 5px;
+          user-select: none;
+          cursor: pointer;
+          svg {
+            font-size: 22px;
+          }
+        }
+      }
+    }
+    .tb__recharge__payment {
+      text-align: center;
+      margin-top: 20px;
+      .tb__recharge__payment_btn {
+        padding: 8px 10px;
+        border-radius: 5px;
+        outline: none;
+        border: none;
+        a,
+        span {
+          color: wheat;
+        }
+      }
+      .allowed {
+        background: $tb-text-dark-color;
+        cursor: pointer;
+      }
+      .disabled {
+        background: gray;
+        cursor: not-allowed;
+      }
+    }
+    .tb__recharge__payment__model {
+      text-align: center;
+      margin-top: 20px;
+
+      button {
+        padding: 8px 10px;
+        background: $tb-text-dark-color;
+        color: $text-white;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+        border: none;
+      }
+    }
+    .tb__recharge__proof {
+      margin-top: 20px;
+      .tb__recharge__field {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        gap: 10px;
+        @include breakpoints(mdSmMobile) {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+        .tb__recharge__group {
+          label {
+            font-size: 16px;
+            color: $text-black;
+            font-weight: 500 !important;
+          }
+          input {
+            padding: 10px 10px;
+            outline: none;
+            border-radius: 5px;
+            width: 88%;
+            border: $border-1;
+          }
+        }
+      }
+    }
+    .tb__recharge__button {
+      text-align: center;
+      margin-top: 20px;
+      button {
+        padding: 5px 8px;
+        background: $tb-text-dark-color;
+        color: $text-white;
+        border-radius: 5px;
+        outline: none;
+        cursor: pointer;
+        border: none;
+      }
+    }
+  }
+}
+
+// Withdraw Update Modal
+.tb__withdrawUpdate__modal {
+  .modal__body {
+    top: 15% !important;
+    .modal__title {
+      // display: none !important;
+      h2 {
+        font-size: 14px !important;
+        font-weight: 600 !important;
+      }
+    }
+    // .modal__close__icon {
+    //   text-align: right;
+    //   font-size: 22px;
+    //   font-weight: 600;
+    //   cursor: pointer;
+    //   margin-top: -18px;
+    // }
+  }
+}

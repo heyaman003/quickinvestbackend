@@ -1,0 +1,252 @@
+@import "../../abstract/variables";
+@import "../../responsive/breakpoints";
+
+@mixin sectionTitle() {
+  .tb__userMine__section__tile {
+    text-align: left;
+    h2 {
+      color: $tb-text-dark-color;
+      font-size: 16px;
+      font-weight: 500 !important;
+    }
+  }
+}
+
+.tb__userMine__layout {
+  padding: 10px;
+  .tb__userMine__container {
+    .tb__userMine__profileId {
+      text-align: right;
+      h2 {
+        color: $tb-text-dark-color;
+        font-size: 20px;
+        margin-bottom: -8px !important;
+      }
+      span {
+        font-size: 15px;
+        color: $tb-text-dark-color;
+        font-weight: 500 !important;
+        opacity: 0.9;
+      }
+    }
+    .tb__userMine__account__settings {
+      margin-top: 10px;
+      .tb__userMine__account__passBank {
+        display: grid;
+        grid-template-columns: repeat(2, 1fr);
+        align-items: center;
+        box-shadow: 0 0px 3px rgba(4, 4, 7, 0.1);
+        padding: 15px 10px;
+        border-radius: 5px;
+        background: $bg-body;
+        // Change Password
+        .tb__userMine__change__password {
+          @include sectionTitle();
+          .tb__userMine__button {
+            margin-top: 10px;
+            button {
+              background: $tb-text-dark-color;
+              font-size: 15px;
+              font-weight: 500 !important;
+              border: none;
+              color: $text-white;
+              padding: 7px 12px;
+              border-radius: 5px;
+            }
+          }
+        }
+        //   Bank Info
+        .tb__userMine__bankInfo {
+          @include sectionTitle();
+          .tb__userMine__button {
+            margin-top: 10px;
+            button {
+              background: $tb-text-dark-color;
+              font-size: 15px;
+              font-weight: 500 !important;
+              border: none;
+              color: $text-white;
+              padding: 7px 12px;
+              border-radius: 5px;
+            }
+          }
+        }
+      }
+
+      //   Refferal
+      .tb__userMine__ref {
+        margin-top: 20px;
+        box-shadow: 0 0px 3px rgba(4, 4, 7, 0.1);
+        padding: 15px 10px;
+        border-radius: 5px;
+        background: $bg-body;
+        @include sectionTitle();
+        .tb__userMine__field {
+          display: flex;
+          align-items: center;
+          margin-top: 10px;
+          a,
+          button {
+            background: $tb-text-dark-color;
+            font-size: 16px;
+            font-weight: 500 !important;
+            border: none;
+            color: $text-white;
+            padding: 7px 12px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+          }
+          input {
+            width: 100%;
+            padding: 8px 10px;
+            outline: none;
+            border: $border-1;
+            color: $tb-text-dark-color;
+            font-size: 16px;
+          }
+        }
+      }
+      //   Share
+      .tb__userMine__share {
+        margin-top: 20px;
+        box-shadow: 0 0px 3px rgba(4, 4, 7, 0.1);
+        padding: 15px 10px;
+        border-radius: 5px;
+        background: $bg-body;
+        @include sectionTitle();
+        .tb__userMine__link {
+          margin-top: 10px;
+          display: grid;
+          grid-template-columns: repeat(2, 1fr);
+          align-items: center;
+          gap: 10px;
+          button {
+            width: 100%;
+            background: $tb-text-dark-color;
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 7px 12px;
+            border-radius: 5px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            gap: 5px;
+            svg {
+              font-size: 22px;
+              color: $text-white;
+            }
+            span {
+              font-size: 16px;
+              color: $text-white;
+            }
+          }
+        }
+      }
+    }
+  }
+}
+// Change passwod Modal
+.tb__changepassword__modal {
+  .tb__userMine__password__fields {
+    form {
+      .tb__userMine__password__field {
+        display: flex;
+        flex-direction: column;
+        gap: 10px;
+        width: 100%;
+        .tb__userMine__password__group {
+          width: 100%;
+          display: flex;
+          align-items: flex-start;
+          flex-wrap: wrap;
+          label {
+            font-size: 15px;
+            color: $tb-text-dark-color;
+            font-weight: 500 !important;
+          }
+          input {
+            padding: 10px 10px;
+            outline: none;
+            border-radius: 5px;
+            width: 100%;
+            border: $border-1;
+          }
+        }
+      }
+      .tb__userMine__showPassword {
+        display: flex;
+        align-items: center;
+        margin-top: 5px !important;
+        gap: 5px;
+        input {
+          width: 15px;
+          height: 15px;
+        }
+        label {
+          color: $tb-text-dark-color;
+          font-size: 15px;
+          font-weight: 500 !important;
+        }
+      }
+      .tb__userMine__button {
+        margin-top: 10px !important;
+        button {
+          background: $tb-text-dark-color;
+          font-size: 16px;
+          font-weight: 500 !important;
+          border: none;
+          color: $text-white;
+          padding: 10px 15px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}
+// Add Bank Modal
+.tb__addBank__modal {
+  .tb__userMine__bankInfo__fields {
+    form {
+      .tb__userMine__bankInfo__field {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        gap: 10px;
+        width: 100%;
+        .tb__userMine__bankInfo__group {
+          width: 100%;
+          display: flex;
+          flex-wrap: wrap;
+          label {
+            font-size: 15px;
+            color: $tb-text-dark-color;
+            font-weight: 500 !important;
+          }
+          input {
+            padding: 10px 10px;
+            outline: none;
+            border-radius: 5px;
+            width: 100%;
+            border: $border-1;
+          }
+        }
+      }
+      .tb__userMine__button {
+        margin-top: 10px !important;
+        button {
+          background: $tb-text-dark-color;
+          font-size: 16px;
+          font-weight: 500 !important;
+          border: none;
+          color: $text-white;
+          padding: 10px 15px;
+          border-radius: 5px;
+        }
+      }
+    }
+  }
+}

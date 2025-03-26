@@ -1,0 +1,46 @@
+.ss-trade_all_card {
+    box-shadow: $box-shadow;
+    border-radius: 5px;
+    background-color: $bg-white !important;
+    .ss-trade_section_title {
+      h2 {
+        color: $text-default-color;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+  .ss-trade_all_Auth_card {
+    box-shadow: 0 5px 5px 0 rgb(82 63 105 / 5%);
+    border-radius: 5px;
+    background-color: #fff !important;
+    .ss-trade_section_title {
+      h2 {
+        color: #7987a1 !important;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+  
+  .hashPro_all_card {
+    box-shadow: $box-shadow;
+    border-radius: 5px;
+    background-color: $bg-white !important;
+    .hashPro_section_title {
+      h2 {
+        color: $text-default-color;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+  .hashPro_all_Auth_card {
+    box-shadow: 0 5px 5px 0 rgb(82 63 105 / 5%);
+    border-radius: 5px;
+    background-color: #fff !important;
+    .hashPro_section_title {
+      h2 {
+        color: #7987a1 !important;
+        transition: all 0.3s ease-in-out;
+      }
+    }
+  }
+  

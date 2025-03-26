@@ -1,0 +1,19 @@
+// For variables
+@import "./abstract/variables";
+// For global css
+@import "./global/global";
+@import "./global/reset";
+// For container
+@import "./containers/index";
+// For components
+@import "./components/index";
+// For responsive
+@import "./responsive/breakpoints";
+// For layout
+@import "./layout/index";
+
+// App.js css
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden !important;
+}

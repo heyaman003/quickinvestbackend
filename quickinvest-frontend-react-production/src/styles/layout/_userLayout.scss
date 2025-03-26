@@ -1,0 +1,20 @@
+@import "../abstract/variables";
+@import "../responsive/breakpoints";
+
+.tb__layout {
+  .user__container {
+    .tb__topHeader__area {
+      position: sticky;
+      top: 0px;
+      z-index: 999;
+    }
+    .tb__content__area {
+      min-height: calc(100vh - 160px);
+    }
+    .tb__layout__footer {
+      position: sticky;
+      bottom: 0px;
+      z-index: 9;
+    }
+  }
+}

@@ -1,0 +1,196 @@
+.admin__balance__area {
+    padding: 25px !important;
+    margin-bottom: 20px;
+    .admin__balance {
+      text-align: end;
+    }
+    .usdt_balance {
+      font-size: 25px !important;
+    }
+  
+    .admin__balance h2 {
+      font-size: 18px;
+      color: $text-black;
+    }
+  }
+  
+  .ss-trade_sectiontable_wrapper {
+    margin-top: 20px;
+    .ss-trade_sectiontable_card {
+      padding: 25px;
+      min-height: 250px;
+      .ss-trade_sectiontable_title {
+        margin-bottom: 20px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        @include breakpoints(tablet) {
+          display: inherit;
+        }
+        .ss-trade_sectiontable_title_container {
+          @include breakpoints(tablet) {
+            margin-bottom: 10px;
+          }
+          h2 {
+            font-size: 15px;
+            text-align: left;
+            color: $text-p-color;
+            text-transform: uppercase;
+            margin-bottom: 10px !important;
+            position: relative;
+            margin-left: 9px !important;
+            font-weight: 500 !important;
+            &::before {
+              content: "";
+              position: absolute;
+              width: 3px;
+              height: 87%;
+              background: $text-menu-active-color;
+              top: 1px;
+              left: -8px;
+              bottom: 0;
+            }
+          }
+          .ss-trade_giftAllButton {
+            margin-right: 5px;
+            border: none;
+            border-radius: 5px;
+            padding: 5px 10px;
+            color: white;
+            cursor: pointer;
+            background-color: rgb(41 156 13);
+          }
+          :disabled {
+            background: #9b9696 !important;
+            cursor: no-drop !important;
+          }
+          .ss-trade_sectiontable_balance {
+            h2 {
+              font-size: 20px;
+              color: $text-default-color;
+              background-color: $bg-menu-active-color;
+              border-radius: 50px;
+              padding: 10px 30px;
+              @include breakpoints(tablet) {
+                margin-top: 10px !important;
+              }
+            }
+          }
+        }
+        .left {
+          display: flex;
+          align-items: center;
+          @include breakpoints(largeMiniMobile) {
+            flex-direction: column !important;
+          }
+          .downloadCSV_button {
+            border: none;
+            background-color: $bg-thin-green;
+            padding: 5px 10px;
+            border-radius: 5px;
+            margin-right: 10px;
+            color: white;
+          }
+          .select_input_box {
+            margin-left: 10px;
+            .select_input {
+              padding: 10px;
+              border-radius: 5px;
+              outline: none;
+              color: $text-p-color;
+              background: $bg-body;
+              font-size: 14px;
+              border: none;
+              border: $border-header;
+              min-width: 80px;
+            }
+          }
+          .searchbar_input {
+            .spacial_search_input {
+              padding: 10px;
+              border-radius: 5px;
+              outline: none;
+              color: $text-p-color;
+              background: $bg-body;
+              font-size: 14px;
+              border: none;
+              border: $border-header;
+              min-width: 200px;
+            }
+          }
+          .send-all {
+            width: 130px;
+            padding: 10px 8px;
+            height: max-content;
+            background: $bg-thin-green;
+            color: #fff;
+            font-size: 14px;
+            font-weight: 500;
+            border: none;
+            text-transform: capitalize;
+            border-radius: 3px;
+            cursor: pointer;
+            transition: all 0.3s ease-in-out;
+            margin-right: 10px;
+            @include breakpoints(largeMiniMobile) {
+              margin-bottom: 10px;
+            }
+            &:hover {
+              opacity: 0.8;
+            }
+          }
+        }
+      }
+      .ss-trade_sectiontable_table {
+        .common_table {
+          width: 100%;
+        }
+      }
+      .ss-trade_sectiontable_calculate {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        @include breakpoints(tablet) {
+          display: inherit;
+        }
+        h2 {
+          font-size: 20px;
+          font-weight: 600;
+          padding: 10px 0;
+          text-align: center;
+          border-radius: 50px;
+          color: #fff;
+          width: 40%;
+          margin: auto;
+          @include breakpoints(tablet) {
+            width: 100%;
+            font-size: 16px;
+          }
+        }
+        .credit_balance {
+          background: $bg-blue-linear-gradient;
+          box-shadow: $box-shadow-sidebar-menu;
+          @include breakpoints(tablet) {
+            margin-bottom: 20px !important;
+          }
+        }
+        .debit_balance {
+          background: $bg-success-linear-gradient;
+          box-shadow: $box-shadow-sidebar-menu;
+        }
+      }
+    }
+  }
+  
+  // ind button
+  
+  .filter_button {
+    border: none;
+    background-color: $bg-thin-green;
+    padding: 10px 20px;
+    border-radius: 5px;
+    margin-right: 10px;
+    color: white;
+    margin-left: 10px;
+  }
+  

@@ -1,0 +1,110 @@
+.ss-trade_reward_page_wrapper {
+    margin-top: 20px;
+    .ss-trade_reward_form_card {
+      padding: 25px;
+      min-height: 250px;
+      .ss-trade_section_title {
+        margin-bottom: 20px;
+        h2 {
+          font-size: 20px;
+          color: $text-default-color;
+          transition: all 0.3s ease-in-out;
+        }
+      }
+    }
+  }
+  
+  .UserEarning_wallet_page_wrapper {
+    .UserEarning_dash_content {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+      grid-row-gap: 20px;
+      grid-column-gap: 20px;
+      margin-top: 20px;
+      @include breakpoints(4kdevice) {
+        grid-template-columns: repeat(4, 1fr);
+        row-gap: 15px;
+      }
+      @include breakpoints(tablet) {
+        grid-template-columns: repeat(1, 1fr);
+        row-gap: 15px;
+      }
+  
+      .LevelIncome_UserIncomeCard_dash_card_wrapper {
+        background-image: url("../../../assets/Admin/card.jpeg");
+        background-position: center center;
+        background-repeat: no-repeat;
+        background-size: 100% 100%;
+        position: relative;
+        padding: 44px 22px;
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        align-items: center;
+        justify-content: space-between;
+        background-color: $bg-white;
+        transition: all 0.3s ease-in-out;
+        box-shadow: $box-shadow-1;
+        border-radius: 10px;
+        @include breakpoints(laptop) {
+          // height: 60px;
+        }
+        @include breakpoints(tablet) {
+          height: auto;
+        }
+        .LevelIncome_UserIncomeCard_content {
+          position: relative;
+          z-index: 1;
+          display: flex;
+          align-items: center;
+          justify-content: space-between;
+          transition: all 0.3s ease-in-out;
+          justify-content: space-between;
+          .LevelIncome_UserIncomeCard_widget_info {
+            p {
+              font-size: 32px;
+              color: $text-p-color;
+              // white-space: nowrap;
+              -webkit-text-stroke: 0.1px black;
+              color: white;
+              text-shadow: 3px 3px 0 #000, -1px -1px 0 #000, 1px -1px 0 #000,
+                -1px 1px 0 #000, 1px 1px 0 #000;
+            }
+            h2 {
+              font-size: 24px;
+              color: #fff;
+              margin-bottom: 10px !important;
+            }
+            a {
+              color: $text-black;
+              font-size: 13px;
+              text-transform: capitalize;
+              font-weight: 500;
+              &:hover {
+                color: $text-menu-active-color;
+              }
+            }
+          }
+          .LevelIncome_UserIncomeCard_widget_icon {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            border-radius: 50%;
+            padding: 0px;
+            margin-right: 0px;
+            order: 2;
+            .LevelIncomeImageIcon {
+              width: 35px;
+              padding: 15px;
+            }
+            svg {
+              color: #fff;
+              font-size: 30px;
+              border-radius: 50px;
+              padding: 10px;
+            }
+          }
+        }
+      }
+    }
+  }
+  
