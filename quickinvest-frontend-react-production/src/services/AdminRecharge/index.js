@@ -15,20 +15,20 @@ export const adminRechargeApi = createApi({
   endpoints: (builder) => ({
     // get Recharge History Service
     getAllRechargeHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_recharge_history`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_recharge_history`,
       providesTags: ["adminUpdateRecharge"],
     }),
     getAllSuccessRecharge: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_success_recharge_history`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_success_recharge_history`,
       providesTags: ["adminUpdateRecharge"],
     }),
     getAllRejectRecharge: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_reject_recharge_history`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_reject_recharge_history`,
       providesTags: ["adminUpdateRecharge"],
     }),
     updateRechargeStatus: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/update_recharge_status",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/update_recharge_status`,
         method: "PUT",
         body,
       }),
@@ -36,7 +36,7 @@ export const adminRechargeApi = createApi({
     }),
     makeRecharge: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/make_recharge",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/make_recharge`,
         method: "POST",
         body,
       }),
@@ -44,7 +44,7 @@ export const adminRechargeApi = createApi({
     }),
     changeUPIandQR: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/update_manage_upi_qr",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/update_manage_upi_qr`,
         method: "POST",
         body,
       }),

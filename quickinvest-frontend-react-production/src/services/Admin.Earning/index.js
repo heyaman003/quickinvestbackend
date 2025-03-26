@@ -16,45 +16,45 @@ export const adminEarningApi = createApi({
     // getting level income for admin
     getLevelIncomeAdmin: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/private/get_level_income?page=${body.page}&pageNo=${body.pageNo}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_level_income?page=${body.page}&pageNo=${body.pageNo}`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // getting game wallet income for admin
     getGameWalletIncomeAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_game_wallet_income`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_game_wallet_income`,
       providesTags: ["admin"], // automatic-data fetching
     }),
 
     // getting ROI income for admin
     getRankIncomeAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_rank_income`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_rank_income`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // getting ROI income for admin
     getWinningAmountAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/winning-amount`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/winning-amount`,
       providesTags: ["admin"], // automatic-data fetching
     }),
 
     getROyaltyIncomeHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private//get_all_royalty_income_history`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private//get_all_royalty_income_history`,
       providesTags: ["admin"],
     }),
     // getting ROI income for admin
     getROIIncomeHistory: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/get_all_roi_history`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_roi_history`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     getDirectIncomeHistory: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/get_all_direct_income_history`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_direct_income_history`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     getJoiningBonusHistory: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/get_all_joining_bonus_history`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_joining_bonus_history`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     getAllRechargeRewardHistoryAdmin: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/get_all_recharge_reward_history`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_recharge_reward_history`,
       providesTags: ["admin"], // automatic-data fetching
     }),
   }),

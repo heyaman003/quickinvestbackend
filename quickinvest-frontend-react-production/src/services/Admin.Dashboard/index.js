@@ -15,7 +15,7 @@ export const adminDashboardApi = createApi({
   endpoints: (builder) => ({
     // getting all members for admin
     getDashboardInfoAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_admin_dashboard_data`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_admin_dashboard_data`,
       providesTags: ["admin"], // automatic-data fetching
     }),
   }),

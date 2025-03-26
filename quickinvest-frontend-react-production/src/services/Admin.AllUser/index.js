@@ -15,22 +15,22 @@ export const adminMemberApi = createApi({
   endpoints: (builder) => ({
     // getting all members for admin
     getAllMemberAdmin: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/user/get_all_users`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/get_all_users`,
       providesTags: ["adminUser"], // automatic-data fetching
     }),
     // getting active members for admin
     getActiveMemberAdmin: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/user/get_active_users`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/get_active_users`,
       providesTags: ["adminUser"], // automatic-data fetching
     }),
     // getting blocked members for admin
     getBlockedMemberAdmin: builder.query({
-      query: (body) => `http://localhost:8000/api/v1/private/user/get_blocked_users`,
+      query: (body) => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/get_blocked_users`,
       providesTags: ["adminUser"], // automatic-data fetching
     }),
     editUserList: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/user/edit_users",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/edit_users`,
         method: "PUT",
         body,
       }),
@@ -38,7 +38,7 @@ export const adminMemberApi = createApi({
     }),
     editUserStatus: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/user/change_user_status",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/change_user_status`,
         method: "PUT",
         body: { user_id: body.userId },
       }),
@@ -46,7 +46,7 @@ export const adminMemberApi = createApi({
     }),
     getRankStatusAdmin: builder.query({
       query: (query) =>
-        `http://localhost:8000/api/v1/private/user/get_rank_status?page=${query.page}&limit=${query.limit}&rank=${query.rank}&rankType=${query.rankType}&searchById=${query.searchById}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/private/user/get_rank_status?page=${query.page}&limit=${query.limit}&rank=${query.rank}&rankType=${query.rankType}&searchById=${query.searchById}`,
       providesTags: ["adminUser"], // automatic-data fetching
     }),
   }),

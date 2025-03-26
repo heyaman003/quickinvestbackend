@@ -15,13 +15,13 @@ export const adminSettingApi = createApi({
   endpoints: (builder) => ({
     // get PDF Link admin
     getPDFLink: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_pdf_link`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_pdf_link`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // For Update Password Admin
     updatePasswordAdmin: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/change_password",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/change_password`,
         method: "PUT",
         body,
       }),
@@ -30,14 +30,14 @@ export const adminSettingApi = createApi({
     // For Update Password Admin
     changePdfLind: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/change_pdf_link",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/change_pdf_link`,
         method: "POST",
         body,
       }),
       invalidatesTags: ["admin"], // automatic-data fetching
     }),
     getAllManualRechargeHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_manual_recharge`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_manual_recharge`,
     }),
   }),
 });

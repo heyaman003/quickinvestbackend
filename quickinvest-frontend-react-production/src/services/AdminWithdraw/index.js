@@ -15,20 +15,20 @@ export const adminWithdrawApi = createApi({
   endpoints: (builder) => ({
     // get Recharge History Service
     getAllWithdrawHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/show_all_withdraw`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/show_all_withdraw`,
       providesTags: ["adminWithdraw"], // automatic-data fetching
     }),
     completedWithdrawHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_success_withdraw`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_success_withdraw`,
       providesTags: ["adminWithdraw"],
     }),
     canceledWithdrawHistory: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_rejected_withdraw`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_rejected_withdraw`,
       providesTags: ["adminWithdraw"],
     }),
     updateWithdrawStatus: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private//update_withdraw_status",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private//update_withdraw_status`,
         method: "PUT",
         body,
       }),

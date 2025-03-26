@@ -15,12 +15,12 @@ export const adminSupportApi = createApi({
   endpoints: (builder) => ({
     // getting all members for admin
     getAllContactUsAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_contactus`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_contactus`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // getting active members for admin
     getAllSupportAdmin: builder.query({
-      query: () => `http://localhost:8000/api/v1/private/get_all_support`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_support`,
       providesTags: ["admin"], // automatic-data fetching
     }),
   }),

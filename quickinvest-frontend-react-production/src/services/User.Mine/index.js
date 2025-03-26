@@ -15,20 +15,20 @@ export const userMineApi = createApi({
   endpoints: (builder) => ({
     addBank: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/secure/addBank",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/addBank`,
         method: "POST",
         body,
       }),
     }),
     changePassword: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/secure/changePassword",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/changePassword`,
         method: "POST",
         body,
       }),
     }),
     getBank: builder.query({
-      query: () => `http://localhost:8000/api/v1/secure/getBank`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/getBank`,
     }),
   }),
 });

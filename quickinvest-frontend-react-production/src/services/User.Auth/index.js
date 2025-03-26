@@ -16,7 +16,7 @@ export const userAuthApi = createApi({
     // For User SignUp
     signUpUser: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/public/register",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/public/register`,
         method: "POST",
         body,
       }),
@@ -25,7 +25,7 @@ export const userAuthApi = createApi({
     // For User Login
     logInUser: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/public/login",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/public/login`,
         method: "POST",
         body,
       }),
@@ -34,7 +34,7 @@ export const userAuthApi = createApi({
     // For forget password
     forgotPassWord: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/public/forgotPassword",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/public/forgotPassword`,
         method: "POST",
         body,
       }),
@@ -43,7 +43,7 @@ export const userAuthApi = createApi({
     // For reset password
     resetPassWord: builder.mutation({
       query: (body) => ({
-        url: `http://localhost:8000/api/v1/public/resetPassword?token=${body.token}`,
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/public/resetPassword?token=${body.token}`,
         method: "POST",
         body,
       }),
@@ -52,12 +52,12 @@ export const userAuthApi = createApi({
 
     //sponsorID Validation
     getValidateSponsorId: builder.query({
-      query: (userId) => `http://localhost:8000/api/v1/public/checkSponsorId?userId=${userId}`,
+      query: (userId) => `${process.env.REACT_APP_SERVER_URI}/api/v1/public/checkSponsorId?userId=${userId}`,
       providesTags: ["Validate"], // automatic-data fetching
     }),
     //get Pdf Link
     getPdfLink: builder.query({
-      query: (userId) => `http://localhost:8000/api/v1/public/getPdfLink`,
+      query: (userId) => `${process.env.REACT_APP_SERVER_URI}/api/v1/public/getPdfLink`,
       providesTags: ["Validate"], // automatic-data fetching
     }),
   }),

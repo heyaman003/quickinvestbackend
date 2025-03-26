@@ -15,7 +15,7 @@ export const userTeamApi = createApi({
   endpoints: (builder) => ({
     getUserTeams: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/get_user_team?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_user_team?page=${body.page}&limit=${body.limit}`,
     }),
   }),
 });

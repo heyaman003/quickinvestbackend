@@ -16,26 +16,26 @@ export const adminDepositApi = createApi({
     // getting all deposit for admin
     getAllDepositAdmin: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/private/get_all_deposits?page=${body.page}&pageNo=${body.pageNo}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_all_deposits?page=${body.page}&pageNo=${body.pageNo}`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // getting success deposit for admin
     getSuccessDepositAdmin: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/private/get_success_deposits?page=${body.page}&pageNo=${body.pageNo}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_success_deposits?page=${body.page}&pageNo=${body.pageNo}`,
       providesTags: ["admin"], // automatic-data fetching
     }),
     // getting rejected deposit for admin
     getRejectDepositAdmin: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/private/get_rejected_deposits?page=${body.page}&pageNo=${body.pageNo}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/private/get_rejected_deposits?page=${body.page}&pageNo=${body.pageNo}`,
       providesTags: ["admin"], // automatic-data fetching
     }),
 
     // For User Recharge status change
     updateDepositStatusAdmin: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/private/update_deposit_status",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/private/update_deposit_status`,
         method: "PUT",
         body,
       }),

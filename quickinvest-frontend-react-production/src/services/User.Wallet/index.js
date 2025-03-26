@@ -16,7 +16,7 @@ export const userWalletApi = createApi({
     // add Recharge service
     addRecharge: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/secure/userRecharge",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/userRecharge`,
         method: "POST",
         body,
       }),
@@ -25,50 +25,50 @@ export const userWalletApi = createApi({
     // get Recharge History Service
     getRechargeHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/userGetAllRecharge?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/userGetAllRecharge?page=${body.page}&limit=${body.limit}`,
       providesTags: ["user"], // automatic-data fetching
     }),
     getBank: builder.query({
-      query: () => "http://localhost:8000/api/v1/secure/getBank",
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/getBank`,
     }),
     withdrawAmount: builder.mutation({
       query: (body) => ({
-        url: "http://localhost:8000/api/v1/secure/withdraw_amount",
+        url: `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/withdraw_amount`,
         method: "POST",
         body,
       }),
       invalidatesTags: ["user"], // automatic-data fetching
     }),
     getMyWallet: builder.query({
-      query: () => "http://localhost:8000/api/v1/secure/get_mywallet",
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_mywallet`,
     }),
     getWithdrawHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/get_withdraw_history?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_withdraw_history?page=${body.page}&limit=${body.limit}`,
     }),
     // get Direct Income History Service
     getDirectIncomeHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/get_direct_icome_history?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_direct_icome_history?page=${body.page}&limit=${body.limit}`,
     }),
     getUpiQr: builder.query({
-      query: () => "http://localhost:8000/api/v1/secure/getUpiQr",
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/getUpiQr`,
     }),
     getROIIncomeHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/get_roi_icome_history?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_roi_icome_history?page=${body.page}&limit=${body.limit}`,
     }),
     getRoyaltyIncomeHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/get_royalty_income?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_royalty_income?page=${body.page}&limit=${body.limit}`,
     }),
     getJoiningBonusHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/userGetAllJoiningBonus?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/userGetAllJoiningBonus?page=${body.page}&limit=${body.limit}`,
     }),
     getRewardHistory: builder.query({
       query: (body) =>
-        `http://localhost:8000/api/v1/secure/userGetAllRechargeReward?page=${body.page}&limit=${body.limit}`,
+        `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/userGetAllRechargeReward?page=${body.page}&limit=${body.limit}`,
     }),
   }),
 });

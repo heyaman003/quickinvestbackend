@@ -14,7 +14,7 @@ export const userHomeApi = createApi({
   tagTypes: ["user"], // automatic-data fetching
   endpoints: (builder) => ({
     getUserDashboardData: builder.query({
-      query: () => `http://localhost:8000/api/v1/secure/get_user_dashboard_data`,
+      query: () => `${process.env.REACT_APP_SERVER_URI}/api/v1/secure/get_user_dashboard_data`,
     }),
   }),
 });
