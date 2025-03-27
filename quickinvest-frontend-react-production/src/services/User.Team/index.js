@@ -11,7 +11,7 @@ export const userTeamApi = createApi({
       return headers;
     },
   }),
-  tagTypes: ["user"], // automatic-data fetching
+  tagTypes: ["user"], // automatic-data fetching done
   endpoints: (builder) => ({
     getUserTeams: builder.query({
       query: (body) =>
