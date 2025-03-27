@@ -21,6 +21,7 @@ const { ROIScript, MakePackage } = require("./src/utils/ROIScript");
 const corsOptions = {
   origin: [
     "http://localhost:3000",
+    "http://47.128.225.231/",
     "https://www.quickinvest.org",
     "https://quickinvest.org",
     "https://development.quickinvest.org",
