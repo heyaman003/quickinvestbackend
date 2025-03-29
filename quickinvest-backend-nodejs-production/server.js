@@ -22,7 +22,7 @@ const corsOptions = {
   origin: [
     "http://localhost:3000",
     "http://47.128.225.231/",
-    "https://quickinvestbackend.vercel.app/",
+    "https://quickinvestbackend-b2g9.vercel.app/",
     "https://www.quickinvest.org",
     "https://quickinvest.org",
     "https://development.quickinvest.org",
